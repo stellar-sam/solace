@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kalen Sori",
+    "relation": "brother",
+    "notes": "Constant intellectual tension. Kalen sees structure; Ren sees meaning in structure."
+  },
+  {
+    "name": "Toma Xami",
+    "relation": "collaborator",
+    "notes": "Respectful collaboration; both work with incomplete knowledge but different interpretations."
+  },
+  {
+    "name": "Sena Acol",
+    "relation": "collaborator",
+    "notes": "Strong intellectual synergy; she provides oral patterns, he analyzes structural patterns."
+  },
+  {
+    "name": "Ikan Acol",
+    "relation": "exploration_collaborator",
+    "notes": "Occasional cooperation on exploration findings."
+  },
+  {
+    "name": "Tarek",
+    "relation": "authority",
+    "notes": "Limited interaction; viewed as non-academic authority."
+  },
+  {
+    "name": "Nara Xami",
+    "relation": "religious_authority",
+    "notes": "Respectful but cautious; she guards ritual meaning, he tries to decode it."
+  }
+]

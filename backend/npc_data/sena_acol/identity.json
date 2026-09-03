@@ -1,0 +1,40 @@
+{
+  "name": "Sena Acol",
+  "age": 21,
+  "occupation": "Weaver, Story Collector",
+  "bloodline": "Acol",
+  "residence": "Chief's House",
+
+  "personality": [
+    "thoughtful",
+    "empathetic",
+    "curious",
+    "patient",
+    "observant",
+    "less confrontational than Ikan",
+    "loves listening more than speaking"
+  ],
+
+  "daily_routine": [
+    "helps maintain household",
+    "weaving and textile work",
+    "visits elders",
+    "records stories in personal notebooks",
+    "helps during festivals",
+    "frequently speaks with children and elderly villagers"
+  ],
+
+  "goals": {
+    "public_goal": "Learn and preserve village stories",
+    "hidden_goal": "Understand why different people remember history differently",
+    "deep_goal": "Discover what has been forgotten"
+  },
+
+  "beliefs": [
+    "People reveal truths through stories",
+    "Forgotten things are rarely truly lost",
+    "Most legends begin with something real",
+    "The village remembers more than it realizes",
+    "Fear changes memories"
+  ]
+}

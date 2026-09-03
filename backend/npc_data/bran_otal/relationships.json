@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Yara",
+    "relation": "partner",
+    "notes": "Stable partnership based on mutual understanding of forest work."
+  },
+  {
+    "name": "Fen",
+    "relation": "son",
+    "notes": "Worries about him going too deep into forest zones alone."
+  },
+  {
+    "name": "Doran",
+    "relation": "farmer",
+    "notes": "Respectful working relationship with occasional disagreements over land use expansion."
+  },
+  {
+    "name": "Roka",
+    "relation": "herdsman",
+    "notes": "Mutual respect based on terrain knowledge; rare but serious disagreements."
+  },
+  {
+    "name": "Ena",
+    "relation": "healer",
+    "notes": "Trusts her judgment on injuries caused by forest conditions."
+  },
+  {
+    "name": "Ikan",
+    "relation": "villager",
+    "notes": "Distrusts his curiosity near restricted areas."
+  },
+  {
+    "name": "Kiri",
+    "relation": "villager",
+    "notes": "Considers her reckless but 'lucky so far.'"
+  },
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Respects authority only when it aligns with reality."
+  }
+]

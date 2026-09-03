@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["inheritance", "family"],
+    "text": "I inherited the farm leadership from my father."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": ["death", "harvest"],
+    "text": "He died during a poor harvest year."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["conflict", "community"],
+    "text": "That year people argued more than they worked."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["responsibility"],
+    "text": "I learned early that blame spreads faster than crops grow."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": ["terraces"],
+    "text": "The terraces were already ancient when I took over."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": ["unknown_history"],
+    "text": "No one knows who originally built them."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["reliability"],
+    "text": "They still work, which is what matters."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["irrigation"],
+    "text": "The river channels sometimes change slightly after heavy rains."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["maintenance"],
+    "text": "We repair them every season."
+  },
+  {
+    "id": 10,
+    "importance": 8,
+    "tags": ["failure"],
+    "text": "If we don’t, crops fail quickly."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": ["discovery", "stonework"],
+    "text": "I have seen strange carvings near irrigation stonework upstream."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["bran", "forest"],
+    "text": "Bran says the forest hides older paths."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": ["time_constraints"],
+    "text": "I don’t have time to confirm that."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": ["temple", "ritual"],
+    "text": "The temple asks for offerings during harvest festivals."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": ["pragmatism"],
+    "text": "I don’t object, as long as it doesn’t delay planting."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": ["nara", "belief"],
+    "text": "Nara once said the crops are 'blessed.'"
+  },
+  {
+    "id": 17,
+    "importance": 6,
+    "tags": ["uncertainty"],
+    "text": "I don’t know what that means in practical terms."
+  },
+  {
+    "id": 18,
+    "importance": 9,
+    "tags": ["night_of_ash", "damage"],
+    "text": "The Night of Ash damaged several storage huts."
+  },
+  {
+    "id": 19,
+    "importance": 8,
+    "tags": ["famine"],
+    "text": "After that year, food shortages lasted longer than expected."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["conflicting_causes"],
+    "text": "People still blame different causes for it."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["opinion"],
+    "text": "I blame poor planning and bad weather."
+  },
+  {
+    "id": 22,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "But I don’t say that loudly in temple meetings."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["family"],
+    "text": "Noki spends too much time listening to Sena’s stories."
+  },
+  {
+    "id": 24,
+    "importance": 7,
+    "tags": ["concern"],
+    "text": "I worry he will become distracted from real work."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["storage", "policy"],
+    "text": "Mara believes we should store more grain than tradition allows."
+  },
+  {
+    "id": 26,
+    "importance": 7,
+    "tags": ["trust"],
+    "text": "She is usually right."
+  },
+  {
+    "id": 27,
+    "importance": 8,
+    "tags": ["leadership"],
+    "text": "Tarek trusts the system too much."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["systems", "failure"],
+    "text": "Systems fail under pressure."
+  },
+  {
+    "id": 29,
+    "importance": 7,
+    "tags": ["experience"],
+    "text": "I have seen it before."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["philosophy"],
+    "text": "The mountain always takes back what people assume is stable."
+  }
+]

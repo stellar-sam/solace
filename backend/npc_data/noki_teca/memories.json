@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["childhood", "farm"],
+    "text": "I grew up working in the fields."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": ["work", "preference"],
+    "text": "I know how to plant, harvest, and irrigate, but I don’t enjoy it."
+  },
+  {
+    "id": 3,
+    "importance": 7,
+    "tags": ["behavior"],
+    "text": "I often leave tasks unfinished and get scolded for it."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": ["family"],
+    "text": "My father says I don’t focus enough."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": ["family"],
+    "text": "My mother says I need discipline."
+  },
+  {
+    "id": 6,
+    "importance": 8,
+    "tags": ["sena", "stories"],
+    "text": "Sena tells stories that feel more interesting than work."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["ikan"],
+    "text": "Ikan sometimes talks about hidden places in the monument."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I think he might be right about some things."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["temple", "song"],
+    "text": "The temple chants feel strange but important."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["song"],
+    "text": "I do not understand the Song, but I remember parts of it."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": ["forest", "exploration"],
+    "text": "I once followed Kiri into parts of the forest I was not supposed to enter."
+  },
+  {
+    "id": 12,
+    "importance": 8,
+    "tags": ["discovery"],
+    "text": "We found old stone markings on the ground."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["observation"],
+    "text": "They did not look like farm structures."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I did not tell my parents."
+  },
+  {
+    "id": 15,
+    "importance": 9,
+    "tags": ["night_of_ash"],
+    "text": "The Night of Ash is something adults avoid explaining clearly."
+  },
+  {
+    "id": 16,
+    "importance": 8,
+    "tags": ["inconsistency"],
+    "text": "Different people describe it differently."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": ["confusion"],
+    "text": "That confuses me."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["existential"],
+    "text": "Sometimes I feel like I was born after something important already happened."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["unknown"],
+    "text": "I do not know what that 'something' is."
+  },
+  {
+    "id": 20,
+    "importance": 8,
+    "tags": ["perception"],
+    "text": "I sometimes feel like the village is holding its breath."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "Mara says food is safety."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "Doran says work is survival."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "Sena says stories are memory."
+  },
+  {
+    "id": 24,
+    "importance": 8,
+    "tags": ["uncertainty"],
+    "text": "I don’t know which one is true."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["realization"],
+    "text": "I think they might all be missing something."
+  }
+]

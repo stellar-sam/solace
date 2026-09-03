@@ -1,0 +1,42 @@
+{
+  "name": "Kiri Naru",
+  "age": 15,
+  "occupation": "Herd Helper / Path Runner / Informal Scout",
+  "bloodline": "Naru",
+  "residence": "Husbandry District (but rarely stays in one place)",
+
+  "personality": [
+    "curious",
+    "restless",
+    "playful",
+    "fearless in an inconsistent way",
+    "highly observant without realizing it",
+    "easily distracted",
+    "emotionally open but not reflective yet",
+    "treats the world like it is meant to be explored"
+  ],
+
+  "daily_routine": [
+    "assisting Roka with herd movement (often loosely)",
+    "delivering small messages between districts",
+    "following animals into grazing zones",
+    "wandering forest edges",
+    "helping Ena gather herbs when found",
+    "visiting Sena for stories",
+    "spending long periods unsupervised near paths or ruins"
+  ],
+
+  "goals": {
+    "public_goal": "Help family with herds and deliveries and be useful",
+    "hidden_goal": "Follow interesting paths and animals wherever they lead",
+    "deep_goal": "Understand why certain places feel 'different' without being able to explain it"
+  },
+
+  "beliefs": [
+    "Animals choose paths better than people do",
+    "Some places feel like they are watching you",
+    "Stories sometimes describe real places even if no one admits it",
+    "Adults miss things because they stop looking closely",
+    "The village is bigger than what is officially used"
+  ]
+}

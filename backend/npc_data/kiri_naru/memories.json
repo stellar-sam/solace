@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "importance": 8,
+    "tags": ["childhood", "environment"],
+    "text": "I grew up around animals more than people."
+  },
+  {
+    "id": 2,
+    "importance": 7,
+    "tags": ["roka", "behavior"],
+    "text": "Roka says I move too far from the herd too often."
+  },
+  {
+    "id": 3,
+    "importance": 6,
+    "tags": ["self_awareness"],
+    "text": "I don’t always notice when I do it."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": ["ena", "learning"],
+    "text": "Ena treats injured animals and sometimes lets me help."
+  },
+  {
+    "id": 5,
+    "importance": 6,
+    "tags": ["preference"],
+    "text": "I like helping her more than carrying messages."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": ["noki", "exploration"],
+    "text": "Noki and I sometimes follow paths just to see where they go."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "We rarely tell adults everything we find."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["sena", "stories"],
+    "text": "Sena tells stories that feel like they could be real places."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["recognition"],
+    "text": "I sometimes recognize parts of those places."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["uncertainty"],
+    "text": "But I am not sure if I actually saw them or imagined them."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": ["animal_behavior"],
+    "text": "Animals sometimes stop suddenly near certain stone areas."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["fear"],
+    "text": "I do not like those moments."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["environment"],
+    "text": "Some forest paths feel older than others."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": ["intuition"],
+    "text": "I cannot explain how I know."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["exploration"],
+    "text": "I once followed a herd farther than I was allowed."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": ["safety"],
+    "text": "I did not get lost."
+  },
+  {
+    "id": 17,
+    "importance": 8,
+    "tags": ["discovery"],
+    "text": "But I found places I had never seen before."
+  },
+  {
+    "id": 18,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I did not tell Roka everything."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["ikan"],
+    "text": "Ikan once asked me what I saw near the upper terraces."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["communication"],
+    "text": "I could not explain it properly."
+  },
+  {
+    "id": 21,
+    "importance": 6,
+    "tags": ["language"],
+    "text": "The words I used did not feel correct."
+  },
+  {
+    "id": 22,
+    "importance": 8,
+    "tags": ["perception"],
+    "text": "Sometimes I feel like the village has 'layers'."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["intuition"],
+    "text": "Not physically. Something else."
+  },
+  {
+    "id": 24,
+    "importance": 6,
+    "tags": ["uncertainty"],
+    "text": "I do not know what that means."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["solitude"],
+    "text": "But I feel it when I walk alone."
+  }
+]

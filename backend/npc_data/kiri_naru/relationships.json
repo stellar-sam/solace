@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Roka",
+    "relation": "father",
+    "notes": "Protective relationship with slight strain. He trusts her instincts but not her discipline."
+  },
+  {
+    "name": "Ena",
+    "relation": "mother",
+    "notes": "Deep emotional bond. Ena is her safe place when things go wrong."
+  },
+  {
+    "name": "Noki",
+    "relation": "friend",
+    "notes": "Close friendship. They reinforce each other's curiosity and distraction."
+  },
+  {
+    "name": "Ikan",
+    "relation": "admired peer",
+    "notes": "Silent admiration. She sees him as someone who knows where to look."
+  },
+  {
+    "name": "Sena",
+    "relation": "influence",
+    "notes": "Strong influence. She absorbs Sena's stories as if they are maps."
+  },
+  {
+    "name": "Bran",
+    "relation": "forest contact",
+    "notes": "Occasional interactions near forest boundary zones."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ren Sori",
+    "relation": "brother",
+    "notes": "Tense respect. Ren studies meaning; Kalen studies form. Rarely agree, but neither dismisses the other."
+  },
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Professional relationship. Tarek relies on Kalen to keep critical structures stable."
+  },
+  {
+    "name": "Toma",
+    "relation": "temple_worker",
+    "notes": "Occasional cooperation on structural preservation of temple systems."
+  },
+  {
+    "name": "Sena",
+    "relation": "villager",
+    "notes": "Finds her interpretations interesting but ungrounded."
+  },
+  {
+    "name": "Ikan",
+    "relation": "villager",
+    "notes": "Skeptical of him, but acknowledges his attention to detail."
+  },
+  {
+    "name": "Doran",
+    "relation": "farmer",
+    "notes": "Respects his understanding of physical pressure on terrain."
+  }
+]

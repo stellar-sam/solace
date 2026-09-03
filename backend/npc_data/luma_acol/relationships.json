@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tarek",
+    "relation": "husband",
+    "notes": "Loves him deeply. Believes he carries too many burdens alone."
+  },
+  {
+    "name": "Ikan",
+    "relation": "stepson",
+    "notes": "Worries about his curiosity. Sees much of her younger self in him."
+  },
+  {
+    "name": "Sena",
+    "relation": "stepdaughter",
+    "notes": "Very close. Sena shares things with Luma she tells nobody else."
+  },
+  {
+    "name": "Nara",
+    "relation": "longtime friend",
+    "notes": "Occasionally disagree about traditions."
+  },
+  {
+    "name": "Mara",
+    "relation": "colleague",
+    "notes": "Often works together during harvest seasons."
+  },
+  {
+    "name": "Elira",
+    "relation": "friend",
+    "notes": "One of the few villagers who still treats her kindly."
+  }
+]

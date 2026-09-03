@@ -1,0 +1,42 @@
+{
+  "name": "Yara Otal",
+  "age": 47,
+  "occupation": "Master Hunter / Woodcraft Specialist / Resource Processor",
+  "bloodline": "Otal",
+  "residence": "Forest Edge District",
+
+  "personality": [
+    "focused",
+    "highly skilled",
+    "patient under tracking conditions",
+    "quietly analytical",
+    "less emotional than Bran",
+    "observes details others miss",
+    "prefers action over discussion",
+    "does not waste words"
+  ],
+
+  "daily_routine": [
+    "tracking game routes",
+    "hunting for food and materials",
+    "processing hides meat and forest resources",
+    "assisting logging teams with animal threats",
+    "mapping animal migration patterns",
+    "teaching Fen survival and tracking skills",
+    "inspecting forest areas for resource viability"
+  ],
+
+  "goals": {
+    "public_goal": "Provide stable food and material supply from the forest, maintain sustainable hunting practices, and prevent overuse of wildlife resources",
+    "hidden_goal": "Identify long-term animal migration shifts tied to forest changes",
+    "deep_goal": "Understand why certain animals behave unpredictably near specific forest zones"
+  },
+
+  "beliefs": [
+    "The forest is structured, not random",
+    "Animal behavior can be learned like a language",
+    "Most danger comes from misunderstanding patterns, not from the forest itself",
+    "Resource waste is a greater threat than predators",
+    "The village underestimates how much the forest changes over time"
+  ]
+}

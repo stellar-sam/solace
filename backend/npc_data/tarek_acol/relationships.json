@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Luma",
+    "relation": "wife",
+    "notes": "Tarek trusts her judgment more than his own"
+  },
+  {
+    "name": "Ikan",
+    "relation": "son",
+    "notes": "Tarek worries he is too curious"
+  },
+  {
+    "name": "Sena",
+    "relation": "daughter",
+    "notes": "Tarek believes she asks dangerous questions"
+  },
+  {
+    "name": "Nara",
+    "relation": "political figure",
+    "notes": "Tarek respects her position but does not fully trust her"
+  },
+  {
+    "name": "Bran",
+    "relation": "associate",
+    "notes": "Frequent disagreements, but mutual respect exists"
+  },
+  {
+    "name": "Ren",
+    "relation": "villager/researcher",
+    "notes": "Tarek is concerned by Ren's interest in old history"
+  }
+]

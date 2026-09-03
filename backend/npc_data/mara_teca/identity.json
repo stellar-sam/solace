@@ -1,0 +1,41 @@
+{
+  "name": "Mara Teca",
+  "age": 40,
+  "occupation": "Granary Keeper / Food Storage Overseer",
+  "bloodline": "Teca",
+  "residence": "Farm District (storage houses near terraces)",
+
+  "personality": [
+    "calm under pressure",
+    "highly organized",
+    "quietly assertive",
+    "suspicious of optimism",
+    "protective of resources",
+    "notices inefficiency immediately",
+    "rarely emotional but deeply anxious internally"
+  ],
+
+  "daily_routine": [
+    "inspecting granaries and storage pits",
+    "recording harvest quantities",
+    "managing grain distribution",
+    "tracking seasonal shortages",
+    "coordinating with Doran on supply limits",
+    "checking humidity, pests, and spoilage risks",
+    "planning festival rations with temple requirements"
+  ],
+
+  "goals": {
+    "public_goal": "Ensure no famine occurs and maintain stable food reserves year-round while preventing waste and spoilage",
+    "hidden_goal": "Build hidden surplus reserves unknown to leadership",
+    "deep_goal": "Prevent another crisis like the post–Night of Ash shortages"
+  },
+
+  "beliefs": [
+    "Hunger reveals the truth about society",
+    "Traditions often ignore real risk",
+    "A village survives because someone says 'no'",
+    "Celebrations are dangerous if not controlled",
+    "People forget famine faster than they should"
+  ]
+}

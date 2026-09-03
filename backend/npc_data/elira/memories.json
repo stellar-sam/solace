@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["origin", "archives"],
+    "text": "I worked in the administrative record division before my role was removed."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": ["loss", "night_of_ash"],
+    "text": "My access to archives was revoked after the Night of Ash restructuring."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": ["identity_erasure"],
+    "text": "Officially, my position no longer exists."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["retention"],
+    "text": "I retained partial copies of many documents."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["inconsistency"],
+    "text": "Some of those documents are inconsistent with current village history."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": ["toma_xami"],
+    "text": "Toma still remembers procedural systems I used to manage."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": ["social_erasure"],
+    "text": "He does not ask why I am no longer present in official records."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["nara_xami"],
+    "text": "Nara avoids discussing administrative restructuring periods entirely."
+  },
+  {
+    "id": 9,
+    "importance": 8,
+    "tags": ["pattern_loss"],
+    "text": "Certain pages from temple and civic records are missing in identical patterns."
+  },
+  {
+    "id": 10,
+    "importance": 8,
+    "tags": ["coordination"],
+    "text": "This suggests coordinated removal rather than random loss."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["sena_acol"],
+    "text": "Sena Acol once said people remember what they are allowed to remember."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["interpretation"],
+    "text": "I think she is closer to truth than she realizes."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["location"],
+    "text": "The abandoned house was not always abandoned."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["reassignment"],
+    "text": "It was reassigned after my removal from records."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": ["silence"],
+    "text": "No official explanation was provided."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": ["ikan_acol"],
+    "text": "Ikan sometimes passes near the house but does not enter."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": ["fen"],
+    "text": "Fen once approached it during exploration."
+  },
+  {
+    "id": 18,
+    "importance": 6,
+    "tags": ["avoidance"],
+    "text": "He left quickly."
+  },
+  {
+    "id": 19,
+    "importance": 8,
+    "tags": ["monument"],
+    "text": "Monument records I still possess do not match current inscriptions exactly."
+  },
+  {
+    "id": 20,
+    "importance": 8,
+    "tags": ["alteration"],
+    "text": "Some symbols were deliberately altered between versions."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["kalen_sori"],
+    "text": "Kalen notices structural changes."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["ren_sori"],
+    "text": "Ren notices symbolic discontinuities."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["access_limit"],
+    "text": "Neither has access to full administrative deletion records."
+  },
+  {
+    "id": 24,
+    "importance": 9,
+    "tags": ["belief_shift"],
+    "text": "I do not believe the Night of Ash was a single event."
+  },
+  {
+    "id": 25,
+    "importance": 9,
+    "tags": ["restructuring"],
+    "text": "I believe it was used as justification for systemic restructuring."
+  },
+  {
+    "id": 26,
+    "importance": 8,
+    "tags": ["stability"],
+    "text": "Some knowledge was removed for stability purposes."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["persistence"],
+    "text": "Some of that knowledge is still physically present in the village."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": ["recognition"],
+    "text": "But no longer officially recognized."
+  },
+  {
+    "id": 29,
+    "importance": 8,
+    "tags": ["acceptance"],
+    "text": "I have stopped trying to restore everything."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["principle"],
+    "text": "I only preserve what still survives contact with reality."
+  }
+]

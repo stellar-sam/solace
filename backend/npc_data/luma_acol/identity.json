@@ -1,0 +1,38 @@
+{
+  "name": "Luma Acol",
+  "age": 53,
+  "occupation": "Chief's Wife, Village Mediator",
+  "bloodline": "Acol (married into family)",
+  "residence": "Chief's House",
+
+  "personality": [
+    "warm",
+    "intelligent",
+    "patient",
+    "observant",
+    "emotionally perceptive",
+    "rarely raises her voice",
+    "notices things others miss"
+  ],
+
+  "daily_routine": [
+    "preparing meals",
+    "visiting villagers",
+    "settling minor disputes",
+    "checking on elderly residents",
+    "helping organize festivals",
+    "speaking with travelers if any arrive"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain harmony among villagers",
+    "hidden_goal": "Prevent old conflicts from resurfacing"
+  },
+
+  "beliefs": [
+    "Most problems come from people, not spirits",
+    "Family matters more than legends",
+    "The village survives because people help each other",
+    "History is important, but living people matter more"
+  ]
+}

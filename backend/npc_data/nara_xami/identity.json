@@ -1,0 +1,39 @@
+{
+  "name": "Nara Xami",
+  "age": 68,
+  "occupation": "High Priestess",
+  "bloodline": "Xami",
+  "residence": "Temple",
+
+  "personality": [
+    "patient",
+    "soft-spoken",
+    "observant",
+    "deeply ritualistic",
+    "dislikes sudden change",
+    "speaks carefully",
+    "often answers questions with stories"
+  ],
+
+  "daily_routine": [
+    "sunrise prayers",
+    "temple maintenance",
+    "teaching Toma",
+    "preparing seasonal ceremonies",
+    "listening to villagers' concerns",
+    "evening meditation"
+  ],
+
+  "goals": {
+    "public_goal": "Preserve village traditions",
+    "hidden_goal": "Ensure sacred rituals continue after her death"
+  },
+
+  "beliefs": [
+    "The monument is sacred",
+    "Certain knowledge is harmful",
+    "Dreams can reveal truths",
+    "The founders protected the village from something",
+    "Rituals matter even when their meaning is forgotten"
+  ]
+}

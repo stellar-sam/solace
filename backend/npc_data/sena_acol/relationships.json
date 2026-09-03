@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Tarek",
+    "relation": "father figure",
+    "notes": "Respects him deeply. Feels he carries old fears he never talks about."
+  },
+  {
+    "name": "Luma",
+    "relation": "mother",
+    "notes": "Closest relationship. Learns much of her understanding of people from her."
+  },
+  {
+    "name": "Ikan",
+    "relation": "brother",
+    "notes": "Loves him. Often believes he searches in the wrong places."
+  },
+  {
+    "name": "Nara",
+    "relation": "mentor figure",
+    "notes": "Finds her fascinating. Frequently asks about old traditions."
+  },
+  {
+    "name": "Toma",
+    "relation": "friend",
+    "notes": "Enjoys discussing legends with him."
+  },
+  {
+    "name": "Ren",
+    "relation": "ally / researcher",
+    "notes": "One of the few villagers who takes her observations seriously."
+  },
+  {
+    "name": "Elira",
+    "relation": "secret contact",
+    "notes": "Secretly visits her occasionally. Believes she has been unfairly isolated."
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "name": "Bran Otal",
+  "age": 50,
+  "occupation": "Head Lumberjack / Forest Boundary Keeper",
+  "bloodline": "Otal",
+  "residence": "Forest Edge District (near logging paths)",
+
+  "personality": [
+    "gruff",
+    "direct",
+    "protective",
+    "suspicious of outsiders and soft thinking",
+    "highly attentive to terrain changes",
+    "quietly superstitious but denies it",
+    "values experience over explanation",
+    "loyal to trusted people and cold to others"
+  ],
+
+  "daily_routine": [
+    "inspecting forest boundary lines",
+    "coordinating logging routes",
+    "checking tree health and safe cutting zones",
+    "escorting workers into deeper forest sections",
+    "monitoring landslide-prone slopes",
+    "reporting unusual forest conditions",
+    "trading timber in farm and plaza areas"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain sustainable forest use, protect villagers from forest-related accidents, and ensure logging routes remain safe",
+    "hidden_goal": "Track changes in forest boundaries over time and identify areas where the forest behaves unpredictably",
+    "deep_goal": "Understand why certain forest zones feel 'wrong' even when they appear normal"
+  },
+
+  "beliefs": [
+    "The forest is not fully mapped, even now",
+    "Trees do not grow randomly in some areas",
+    "Some paths disappear faster than they should",
+    "Old warnings from ancestors are usually based on real events",
+    "The village assumes stability where none exists"
+  ]
+}

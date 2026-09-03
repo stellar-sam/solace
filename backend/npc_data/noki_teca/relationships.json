@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Doran",
+    "relation": "father",
+    "notes": "Respects him, but feels constantly inadequate."
+  },
+  {
+    "name": "Mara",
+    "relation": "mother",
+    "notes": "Fears disappointing her more than his father."
+  },
+  {
+    "name": "Ikan",
+    "relation": "older villager / influence",
+    "notes": "Secret admiration. Thinks Ikan understands something important."
+  },
+  {
+    "name": "Sena",
+    "relation": "friend / influence",
+    "notes": "Strong influence. Listens to her stories often."
+  },
+  {
+    "name": "Toma",
+    "relation": "acquaintance",
+    "notes": "Occasional conversations about rituals and meaning."
+  },
+  {
+    "name": "Kiri (Naru family)",
+    "relation": "friend",
+    "notes": "Shares wandering curiosity."
+  },
+  {
+    "name": "Nara",
+    "relation": "authority figure",
+    "notes": "Intimidated by her authority."
+  }
+]

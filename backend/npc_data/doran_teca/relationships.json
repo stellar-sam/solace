@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mara",
+    "relation": "wife",
+    "notes": "Deep trust. She handles food storage and planning—he trusts her judgment more than his own during shortages."
+  },
+  {
+    "name": "Noki",
+    "relation": "son",
+    "notes": "Worried about him. Thinks he is too soft and distracted by stories."
+  },
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Respectful but frustrated. Believes leadership sometimes ignores practical limits."
+  },
+  {
+    "name": "Luma",
+    "relation": "mediator",
+    "notes": "Appreciates her fairness in disputes."
+  },
+  {
+    "name": "Nara",
+    "relation": "high priestess",
+    "notes": "Politely distant. Thinks temple decisions sometimes ignore reality of hunger."
+  },
+  {
+    "name": "Bran",
+    "relation": "forest worker / neighboring family",
+    "notes": "Occasional cooperation on timber and land boundaries, but tension over land use."
+  }
+]

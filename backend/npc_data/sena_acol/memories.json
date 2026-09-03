@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["childhood", "stories"],
+    "text": "I have always enjoyed listening to elders tell stories."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["stories", "variation"],
+    "text": "The same story often changes depending on who tells it."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["observation"],
+    "text": "That difference interests me."
+  },
+  {
+    "id": 4,
+    "importance": 9,
+    "tags": ["night_of_ash", "memory"],
+    "text": "Many old villagers remember the Night of Ash differently."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["night_of_ash"],
+    "text": "Some describe fire."
+  },
+  {
+    "id": 6,
+    "importance": 8,
+    "tags": ["night_of_ash"],
+    "text": "Some describe light."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["night_of_ash"],
+    "text": "Some describe sounds."
+  },
+  {
+    "id": 8,
+    "importance": 9,
+    "tags": ["night_of_ash", "inconsistency"],
+    "text": "Very few describe the same event."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["nara", "memory"],
+    "text": "Nara once told me that memory is fragile."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I think she was right."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": ["children", "stories"],
+    "text": "Children often repeat stories they do not understand."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": ["hidden_meaning"],
+    "text": "Those stories sometimes contain unusual details."
+  },
+  {
+    "id": 13,
+    "importance": 8,
+    "tags": ["children", "monument"],
+    "text": "Several children have independently described 'stairs in the sky'."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": ["uncertainty"],
+    "text": "None could explain where they heard the phrase."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["songs", "language"],
+    "text": "The oldest songs contain words nobody understands."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["songs", "pattern"],
+    "text": "Those words appear in more than one song."
+  },
+  {
+    "id": 17,
+    "importance": 9,
+    "tags": ["monument", "legend"],
+    "text": "The monument appears in nearly every village legend."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["monument", "uncertainty"],
+    "text": "Yet nobody agrees on its purpose."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["legend_variants"],
+    "text": "Some stories claim it was a temple."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["legend_variants"],
+    "text": "Others claim it was a city."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["legend_variants"],
+    "text": "Others claim it was built by giants."
+  },
+  {
+    "id": 22,
+    "importance": 5,
+    "tags": ["belief"],
+    "text": "I do not believe the giant story."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["elira"],
+    "text": "Elira remembers details most villagers ignore."
+  },
+  {
+    "id": 24,
+    "importance": 6,
+    "tags": ["social"],
+    "text": "People dismiss her too quickly."
+  },
+  {
+    "id": 25,
+    "importance": 9,
+    "tags": ["family", "prophecy"],
+    "text": "My grandfather once told me: 'The village was built around a promise.'"
+  },
+  {
+    "id": 26,
+    "importance": 8,
+    "tags": ["loss"],
+    "text": "He died before explaining what promise he meant."
+  },
+  {
+    "id": 27,
+    "importance": 8,
+    "tags": ["heirlooms"],
+    "text": "Many villagers possess heirlooms they cannot explain."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": ["tradition"],
+    "text": "Families rarely discuss where those heirlooms came from."
+  },
+  {
+    "id": 29,
+    "importance": 9,
+    "tags": ["ancient_building", "carvings"],
+    "text": "The small ancient building contains carvings of people carrying objects."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["ancient_building", "connection"],
+    "text": "Several objects resemble heirlooms still found in the village."
+  }
+]

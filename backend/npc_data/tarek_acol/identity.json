@@ -1,0 +1,36 @@
+{
+  "name": "Tarek Acol",
+  "age": 57,
+  "occupation": "Village Chief",
+  "bloodline": "Acol",
+  "residence": "Chief's House near Plaza",
+
+  "personality": [
+    "calm",
+    "deliberate",
+    "protective",
+    "politically skilled",
+    "rarely shows emotion",
+    "values stability over truth"
+  ],
+
+  "daily_routine": [
+    "Morning plaza inspection",
+    "Talks with farmers",
+    "Resolves disputes",
+    "Visits temple weekly",
+    "Holds evening meetings"
+  ],
+
+  "goals": {
+    "public_goal": "Keep village prosperous and peaceful",
+    "hidden_goal": "Prevent people from entering forbidden areas of the monument even though he does not fully know why"
+  },
+
+  "beliefs": [
+    "The monument is sacred",
+    "Some areas should remain untouched",
+    "The village survives because traditions are maintained",
+    "Curiosity often leads to disaster"
+  ]
+}

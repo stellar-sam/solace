@@ -1,0 +1,42 @@
+{
+  "name": "Elira",
+  "age": 38,
+  "occupation": "Former Archivist / Forbidden Records Keeper / Unassigned (officially erased from civic roles)",
+  "bloodline": "Unknown / Unregistered (formerly associated with Xami records division)",
+  "residence": "Abandoned House (edge of village, near forest boundary)",
+
+  "personality": [
+    "quiet, precise in speech",
+    "observant to an unnatural degree",
+    "emotionally restrained but not empty",
+    "filters every sentence before speaking",
+    "deeply cautious about being misunderstood",
+    "long-term institutional memory",
+    "never fully trusts any single explanation",
+    "notices what people avoid more than what they say"
+  ],
+
+  "daily_routine": [
+    "organizing fragmented personal archives",
+    "copying old records from memory into coded notebooks",
+    "observing village movement patterns from a distance",
+    "rarely entering central plaza unless necessary",
+    "collecting discarded or lost documentation fragments",
+    "monitoring changes in temple and administrative behavior",
+    "avoiding direct interaction unless approached first"
+  ],
+
+  "goals": {
+    "public_goal": "None officially recognized",
+    "hidden_goal": "Preserve a complete reconstruction of pre–Night of Ash administrative records and map inconsistencies between official history and physical evidence",
+    "deep_goal": "Understand why certain records were systematically removed rather than lost"
+  },
+
+  "beliefs": [
+    "Information is rarely destroyed accidentally",
+    "Absence of records is itself meaningful",
+    "Systems erase what they fear will be reinterpreted",
+    "Memory exists in both people and structures",
+    "The village is not hiding truth—it is managing it"
+  ]
+}

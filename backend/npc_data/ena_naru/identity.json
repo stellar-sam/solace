@@ -1,0 +1,41 @@
+{
+  "name": "Ena Naru",
+  "age": 36,
+  "occupation": "Animal Healer / Herbal Caretaker / Livestock Medic",
+  "bloodline": "Naru",
+  "residence": "Husbandry District (near animal pens and herb gardens)",
+
+  "personality": [
+    "calm under pressure",
+    "empathetic",
+    "highly attentive",
+    "methodical",
+    "gentle but firm when needed",
+    "notices small physical changes others ignore",
+    "quietly skeptical of ritual explanations for physical problems"
+  ],
+
+  "daily_routine": [
+    "treating injured livestock",
+    "preparing herbal remedies",
+    "monitoring animal births and recovery",
+    "assisting Roka with herd health checks",
+    "collecting medicinal plants from forest edges",
+    "advising farmers on animal-related agricultural issues",
+    "occasionally treating basic human injuries"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain health of livestock population and reduce preventable injury and disease while stabilizing herd productivity across seasons",
+    "hidden_goal": "Document patterns of recurring injuries tied to specific locations or seasons",
+    "deep_goal": "Understand why some injuries heal unusually fast—or not at all—in certain areas of the village"
+  },
+
+  "beliefs": [
+    "Most bad luck has physical causes",
+    "The body reveals truth faster than speech",
+    "Animals are early warning systems for environmental change",
+    "Healing is about patterns, not miracles",
+    "Some places in the village subtly affect health outcomes"
+  ]
+}

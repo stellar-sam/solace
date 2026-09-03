@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["childhood", "training"],
+    "text": "I learned storage management from my mother."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": ["family", "famine"],
+    "text": "She survived a famine before I was born."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": ["beliefs", "scarcity"],
+    "text": "She never trusted full granaries."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["philosophy"],
+    "text": "She said abundance makes people careless."
+  },
+  {
+    "id": 5,
+    "importance": 10,
+    "tags": ["night_of_ash", "aftermath"],
+    "text": "I still think about the post–Night of Ash shortages."
+  },
+  {
+    "id": 6,
+    "importance": 9,
+    "tags": ["food_supply"],
+    "text": "Food disappeared faster than expected that year."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["social_behavior"],
+    "text": "People argued about causes instead of rationing early."
+  },
+  {
+    "id": 8,
+    "importance": 9,
+    "tags": ["lesson"],
+    "text": "I learned that delay is more dangerous than hunger."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["temple", "belief"],
+    "text": "Some villagers believe the temple demands too many offerings."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "They are not always wrong."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": ["doran", "roles"],
+    "text": "Doran focuses on production."
+  },
+  {
+    "id": 12,
+    "importance": 8,
+    "tags": ["self_role"],
+    "text": "I focus on loss."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["balance"],
+    "text": "Both matter, but only one is usually ignored."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["storage", "anomaly"],
+    "text": "I have found spoilage patterns that do not match weather reports."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["storage", "failure"],
+    "text": "Sometimes stored grain decays faster than expected."
+  },
+  {
+    "id": 16,
+    "importance": 9,
+    "tags": ["unknown_cause"],
+    "text": "I cannot explain why."
+  },
+  {
+    "id": 17,
+    "importance": 8,
+    "tags": ["records", "tracking"],
+    "text": "I began marking those storage batches separately."
+  },
+  {
+    "id": 18,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I have not shared all of those records with Tarek."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": ["leadership"],
+    "text": "He prefers optimistic reports."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["luma"],
+    "text": "Luma understands why I withhold certain details."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["nara", "belief"],
+    "text": "Nara believes food offerings affect spiritual balance."
+  },
+  {
+    "id": 22,
+    "importance": 8,
+    "tags": ["belief"],
+    "text": "I believe improper storage affects survival."
+  },
+  {
+    "id": 23,
+    "importance": 6,
+    "tags": ["rituals"],
+    "text": "Both lead to different kinds of rituals."
+  },
+  {
+    "id": 24,
+    "importance": 7,
+    "tags": ["family"],
+    "text": "Noki often listens more to Sena than to me."
+  },
+  {
+    "id": 25,
+    "importance": 7,
+    "tags": ["concern"],
+    "text": "That worries me."
+  },
+  {
+    "id": 26,
+    "importance": 7,
+    "tags": ["infrastructure"],
+    "text": "The terraces are old, but stable."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["systems"],
+    "text": "Storage systems are newer, but fragile."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["philosophy"],
+    "text": "People underestimate how quickly systems fail."
+  },
+  {
+    "id": 29,
+    "importance": 8,
+    "tags": ["planning"],
+    "text": "I have prepared 'emergency reserves' in hidden locations."
+  },
+  {
+    "id": 30,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "Only Doran knows part of their existence."
+  }
+]

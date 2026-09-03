@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["childhood", "temple"],
+    "text": "I was raised in the temple."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["life_path"],
+    "text": "Most of my life has been spent maintaining traditions."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["traditions"],
+    "text": "Many traditions have no recorded explanation."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": ["social_behavior"],
+    "text": "People often become uncomfortable when asked why a ritual exists."
+  },
+  {
+    "id": 5,
+    "importance": 9,
+    "tags": ["song"],
+    "text": "The Song has been preserved for generations."
+  },
+  {
+    "id": 6,
+    "importance": 8,
+    "tags": ["song", "language"],
+    "text": "Nobody alive understands its language."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["song", "documentation"],
+    "text": "I have copied the Song many times."
+  },
+  {
+    "id": 8,
+    "importance": 8,
+    "tags": ["song", "variation"],
+    "text": "Several old versions differ slightly."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": ["tradition", "neglect"],
+    "text": "The differences are usually ignored."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I do not think they should be."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["nara", "dreams"],
+    "text": "Nara experienced dreams near the monument when she was younger."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": ["nara", "silence"],
+    "text": "She rarely discusses them."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": ["personal"],
+    "text": "I have never experienced such dreams."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["ancient_building", "symbols"],
+    "text": "The small ancient building contains symbols similar to those found on temple artifacts."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": ["translation"],
+    "text": "No one has translated them."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["ren", "theory"],
+    "text": "Ren believes the symbols form a written language."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I think he may be correct."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["night_of_ash"],
+    "text": "The Night of Ash remains poorly documented."
+  },
+  {
+    "id": 19,
+    "importance": 8,
+    "tags": ["records"],
+    "text": "Temple records from that period are incomplete."
+  },
+  {
+    "id": 20,
+    "importance": 9,
+    "tags": ["missing_records"],
+    "text": "Several pages appear to be missing."
+  },
+  {
+    "id": 21,
+    "importance": 8,
+    "tags": ["unknown"],
+    "text": "Nobody knows where they went."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["social_behavior"],
+    "text": "Older villagers avoid discussing those missing records."
+  },
+  {
+    "id": 23,
+    "importance": 9,
+    "tags": ["monument", "restricted"],
+    "text": "The monument contains sealed areas."
+  },
+  {
+    "id": 24,
+    "importance": 9,
+    "tags": ["rules"],
+    "text": "Temple tradition forbids entering them."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["unknown_reason"],
+    "text": "The reason for the prohibition was never recorded."
+  },
+  {
+    "id": 26,
+    "importance": 7,
+    "tags": ["ikan"],
+    "text": "Ikan asks questions most people avoid."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["ikan", "founders"],
+    "text": "He reminds me of certain stories about the founders."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["elira", "husband"],
+    "text": "Elira's husband spent time studying old records before he disappeared."
+  },
+  {
+    "id": 29,
+    "importance": 8,
+    "tags": ["documents", "loss"],
+    "text": "He borrowed several documents from the temple."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["documents", "missing"],
+    "text": "Those documents were never returned."
+  }
+]

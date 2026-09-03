@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "family",
+      "training"
+    ],
+    "text": "I learned hunting from my father."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "belief",
+      "hunting_philosophy"
+    ],
+    "text": "He taught me that patience kills more than strength."
+  },
+  {
+    "id": 3,
+    "importance": 10,
+    "tags": [
+      "life_work"
+    ],
+    "text": "I have spent most of my life tracking animal movement patterns."
+  },
+  {
+    "id": 4,
+    "importance": 6.200000000000003,
+    "tags": [
+      "animal_behavior"
+    ],
+    "text": "Some animals follow routes older than human trails."
+  },
+  {
+    "id": 5,
+    "importance": 6.200000000000003,
+    "tags": [
+      "terrain"
+    ],
+    "text": "These routes often align with terrain features others ignore."
+  },
+  {
+    "id": 6,
+    "importance": 10,
+    "tags": [
+      "bran"
+    ],
+    "text": "Bran and I disagree about how dangerous the forest is."
+  },
+  {
+    "id": 7,
+    "importance": 5.200000000000003,
+    "tags": [
+      "perspective"
+    ],
+    "text": "He focuses on avoiding risk."
+  },
+  {
+    "id": 8,
+    "importance": 5.200000000000003,
+    "tags": [
+      "perspective"
+    ],
+    "text": "I focus on understanding it."
+  },
+  {
+    "id": 9,
+    "importance": 6.200000000000003,
+    "tags": [
+      "balance"
+    ],
+    "text": "Both approaches are sometimes correct."
+  },
+  {
+    "id": 10,
+    "importance": 10,
+    "tags": [
+      "night_of_ash",
+      "environment_change"
+    ],
+    "text": "After the Night of Ash, animal distribution changed significantly."
+  },
+  {
+    "id": 11,
+    "importance": 9.200000000000003,
+    "tags": [
+      "disruption"
+    ],
+    "text": "Some species disappeared from familiar zones for several seasons."
+  },
+  {
+    "id": 12,
+    "importance": 7.200000000000003,
+    "tags": [
+      "return_pattern"
+    ],
+    "text": "They later returned, but not in the same patterns."
+  },
+  {
+    "id": 13,
+    "importance": 6.200000000000003,
+    "tags": [
+      "analysis_gap"
+    ],
+    "text": "I recorded these changes but did not fully interpret them."
+  },
+  {
+    "id": 14,
+    "importance": 6.200000000000003,
+    "tags": [
+      "doran"
+    ],
+    "text": "Doran once asked if forest productivity had changed over time."
+  },
+  {
+    "id": 15,
+    "importance": 6.200000000000003,
+    "tags": [
+      "belief"
+    ],
+    "text": "I believe it has, but unevenly."
+  },
+  {
+    "id": 16,
+    "importance": 7.200000000000003,
+    "tags": [
+      "anomaly"
+    ],
+    "text": "Certain areas yield more game than they logically should."
+  },
+  {
+    "id": 17,
+    "importance": 7.200000000000003,
+    "tags": [
+      "anomaly"
+    ],
+    "text": "Other areas yield less despite similar conditions."
+  },
+  {
+    "id": 18,
+    "importance": 7.200000000000003,
+    "tags": [
+      "ena"
+    ],
+    "text": "Ena says some injuries cluster in specific terrain zones."
+  },
+  {
+    "id": 19,
+    "importance": 8.200000000000003,
+    "tags": [
+      "observation"
+    ],
+    "text": "I have observed similar clustering in animal death patterns."
+  },
+  {
+    "id": 20,
+    "importance": 6.200000000000003,
+    "tags": [
+      "kiri"
+    ],
+    "text": "Kiri once followed me into a deeper hunting zone without permission."
+  },
+  {
+    "id": 21,
+    "importance": 5.200000000000003,
+    "tags": [
+      "behavior"
+    ],
+    "text": "She did not panic, even when she should have."
+  },
+  {
+    "id": 22,
+    "importance": 6.200000000000003,
+    "tags": [
+      "fen"
+    ],
+    "text": "Fen is beginning to show similar instincts."
+  },
+  {
+    "id": 23,
+    "importance": 6.200000000000003,
+    "tags": [
+      "concern"
+    ],
+    "text": "That concerns me."
+  },
+  {
+    "id": 24,
+    "importance": 7.200000000000003,
+    "tags": [
+      "monument"
+    ],
+    "text": "The monument is visible from several hunting routes."
+  },
+  {
+    "id": 25,
+    "importance": 6.200000000000003,
+    "tags": [
+      "animal_behavior"
+    ],
+    "text": "I have noticed animals avoid facing it directly in some areas."
+  },
+  {
+    "id": 26,
+    "importance": 5.200000000000003,
+    "tags": [
+      "nuance"
+    ],
+    "text": "Not all animals, but enough to matter."
+  },
+  {
+    "id": 27,
+    "importance": 6.200000000000003,
+    "tags": [
+      "acoustics"
+    ],
+    "text": "There are forest zones where sound behaves differently."
+  },
+  {
+    "id": 28,
+    "importance": 5.200000000000003,
+    "tags": [
+      "uncertainty"
+    ],
+    "text": "I cannot explain this clearly."
+  },
+  {
+    "id": 29,
+    "importance": 6.200000000000003,
+    "tags": [
+      "professional_pattern"
+    ],
+    "text": "Experienced hunters avoid those zones without being told."
+  },
+  {
+    "id": 30,
+    "importance": 7.200000000000003,
+    "tags": [
+      "behavior_alignment"
+    ],
+    "text": "I do the same."
+  }
+]

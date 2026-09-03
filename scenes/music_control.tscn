@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=3 uid="uid://bhvbmhb5lr7mb"]
+
+[ext_resource type="Script" uid="uid://dg2vfw4urxydb" path="res://scenes/music_control.gd" id="1_5fvlm"]
+
+[node name="music_control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_5fvlm")
+
+[node name="MusicScrollBar" type="HScrollBar" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.790799
+anchor_top = 0.0123457
+anchor_right = 0.992188
+anchor_bottom = 0.0833333
+mouse_filter = 1
+min_value = -70.0
+max_value = 0.0
+step = 1.0
+value = -18.0
+metadata/_edit_use_anchors_ = true
+
+[node name="RichTextLabel" type="RichTextLabel" parent="MusicScrollBar"]
+layout_mode = 0
+offset_left = 76.0
+offset_top = 21.0
+offset_right = 191.0
+offset_bottom = 47.0
+text = "Music Volume"

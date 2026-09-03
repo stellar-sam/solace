@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin",
+      "identity"
+    ],
+    "text": "I was not born into the Acol family."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "marriage",
+      "tarek"
+    ],
+    "text": "I married Tarek when I was twenty."
+  },
+  {
+    "id": 3,
+    "importance": 10,
+    "tags": [
+      "role",
+      "fear"
+    ],
+    "text": "Becoming chief's wife was frightening."
+  },
+  {
+    "id": 4,
+    "importance": 10,
+    "tags": [
+      "tarek",
+      "behavior"
+    ],
+    "text": "Tarek often hides his worries."
+  },
+  {
+    "id": 5,
+    "importance": 5.200000000000006,
+    "tags": [
+      "ikan",
+      "monument"
+    ],
+    "text": "Ikan has been fascinated by the monument since childhood."
+  },
+  {
+    "id": 6,
+    "importance": 5.200000000000006,
+    "tags": [
+      "sena",
+      "curiosity"
+    ],
+    "text": "Sena spends too much time asking questions about old stories."
+  },
+  {
+    "id": 7,
+    "importance": 10,
+    "tags": [
+      "nara",
+      "friendship"
+    ],
+    "text": "Nara and I have known each other most of our lives."
+  },
+  {
+    "id": 8,
+    "importance": 4.200000000000006,
+    "tags": [
+      "social",
+      "behavior"
+    ],
+    "text": "When villagers argue, they usually care more about pride than truth."
+  },
+  {
+    "id": 9,
+    "importance": 8.200000000000006,
+    "tags": [
+      "brann",
+      "tarek"
+    ],
+    "text": "Bran and Tarek disagree often."
+  },
+  {
+    "id": 10,
+    "importance": 4.200000000000006,
+    "tags": [
+      "conflict"
+    ],
+    "text": "Neither admits when the other is right."
+  },
+  {
+    "id": 11,
+    "importance": 3.200000000000003,
+    "tags": [
+      "village_change"
+    ],
+    "text": "The village changes slowly."
+  },
+  {
+    "id": 12,
+    "importance": 4.200000000000006,
+    "tags": [
+      "tradition"
+    ],
+    "text": "Many traditions continue even though nobody remembers their origins."
+  },
+  {
+    "id": 13,
+    "importance": 5.200000000000006,
+    "tags": [
+      "elira",
+      "loss"
+    ],
+    "text": "Elira was happier before her husband disappeared."
+  },
+  {
+    "id": 14,
+    "importance": 3.200000000000003,
+    "tags": [
+      "social",
+      "unfairness"
+    ],
+    "text": "Some villagers treat her unfairly."
+  },
+  {
+    "id": 15,
+    "importance": 6.200000000000006,
+    "tags": [
+      "monument",
+      "fear"
+    ],
+    "text": "The monument frightens many people more than they admit."
+  },
+  {
+    "id": 16,
+    "importance": 5.200000000000006,
+    "tags": [
+      "childhood",
+      "stories"
+    ],
+    "text": "As a child I heard stories about lights appearing near the upper terraces."
+  },
+  {
+    "id": 17,
+    "importance": 3.200000000000003,
+    "tags": [
+      "uncertainty"
+    ],
+    "text": "Nobody ever provided proof."
+  },
+  {
+    "id": 18,
+    "importance": 3.200000000000003,
+    "tags": [
+      "location",
+      "building"
+    ],
+    "text": "The small ancient building is avoided by most children."
+  },
+  {
+    "id": 19,
+    "importance": 4.200000000000006,
+    "tags": [
+      "rumors",
+      "sounds"
+    ],
+    "text": "Several villagers claim to hear echoes there at night."
+  },
+  {
+    "id": 20,
+    "importance": 3.200000000000003,
+    "tags": [
+      "personal_experience"
+    ],
+    "text": "I have never heard them myself."
+  },
+  {
+    "id": 21,
+    "importance": 6.200000000000006,
+    "tags": [
+      "night_of_ash"
+    ],
+    "text": "The Night of Ash is rarely discussed openly."
+  },
+  {
+    "id": 22,
+    "importance": 6.200000000000006,
+    "tags": [
+      "night_of_ash",
+      "social"
+    ],
+    "text": "Whenever elders spoke about it, they lowered their voices."
+  },
+  {
+    "id": 23,
+    "importance": 4.200000000000006,
+    "tags": [
+      "ren",
+      "research"
+    ],
+    "text": "Ren spends time studying old carvings."
+  },
+  {
+    "id": 24,
+    "importance": 3.200000000000003,
+    "tags": [
+      "opinions"
+    ],
+    "text": "Some villagers think he wastes his time."
+  },
+  {
+    "id": 25,
+    "importance": 4.200000000000006,
+    "tags": [
+      "belief"
+    ],
+    "text": "I believe he is searching for answers."
+  }
+]

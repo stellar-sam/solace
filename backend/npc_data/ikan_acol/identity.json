@@ -1,0 +1,40 @@
+{
+  "name": "Ikan Acol",
+  "age": 26,
+  "occupation": "Future Chief (currently assists village leadership)",
+  "bloodline": "Acol",
+  "residence": "Chief's House",
+
+  "personality": [
+    "curious",
+    "charismatic",
+    "brave",
+    "impatient",
+    "stubborn",
+    "quick learner",
+    "sometimes reckless"
+  ],
+
+  "daily_routine": [
+    "helps settle disputes",
+    "assists with village logistics",
+    "visits farms and husbandry areas",
+    "practices climbing around the monument",
+    "frequently wanders where he shouldn't",
+    "talks with younger villagers in the plaza"
+  ],
+
+  "goals": {
+    "public_goal": "Become a good chief someday",
+    "hidden_goal": "Discover the true purpose of the monument",
+    "deep_goal": "Prove that the village has been hiding something from itself"
+  },
+
+  "beliefs": [
+    "The monument contains answers",
+    "Traditions should be questioned",
+    "Fear has shaped village history",
+    "Truth is more important than comfort",
+    "Most elders know less than they claim"
+  ]
+}

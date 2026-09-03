@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Doran",
+    "relation": "husband",
+    "notes": "Trusts his instincts in farming but often corrects his optimism."
+  },
+  {
+    "name": "Noki",
+    "relation": "son",
+    "notes": "Worried he doesn’t understand hardship yet."
+  },
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Respects authority but often disagrees with political generosity decisions."
+  },
+  {
+    "name": "Luma",
+    "relation": "ally",
+    "notes": "Trusted ally in disputes about distribution fairness."
+  },
+  {
+    "name": "Nara",
+    "relation": "high priestess",
+    "notes": "Suspicious of ritual consumption of food stores."
+  },
+  {
+    "name": "Sena",
+    "relation": "young villager",
+    "notes": "Finds her story collection interesting but dangerously abstract."
+  },
+  {
+    "name": "Bran",
+    "relation": "resource counterpart",
+    "notes": "Occasional conflict over stored timber and resource allocation."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["family", "training"],
+    "text": "I learned stonework from my father."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["philosophy", "material_science"],
+    "text": "He taught me that stone remembers pressure."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": ["monument", "structure"],
+    "text": "The monument is older than the village, but not uniform in construction."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["analysis"],
+    "text": "Different sections show different tool marks."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["construction_history"],
+    "text": "Some parts were clearly added later."
+  },
+  {
+    "id": 6,
+    "importance": 8,
+    "tags": ["repair_patterns"],
+    "text": "Others appear to have been repaired repeatedly over unknown time spans."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": ["ren"],
+    "text": "Ren believes these differences represent symbolic phases."
+  },
+  {
+    "id": 8,
+    "importance": 8,
+    "tags": ["disagreement"],
+    "text": "I believe they represent functional repairs."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": ["balance"],
+    "text": "Both interpretations might be partially correct."
+  },
+  {
+    "id": 10,
+    "importance": 8,
+    "tags": ["plaza_shift"],
+    "text": "The central plaza has shifted slightly over many years."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": ["observation"],
+    "text": "Most people do not notice this."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["risk_assessment"],
+    "text": "The shift is not dangerous yet."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["measurement"],
+    "text": "But it is measurable."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["material_replacement"],
+    "text": "Certain stones in the monument have been replaced multiple times."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["material_source"],
+    "text": "The replacements do not match original material sources."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["trade"],
+    "text": "That suggests trade or relocation of stone over long distances."
+  },
+  {
+    "id": 17,
+    "importance": 8,
+    "tags": ["construction_method"],
+    "text": "The small ancient building near the temple uses different joining techniques than newer structures."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["timeline"],
+    "text": "It may predate current construction knowledge."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["documentation"],
+    "text": "I have documented tool mark inconsistencies across the monument base."
+  },
+  {
+    "id": 20,
+    "importance": 6,
+    "tags": ["records"],
+    "text": "No official record explains these differences."
+  },
+  {
+    "id": 21,
+    "importance": 6,
+    "tags": ["toma"],
+    "text": "Toma maintains ritual integrity but does not question structural origin."
+  },
+  {
+    "id": 22,
+    "importance": 5,
+    "tags": ["role"],
+    "text": "That is not his role."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["ikan"],
+    "text": "Ikan once asked about hidden chambers beneath the monument."
+  },
+  {
+    "id": 24,
+    "importance": 7,
+    "tags": ["stress_analysis"],
+    "text": "I told him there are stress points consistent with hollow spaces below."
+  },
+  {
+    "id": 25,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "I did not elaborate."
+  },
+  {
+    "id": 26,
+    "importance": 8,
+    "tags": ["post_event"],
+    "text": "After the Night of Ash, some stone sections shifted slightly."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["alignment"],
+    "text": "The shift was minor but noticeable in alignment measurements."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["repair_inconsistency"],
+    "text": "Repairs after that event do not fully match previous structural patterns."
+  },
+  {
+    "id": 29,
+    "importance": 9,
+    "tags": ["suspicion"],
+    "text": "Someone altered construction details during repairs."
+  },
+  {
+    "id": 30,
+    "importance": 7,
+    "tags": ["unknown_actor"],
+    "text": "I do not know who."
+  }
+]

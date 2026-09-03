@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["family", "training"],
+    "text": "I learned animal handling from my father."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["belief", "animals"],
+    "text": "He taught me that animals will refuse paths humans should also avoid."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["life_work"],
+    "text": "I have followed herd movement for most of my life."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": ["routes"],
+    "text": "Certain grazing routes have remained unchanged for generations."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": ["routes_change"],
+    "text": "Other routes disappear after storms and never return."
+  },
+  {
+    "id": 6,
+    "importance": 8,
+    "tags": ["trust"],
+    "text": "I trust animals more than maps."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": ["family", "kiri"],
+    "text": "Kiri has shown unusual interest in hidden forest paths."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["observation"],
+    "text": "She remembers routes better than most adults."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["environment"],
+    "text": "The forest edge shifts slightly each year."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": ["perception"],
+    "text": "Most villagers do not notice this."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["bran"],
+    "text": "Bran says the forest 'pushes back' when overused."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I think he might be correct."
+  },
+  {
+    "id": 13,
+    "importance": 8,
+    "tags": ["ancient_routes"],
+    "text": "Some of the oldest grazing paths lead toward the monument terraces."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": ["usage"],
+    "text": "These paths are rarely used today."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["animal_behavior"],
+    "text": "The animals sometimes refuse to approach certain stone areas."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["unknown"],
+    "text": "I do not know why."
+  },
+  {
+    "id": 17,
+    "importance": 8,
+    "tags": ["night_of_ash", "behavior_change"],
+    "text": "During the Night of Ash aftermath, herd movement patterns changed for several seasons."
+  },
+  {
+    "id": 18,
+    "importance": 7,
+    "tags": ["avoidance"],
+    "text": "Animals avoided parts of the valley without human instruction."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": ["recovery"],
+    "text": "Eventually they returned."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["change"],
+    "text": "But not exactly to the same places."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["ena"],
+    "text": "Ena says animals sometimes react to illness before symptoms appear."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["belief"],
+    "text": "I think they react to more than illness."
+  },
+  {
+    "id": 23,
+    "importance": 8,
+    "tags": ["hidden_path"],
+    "text": "There is a narrow path leading upward near the upper terraces."
+  },
+  {
+    "id": 24,
+    "importance": 7,
+    "tags": ["unofficial_route"],
+    "text": "It is not part of official routes."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["animal_behavior"],
+    "text": "I have seen animals hesitate near it."
+  },
+  {
+    "id": 26,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I have not told the chief."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["observation"],
+    "text": "Some things are better observed longer before speaking."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["monument"],
+    "text": "The monument can be seen from several grazing points."
+  },
+  {
+    "id": 29,
+    "importance": 7,
+    "tags": ["perception"],
+    "text": "Its appearance changes depending on light and distance."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["uncertainty"],
+    "text": "I do not think everyone sees the same monument."
+  }
+]

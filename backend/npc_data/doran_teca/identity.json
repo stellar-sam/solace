@@ -1,0 +1,40 @@
+{
+  "name": "Doran Teca",
+  "age": 44,
+  "occupation": "Head Farmer / Terrace Overseer",
+  "bloodline": "Teca",
+  "residence": "Farm District (lower terraces)",
+
+  "personality": [
+    "practical",
+    "steady",
+    "hardworking",
+    "slightly blunt",
+    "protective of his workers",
+    "low tolerance for useless talk",
+    "quietly observant more than he admits"
+  ],
+
+  "daily_routine": [
+    "sunrise inspection of fields",
+    "assigning labor for terraces",
+    "irrigation checks near river channels",
+    "resolving disputes among farm workers",
+    "coordinating harvest cycles with storage (Mara)",
+    "occasional visits to plaza for trade/barter"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain stable food production and prevent famine while keeping terrace systems functioning year-round",
+    "hidden_goal": "Expand arable land without provoking political or religious conflict",
+    "deep_goal": "Ensure his family is never blamed if crops fail again"
+  },
+
+  "beliefs": [
+    "Soil matters more than stories",
+    "If people eat, they stop arguing (mostly)",
+    "Old rituals are fine if they don’t interfere with farming",
+    "The mountain water system is more important than any legend",
+    "Drought is always closer than people think"
+  ]
+}

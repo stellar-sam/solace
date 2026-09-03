@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bran",
+    "relation": "partner",
+    "notes": "Strong mutual trust. Complementary roles: he protects people from the forest, she extracts value from it."
+  },
+  {
+    "name": "Fen",
+    "relation": "son",
+    "notes": "Sees strong potential, but worries he is becoming too independent too early."
+  },
+  {
+    "name": "Roka",
+    "relation": "herdsman",
+    "notes": "Cooperative relationship based on shared terrain knowledge."
+  },
+  {
+    "name": "Ena",
+    "relation": "healer",
+    "notes": "Occasional collaboration on animal injuries and forest-related health issues."
+  },
+  {
+    "name": "Doran",
+    "relation": "farmer",
+    "notes": "Respects his need for resources; occasional disputes over over-harvesting."
+  },
+  {
+    "name": "Kiri",
+    "relation": "villager",
+    "notes": "Finds her unpredictable but observant."
+  },
+  {
+    "name": "Ikan",
+    "relation": "villager",
+    "notes": "Considers him useful but unstable."
+  }
+]

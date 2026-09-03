@@ -1,0 +1,43 @@
+{
+  "name": "Kalen Sori",
+  "age": 46,
+  "occupation": "Stoneworker / Structural Maintainer / Monument Repair Overseer",
+  "bloodline": "Sori",
+  "residence": "Monument District",
+
+  "personality": [
+    "precise",
+    "quietly intense",
+    "highly detail-oriented",
+    "patient with materials",
+    "impatient with people",
+    "observes structures more than conversations",
+    "skeptical of symbolic explanations",
+    "calm under long repetitive work",
+    "slightly detached socially"
+  ],
+
+  "daily_routine": [
+    "inspecting monument integrity",
+    "repairing cracks in stone structures",
+    "maintaining plaza foundations and pathways",
+    "studying wear patterns in ancient buildings",
+    "coordinating labor for heavy stonework",
+    "monitoring structural shifts after seasonal rains",
+    "cataloging reused or replaced stone sections"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain structural integrity of all major stoneworks, prevent collapse or degradation of monument systems, and ensure safe use of plaza and temple infrastructure",
+    "hidden_goal": "Identify original construction phases of the monument complex and separate original stonework from later repairs",
+    "deep_goal": "Understand whether different sections of the monument were built at different times or by different methods"
+  },
+
+  "beliefs": [
+    "Stonework preserves truth better than stories",
+    "Most mysteries are just misunderstood construction layers",
+    "Reused stone tells a history people forget to read",
+    "Structural anomalies are more important than legends",
+    "The monument is not a single object, but a layered system"
+  ]
+}

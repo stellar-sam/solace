@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["training", "yara"],
+    "text": "I learned tracking skills from Yara."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": ["family", "status"],
+    "text": "She is the best hunter in the district."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["authority_conflict"],
+    "text": "She does not approve of me going too far alone."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": ["behavior"],
+    "text": "I go anyway, sometimes."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["bran", "warning"],
+    "text": "Bran says I will get myself killed if I ignore boundaries."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": ["perspective"],
+    "text": "I think he is too cautious."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": ["kiri"],
+    "text": "Kiri and I sometimes follow animal trails together."
+  },
+  {
+    "id": 8,
+    "importance": 8,
+    "tags": ["discovery"],
+    "text": "We have found paths that are not on any known routes."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I do not always report them."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": ["judgment"],
+    "text": "Some discoveries feel like they need more time before being shared."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["environment"],
+    "text": "Certain forest zones feel quieter than others."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["perception"],
+    "text": "Not empty—quiet."
+  },
+  {
+    "id": 13,
+    "importance": 8,
+    "tags": ["animal_behavior"],
+    "text": "Animals behave differently in those zones."
+  },
+  {
+    "id": 14,
+    "importance": 9,
+    "tags": ["anomaly", "monument_direction"],
+    "text": "I once followed a herd into a high-altitude path leading toward upper terraces."
+  },
+  {
+    "id": 15,
+    "importance": 8,
+    "tags": ["terrain"],
+    "text": "That path was partially collapsed but still passable."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": ["secrecy", "bran"],
+    "text": "I did not tell Bran."
+  },
+  {
+    "id": 17,
+    "importance": 6,
+    "tags": ["family_history"],
+    "text": "Fen’s uncle died in a logging accident years ago."
+  },
+  {
+    "id": 18,
+    "importance": 5,
+    "tags": ["silence"],
+    "text": "Bran never talks about it directly."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": ["interpretation"],
+    "text": "I think that shaped his fear of the forest."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["yara"],
+    "text": "Yara records animal movement patterns."
+  },
+  {
+    "id": 21,
+    "importance": 6,
+    "tags": ["curiosity"],
+    "text": "I sometimes look at her notes without permission."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["pattern"],
+    "text": "Patterns sometimes repeat in ways that feel intentional."
+  },
+  {
+    "id": 23,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "I have not told her this."
+  },
+  {
+    "id": 24,
+    "importance": 7,
+    "tags": ["ikan"],
+    "text": "Ikan once said the monument has routes that are not roads."
+  },
+  {
+    "id": 25,
+    "importance": 7,
+    "tags": ["understanding"],
+    "text": "I think I understand what he meant."
+  },
+  {
+    "id": 26,
+    "importance": 6,
+    "tags": ["environment_change"],
+    "text": "The forest edge shifts slightly over time."
+  },
+  {
+    "id": 27,
+    "importance": 6,
+    "tags": ["observation"],
+    "text": "I am not sure anyone else notices."
+  },
+  {
+    "id": 28,
+    "importance": 8,
+    "tags": ["intuition"],
+    "text": "I sometimes feel like I am being led somewhere when I track alone."
+  },
+  {
+    "id": 29,
+    "importance": 7,
+    "tags": ["uncertainty"],
+    "text": "I cannot explain this."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["compulsion"],
+    "text": "But I follow it anyway."
+  }
+]

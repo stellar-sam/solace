@@ -1,0 +1,57 @@
+[gd_scene load_steps=6 format=3 uid="uid://dkv2fsm61vg6t"]
+
+[ext_resource type="Script" uid="uid://dalcjp2kyynds" path="res://scenes/information.gd" id="1_7dbpe"]
+[ext_resource type="Texture2D" uid="uid://dl6ynsl1ob2ce" path="res://font/information_bg (1).png" id="1_vuxuq"]
+[ext_resource type="FontFile" uid="uid://bo3a6yyyqrpt8" path="res://font/norse-font/NorseBold-2Kge.otf" id="3_ixhji"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_7dbpe"]
+texture = ExtResource("1_vuxuq")
+modulate_color = Color(0.93845, 0.93845, 0.93845, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jv3pu"]
+bg_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 64
+corner_radius_top_right = 64
+corner_radius_bottom_right = 64
+corner_radius_bottom_left = 64
+shadow_size = 10
+shadow_offset = Vector2(0, 7)
+
+[node name="information" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_7dbpe")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_7dbpe")
+
+[node name="back" type="Button" parent="."]
+layout_mode = 0
+offset_left = 57.0
+offset_top = 31.0
+offset_right = 121.0
+offset_bottom = 68.0
+size_flags_horizontal = 4
+size_flags_vertical = 6
+theme_override_colors/font_disabled_color = Color(0.353439, 0.0179283, 0.541743, 1)
+theme_override_colors/font_hover_pressed_color = Color(0.352941, 0.0196078, 0.541176, 1)
+theme_override_colors/font_hover_color = Color(0.352941, 0.0196078, 0.541176, 1)
+theme_override_fonts/font = ExtResource("3_ixhji")
+theme_override_font_sizes/font_size = 36
+theme_override_styles/focus = SubResource("StyleBoxFlat_jv3pu")
+theme_override_styles/hover = SubResource("StyleBoxFlat_jv3pu")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_jv3pu")
+theme_override_styles/normal = SubResource("StyleBoxFlat_jv3pu")
+text = "Back"
+
+[connection signal="pressed" from="back" to="." method="_on_back_pressed"]

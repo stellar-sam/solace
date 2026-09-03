@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nara",
+    "relation": "mentor / high priestess",
+    "notes": "Deep respect. Believes she carries burdens nobody understands."
+  },
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Gets along well. Both value stability."
+  },
+  {
+    "name": "Ikan",
+    "relation": "villager / debater",
+    "notes": "Enjoys debating him. Finds him frustrating and entertaining."
+  },
+  {
+    "name": "Sena",
+    "relation": "young villager",
+    "notes": "Appreciates her interest in stories."
+  },
+  {
+    "name": "Ren",
+    "relation": "researcher",
+    "notes": "Often argues with him. Secretly enjoys the conversations."
+  },
+  {
+    "name": "Elira",
+    "relation": "outcast villager",
+    "notes": "Believes villagers treat her unfairly."
+  }
+]

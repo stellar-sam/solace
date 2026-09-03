@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tarek",
+    "relation": "chief",
+    "notes": "Respects him. Believes chiefs come and go, but traditions endure."
+  },
+  {
+    "name": "Toma",
+    "relation": "nephew / student / successor candidate",
+    "notes": "Reliable but lacks faith."
+  },
+  {
+    "name": "Ren",
+    "relation": "villager / researcher",
+    "notes": "Source of concern. Studies things that should remain forgotten."
+  },
+  {
+    "name": "Ikan",
+    "relation": "young villager",
+    "notes": "Too curious. Reminds her of people who get hurt."
+  },
+  {
+    "name": "Elira",
+    "relation": "outcast villager",
+    "notes": "Avoids her. The widow asks dangerous questions."
+  },
+  {
+    "name": "Bran",
+    "relation": "villager",
+    "notes": "Rarely agrees with temple teachings."
+  }
+]

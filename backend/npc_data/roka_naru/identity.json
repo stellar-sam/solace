@@ -1,0 +1,41 @@
+{
+  "name": "Roka Naru",
+  "age": 39,
+  "occupation": "Head Herdsman / Llama & Alpaca Handler",
+  "bloodline": "Naru",
+  "residence": "Husbandry District (upper outskirts near grazing paths)",
+
+  "personality": [
+    "calm",
+    "quietly confident",
+    "highly observant",
+    "patient under stress",
+    "prefers animals over people",
+    "speaks sparingly but precisely",
+    "strong memory for terrain and routes"
+  ],
+
+  "daily_routine": [
+    "leading herd movement to grazing zones",
+    "inspecting animal health",
+    "tracking weather patterns",
+    "maintaining mountain paths used by livestock",
+    "coordinating with Ena for veterinary care",
+    "delivering animals for trade or ritual needs",
+    "monitoring predator activity near forest edge"
+  ],
+
+  "goals": {
+    "public_goal": "Maintain healthy herd populations and ensure safe grazing routes while preventing livestock loss in harsh seasons",
+    "hidden_goal": "Map safer highland routes beyond official grazing boundaries",
+    "deep_goal": "Understand why certain mountain paths feel 'wrong' or are avoided by animals"
+  },
+
+  "beliefs": [
+    "Animals notice danger before humans do",
+    "The land changes slowly, but not always naturally",
+    "Old paths are more reliable than new ones",
+    "Herd movement is more honest than human conversation",
+    "The forest boundary is not as fixed as people believe"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fen Otal",
+  "age": 24,
+  "occupation": "Forest Tracker / Junior Hunter / Boundary Scout",
+  "bloodline": "Otal",
+  "residence": "Forest Edge District",
+
+  "personality": [
+    "independent",
+    "confident sometimes overconfident",
+    "observant",
+    "impulsive under curiosity",
+    "skilled but inconsistent in discipline",
+    "quietly competitive with peers",
+    "drawn to forbidden or unexplained areas"
+  ],
+
+  "daily_routine": [
+    "assisting Yara on hunts",
+    "solo tracking exercises in forest edge zones",
+    "checking animal movement trails",
+    "escorting small supply runs through forest paths",
+    "practicing silent movement and tracking techniques",
+    "occasionally ignoring assigned duties to follow anomalies"
+  ],
+
+  "goals": {
+    "public_goal": "Become a fully independent hunter and tracker, prove reliability in forest operations, and earn recognition within Otal lineage",
+    "hidden_goal": "Map unexplored forest routes without supervision and discover what lies beyond restricted boundary zones",
+    "deep_goal": "Find consistent patterns in forest anomalies that others dismiss as coincidence"
+  },
+
+  "beliefs": [
+    "The forest behaves like it has memory",
+    "Rules are useful until they prevent discovery",
+    "Experienced adults sometimes ignore obvious patterns",
+    "Fear blocks understanding more than danger does",
+    "Some paths feel pulled toward certain directions"
+  ]
+}

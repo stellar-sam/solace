@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["childhood", "training"],
+    "text": "I learned healing practices from my mother."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["belief", "medicine"],
+    "text": "She believed most sickness came from imbalance, not spirits."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["experience"],
+    "text": "I have treated injured animals since I was young."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["observation"],
+    "text": "Most injuries come from predictable causes: terrain, weather, workload."
+  },
+  {
+    "id": 5,
+    "importance": 9,
+    "tags": ["anomaly"],
+    "text": "But not all."
+  },
+  {
+    "id": 6,
+    "importance": 10,
+    "tags": ["monument", "healing_anomaly"],
+    "text": "Some animals recover unusually fast when placed near the river below the monument."
+  },
+  {
+    "id": 7,
+    "importance": 9,
+    "tags": ["unknown"],
+    "text": "I cannot explain why."
+  },
+  {
+    "id": 8,
+    "importance": 8,
+    "tags": ["inconsistency"],
+    "text": "Other animals fail to recover in the same conditions."
+  },
+  {
+    "id": 9,
+    "importance": 8,
+    "tags": ["pattern"],
+    "text": "Patterns are inconsistent."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["roka"],
+    "text": "Roka trusts animal behavior more than human explanations."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["agreement"],
+    "text": "I agree with him more than I admit."
+  },
+  {
+    "id": 12,
+    "importance": 9,
+    "tags": ["night_of_ash", "medical"],
+    "text": "During the Night of Ash aftermath, I saw injuries I could not classify."
+  },
+  {
+    "id": 13,
+    "importance": 8,
+    "tags": ["healing_anomaly"],
+    "text": "Some wounds healed strangely."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["deterioration"],
+    "text": "Others worsened without infection."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": ["authority"],
+    "text": "Temple explanations did not satisfy me."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "But I did not argue."
+  },
+  {
+    "id": 17,
+    "importance": 8,
+    "tags": ["herbs", "environment"],
+    "text": "Certain herbs grow only near specific stone formations."
+  },
+  {
+    "id": 18,
+    "importance": 7,
+    "tags": ["mapping"],
+    "text": "Those formations appear in both forest and terrace regions."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["research"],
+    "text": "I have mapped some of these locations privately."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": ["secrecy"],
+    "text": "I have not shared those maps."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["kiri"],
+    "text": "Kiri often brings me plants she finds while wandering."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["flora"],
+    "text": "Some are not common in known grazing zones."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": ["doran"],
+    "text": "Doran once asked why animals avoid certain irrigation areas."
+  },
+  {
+    "id": 24,
+    "importance": 6,
+    "tags": ["uncertainty"],
+    "text": "I did not have a satisfying answer."
+  },
+  {
+    "id": 25,
+    "importance": 7,
+    "tags": ["marA"],
+    "text": "Mara believes some losses are unavoidable."
+  },
+  {
+    "id": 26,
+    "importance": 8,
+    "tags": ["belief"],
+    "text": "I believe some losses are preventable but not yet understood."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["nara"],
+    "text": "Nara says healing is also spiritual balance."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": ["skepticism"],
+    "text": "I cannot measure spiritual balance."
+  },
+  {
+    "id": 29,
+    "importance": 7,
+    "tags": ["measurement"],
+    "text": "But I can measure recovery rates."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["inconsistency"],
+    "text": "They do not always match expectation."
+  }
+]

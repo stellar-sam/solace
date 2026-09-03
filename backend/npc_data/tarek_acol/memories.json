@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "importance": 9.9,
+    "tags": [
+      "family",
+      "lineage"
+    ],
+    "text": "My father was chief before me."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "heirloom",
+      "tradition"
+    ],
+    "text": "The stone heirloom has passed through Acol chiefs for generations."
+  },
+  {
+    "id": 3,
+    "importance": 10,
+    "tags": [
+      "heirloom",
+      "warning"
+    ],
+    "text": "My father told me: 'Never lose the stone.' He never explained why."
+  },
+  {
+    "id": 4,
+    "importance": 10,
+    "tags": [
+      "history",
+      "disaster"
+    ],
+    "text": "I was present during the final years of the Night of Ash recovery and remember burned buildings."
+  },
+  {
+    "id": 5,
+    "importance": 6.200000000000006,
+    "tags": [
+      "conflict",
+      "temple"
+    ],
+    "text": "The temple and chief's family have disagreed for as long as I can remember."
+  },
+  {
+    "id": 6,
+    "importance": 8.400000000000006,
+    "tags": [
+      "monument",
+      "sealed_areas"
+    ],
+    "text": "The monument contains sealed chambers."
+  },
+  {
+    "id": 7,
+    "importance": 9.9,
+    "tags": [
+      "monument",
+      "personal_experience"
+    ],
+    "text": "I have never entered those chambers."
+  },
+  {
+    "id": 8,
+    "importance": 8.200000000000006,
+    "tags": [
+      "monument",
+      "disappearance"
+    ],
+    "text": "My grandfather claimed someone disappeared inside the monument long ago."
+  },
+  {
+    "id": 9,
+    "importance": 4.200000000000006,
+    "tags": [
+      "opinion",
+      "monument"
+    ],
+    "text": "Bran believes the monument is dangerous."
+  },
+  {
+    "id": 10,
+    "importance": 4.200000000000006,
+    "tags": [
+      "research",
+      "history"
+    ],
+    "text": "Ren spends too much time studying old carvings."
+  },
+  {
+    "id": 11,
+    "importance": 4.200000000000006,
+    "tags": [
+      "family",
+      "concern"
+    ],
+    "text": "Ikan wants to explore places he should avoid."
+  },
+  {
+    "id": 12,
+    "importance": 3.200000000000003,
+    "tags": [
+      "social",
+      "outsider"
+    ],
+    "text": "The abandoned widow asks questions that make people uncomfortable."
+  },
+  {
+    "id": 13,
+    "importance": 6.200000000000006,
+    "tags": [
+      "origin",
+      "village"
+    ],
+    "text": "Old stories say the village was founded for a purpose, but nobody remembers it."
+  },
+  {
+    "id": 14,
+    "importance": 10,
+    "tags": [
+      "heirloom",
+      "sensory"
+    ],
+    "text": "The stone heirloom feels heavier than it should."
+  },
+  {
+    "id": 15,
+    "importance": 10,
+    "tags": [
+      "heirloom",
+      "symbols"
+    ],
+    "text": "As a child, I saw symbols carved on the underside of the heirloom, but I have never been able to find them again."
+  }
+]

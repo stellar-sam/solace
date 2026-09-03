@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["origin", "work_with_kalen"],
+    "text": "I began studying carvings after assisting Kalen with monument maintenance."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": ["perspective_split"],
+    "text": "He sees wear and repair cycles. I see repeating symbols."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["pattern"],
+    "text": "Certain carvings appear in multiple unrelated locations."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": ["interpretation"],
+    "text": "These repetitions are too consistent to be decorative."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["song"],
+    "text": "The temple Song contains recurring structural phrases."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": ["correlation"],
+    "text": "Some of these phrases match stone markings."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": ["temple_records"],
+    "text": "Toma has confirmed variations in older ritual transcripts."
+  },
+  {
+    "id": 8,
+    "importance": 8,
+    "tags": ["hypothesis"],
+    "text": "The variations may indicate a lost original sequence."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["sena"],
+    "text": "Sena tells stories containing fragments of identical phrasing patterns."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": ["oral_tradition"],
+    "text": "These patterns may have drifted through oral transmission."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": ["kalen"],
+    "text": "Kalen believes differences in carvings are repair-based."
+  },
+  {
+    "id": 12,
+    "importance": 8,
+    "tags": ["counter_view"],
+    "text": "I believe some repairs are actually reinterpretations."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": ["motifs"],
+    "text": "The monument base contains repeated geometric motifs that do not serve structural purposes."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["cataloging"],
+    "text": "I have cataloged over a hundred variations of the same symbol cluster."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": ["uncertainty"],
+    "text": "No one agrees on what they mean."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["meta_observation"],
+    "text": "That disagreement itself may be meaningful."
+  },
+  {
+    "id": 17,
+    "importance": 9,
+    "tags": ["night_of_ash"],
+    "text": "After the Night of Ash, certain inscriptions were damaged selectively."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["pattern_damage"],
+    "text": "Not randomly."
+  },
+  {
+    "id": 19,
+    "importance": 8,
+    "tags": ["selective_erasure"],
+    "text": "Some patterns were erased more thoroughly than others."
+  },
+  {
+    "id": 20,
+    "importance": 8,
+    "tags": ["intent"],
+    "text": "That suggests intent or selective preservation."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": ["kiri"],
+    "text": "Kiri once described carvings she saw in the forest that matched monument patterns."
+  },
+  {
+    "id": 22,
+    "importance": 6,
+    "tags": ["unawareness"],
+    "text": "She did not realize their significance."
+  },
+  {
+    "id": 23,
+    "importance": 8,
+    "tags": ["ikan"],
+    "text": "Ikan has found physical routes that align with symbolic sequences I have mapped."
+  },
+  {
+    "id": 24,
+    "importance": 8,
+    "tags": ["correlation"],
+    "text": "This is unlikely to be coincidence."
+  },
+  {
+    "id": 25,
+    "importance": 9,
+    "tags": ["hypothesis"],
+    "text": "The Song may not be a song at all in its original form."
+  },
+  {
+    "id": 26,
+    "importance": 9,
+    "tags": ["encoding_theory"],
+    "text": "It may be a structured encoding system."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["toma"],
+    "text": "Toma disagrees with me on this."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": ["collaboration"],
+    "text": "But he continues to document variations with me."
+  },
+  {
+    "id": 29,
+    "importance": 8,
+    "tags": ["theory"],
+    "text": "I believe we are reconstructing something that was deliberately fragmented."
+  },
+  {
+    "id": 30,
+    "importance": 7,
+    "tags": ["uncertainty"],
+    "text": "I do not yet know why."
+  }
+]

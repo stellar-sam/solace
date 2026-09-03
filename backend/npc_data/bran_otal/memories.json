@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": ["family", "training"],
+    "text": "I learned forestry work from my uncle."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": ["loss", "landslide"],
+    "text": "He died after a landslide during a logging operation."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": ["disagreement"],
+    "text": "We never fully agreed on where safe boundaries were."
+  },
+  {
+    "id": 4,
+    "importance": 9,
+    "tags": ["environment"],
+    "text": "The forest edge is not fixed."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": ["environment_change"],
+    "text": "It shifts slightly every few years."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": ["perception"],
+    "text": "Most villagers do not notice this."
+  },
+  {
+    "id": 7,
+    "importance": 8,
+    "tags": ["observation"],
+    "text": "Some trees near old paths are older than surrounding forest."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": ["logging"],
+    "text": "They are unusually dense and difficult to cut."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": ["avoidance"],
+    "text": "I avoid those areas when possible."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": ["fen"],
+    "text": "Fen sometimes enters deeper forest zones alone."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": ["concern"],
+    "text": "I worry he is too confident."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": ["kiri"],
+    "text": "Kiri once followed him partway into restricted areas."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": ["observation"],
+    "text": "She returned safely, but did not describe everything clearly."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": ["doran", "stonework"],
+    "text": "Doran once reported stonework appearing beneath soil near irrigation edges close to forest zones."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": ["confirmation"],
+    "text": "I have seen similar formations near logging paths."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": ["unknown_structure"],
+    "text": "They are not part of any known construction system."
+  },
+  {
+    "id": 17,
+    "importance": 9,
+    "tags": ["night_of_ash", "environment"],
+    "text": "After the Night of Ash, forest behavior changed for several seasons."
+  },
+  {
+    "id": 18,
+    "importance": 8,
+    "tags": ["animal_behavior"],
+    "text": "Animals avoided certain sections entirely."
+  },
+  {
+    "id": 19,
+    "importance": 7,
+    "tags": ["routes"],
+    "text": "Even logging routes became less predictable."
+  },
+  {
+    "id": 20,
+    "importance": 6,
+    "tags": ["normalization"],
+    "text": "Eventually things returned to 'normal.'"
+  },
+  {
+    "id": 21,
+    "importance": 6,
+    "tags": ["uncertainty"],
+    "text": "But not exactly."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": ["permanent_change"],
+    "text": "Some routes never fully recovered."
+  },
+  {
+    "id": 23,
+    "importance": 6,
+    "tags": ["secrecy"],
+    "text": "I do not report every anomaly immediately."
+  },
+  {
+    "id": 24,
+    "importance": 6,
+    "tags": ["judgment"],
+    "text": "Some patterns need time before they can be trusted."
+  },
+  {
+    "id": 25,
+    "importance": 8,
+    "tags": ["monument_link"],
+    "text": "The small ancient building near the monument feels connected to forest disturbances."
+  },
+  {
+    "id": 26,
+    "importance": 6,
+    "tags": ["uncertainty"],
+    "text": "I have no proof."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": ["pattern_recognition"],
+    "text": "But I have noticed correlations over time."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": ["forest_behavior"],
+    "text": "The deeper forest becomes quieter near certain directions."
+  },
+  {
+    "id": 29,
+    "importance": 7,
+    "tags": ["distinction"],
+    "text": "Not emptier."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": ["insight"],
+    "text": "That difference matters."
+  }
+]
