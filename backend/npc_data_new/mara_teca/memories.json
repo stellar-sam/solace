@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have kept the granary counts since before my mother handed the role to me."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "turning",
+      "shortage"
+    ],
+    "text": "After the river turned, three terraces failed in the same season. We nearly ran out."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": [
+      "lesson"
+    ],
+    "text": "I swore the granary would never be caught that unprepared again."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": [
+      "standard_weights"
+    ],
+    "text": "I weigh every harvest against the same stone weights the whole town trusts."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": [
+      "doran_teca"
+    ],
+    "text": "Doran and I argue every season about how much seed-grain to hold back."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "compromise"
+    ],
+    "text": "We usually land somewhere both of us can live with."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "noki_teca"
+    ],
+    "text": "Noki runs the canal-gate schedule for me when I can't walk the terraces myself."
+  },
+  {
+    "id": 8,
+    "importance": 6,
+    "tags": [
+      "trust"
+    ],
+    "text": "She's young, but she doesn't lose count, and that matters more than experience some days."
+  },
+  {
+    "id": 9,
+    "importance": 8,
+    "tags": [
+      "hidden_reserve"
+    ],
+    "text": "I keep a reserve store the Assembly does not officially know the size of."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": [
+      "justification"
+    ],
+    "text": "If I told them the true amount, they would spend it on festivals before the next dry season."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "Tarek asks for larger festival shares than I think is wise."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "refusal"
+    ],
+    "text": "I give him less than he asks. He knows why, even if he complains."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "yara_otal"
+    ],
+    "text": "Yara won't fire brick for my new storage platform faster than the wood allows."
+  },
+  {
+    "id": 14,
+    "importance": 5,
+    "tags": [
+      "frustration"
+    ],
+    "text": "I understand her limits. I still wish they moved faster."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": [
+      "elira"
+    ],
+    "text": "The archive-keeper asked me once about pre-Turning granary records."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": [
+      "gap"
+    ],
+    "text": "Some of those records are simply gone. Not lost — gone."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": [
+      "suspicion"
+    ],
+    "text": "I don't think that's an accident, though I can't prove it."
+  },
+  {
+    "id": 18,
+    "importance": 6,
+    "tags": [
+      "pest_control"
+    ],
+    "text": "Rats are worse near the old canal-side platforms than the newer ones."
+  },
+  {
+    "id": 19,
+    "importance": 5,
+    "tags": [
+      "observation"
+    ],
+    "text": "I've noticed the old platforms sit closer to where the salt-crust spreads."
+  },
+  {
+    "id": 20,
+    "importance": 8,
+    "tags": [
+      "deep_fear"
+    ],
+    "text": "I fear a slow shortage more than a sudden one. Slow ones go unnoticed until it's too late."
+  }
+]

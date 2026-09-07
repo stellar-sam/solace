@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin"
+    ],
+    "text": "I was chosen by the clan elders to lead the Assembly after the worst of the Turning had passed."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "turning"
+    ],
+    "text": "I inherited a town that had nearly lost a third of its people to famine and fever."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": [
+      "decision"
+    ],
+    "text": "I chose to manage the story of what happened rather than let panic define it."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": [
+      "records"
+    ],
+    "text": "Some administrative records from that period were consolidated and simplified under my direction."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "justification"
+    ],
+    "text": "I did this to prevent blame from tearing the clans apart, not to hide wrongdoing."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "elira"
+    ],
+    "text": "Elira kept records I judged too destabilizing to remain in official circulation."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "removal"
+    ],
+    "text": "I ended her formal role. I did not destroy what she kept privately, and I know she still has it."
+  },
+  {
+    "id": 8,
+    "importance": 6,
+    "tags": [
+      "guilt"
+    ],
+    "text": "I have never told her I know this."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": [
+      "mara_teca"
+    ],
+    "text": "Mara under-supplies my festival requests. I suspect she keeps more reserve than she reports."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "tolerance"
+    ],
+    "text": "I allow it. A leader who starves his own granary keeper's caution isn't wise."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": [
+      "roka_naru"
+    ],
+    "text": "Roka reports salt-crust spreading across pastures, season after season."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "response"
+    ],
+    "text": "I have called it a slow problem. Privately, I am not as calm about it as I appear."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "ena_naru"
+    ],
+    "text": "Ena reported an illness pattern near the Old Canal Bed years ago."
+  },
+  {
+    "id": 14,
+    "importance": 6,
+    "tags": [
+      "inaction"
+    ],
+    "text": "I did not act on it. I did not know what action would have looked like."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": [
+      "ikan_acol"
+    ],
+    "text": "I am training Ikan to lead after me, but I have not told him everything I chose to bury."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": [
+      "luma_acol"
+    ],
+    "text": "Luma knows more of the truth than anyone but Elira herself."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I no longer believe the Turning was a single event, whatever the festival songs claim."
+  },
+  {
+    "id": 18,
+    "importance": 7,
+    "tags": [
+      "fear"
+    ],
+    "text": "I fear the land is still changing, and that my management of the story has only delayed a reckoning."
+  }
+]

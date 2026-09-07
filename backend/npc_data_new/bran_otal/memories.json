@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have kept the kiln fires of this town since my father handed me his cutting-axe."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": [
+      "kiln_work"
+    ],
+    "text": "Every fired brick this town stands on passed through my kilns first."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": [
+      "turning",
+      "resource_strain"
+    ],
+    "text": "Even before the river turned, the near groves were already thinning."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": [
+      "boundary"
+    ],
+    "text": "The cutting boundary has moved outward three times in my life."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": [
+      "comparison"
+    ],
+    "text": "My father cut wood a half-day's walk from here. I now walk a full day."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "yara_otal"
+    ],
+    "text": "Yara processes what I cut faster than the groves can replace it."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "concern"
+    ],
+    "text": "I have told her this. She agrees, but the kilns still need feeding."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "fen_otal"
+    ],
+    "text": "Fen scouts farther than I like, chasing wood I'm not sure is really there."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "mara_teca"
+    ],
+    "text": "Mara complains bricks are needed faster than I can fire them."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "priority_conflict"
+    ],
+    "text": "She is not wrong. Neither am I."
+  },
+  {
+    "id": 11,
+    "importance": 8,
+    "tags": [
+      "turning_cause"
+    ],
+    "text": "I don't think the river turned on its own. Something about this land was already worn thin."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": [
+      "scrub"
+    ],
+    "text": "The scrub near the old canal bed used to be thick tamarisk. Now it's mostly stumps and salt-crust."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "salt"
+    ],
+    "text": "Salt crusts where good soil used to be. I've seen it spread since I was young."
+  },
+  {
+    "id": 14,
+    "importance": 6,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "Tarek asks me to increase brick output for new granary walls."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": [
+      "refusal"
+    ],
+    "text": "I told him the woodland cannot answer that demand forever."
+  },
+  {
+    "id": 16,
+    "importance": 7,
+    "tags": [
+      "kalen_sori"
+    ],
+    "text": "Kalen needs fired brick for citadel repairs faster than the kilns can safely produce it."
+  },
+  {
+    "id": 17,
+    "importance": 6,
+    "tags": [
+      "compromise"
+    ],
+    "text": "We argue about it every planting season."
+  },
+  {
+    "id": 18,
+    "importance": 5,
+    "tags": [
+      "elira"
+    ],
+    "text": "The woman in the abandoned house once asked me for old tally-marks on wood counts."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": [
+      "record_gap"
+    ],
+    "text": "I gave her what I remembered. The official counts before the Turning are missing."
+  },
+  {
+    "id": 20,
+    "importance": 7,
+    "tags": [
+      "pattern"
+    ],
+    "text": "I believe the missing counts are not an accident."
+  },
+  {
+    "id": 21,
+    "importance": 6,
+    "tags": [
+      "roka_naru"
+    ],
+    "text": "Roka tells me herd paths near the far groves have shifted too."
+  },
+  {
+    "id": 22,
+    "importance": 6,
+    "tags": [
+      "animal_sense"
+    ],
+    "text": "Animals avoid over-cut ground before people admit it's over-cut."
+  },
+  {
+    "id": 23,
+    "importance": 5,
+    "tags": [
+      "training"
+    ],
+    "text": "I am training Fen to read a grove's health, not just its wood."
+  },
+  {
+    "id": 24,
+    "importance": 5,
+    "tags": [
+      "hope"
+    ],
+    "text": "If he learns it young, maybe this town won't repeat my father's mistakes."
+  },
+  {
+    "id": 25,
+    "importance": 7,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I no longer believe the Turning was only about the river."
+  },
+  {
+    "id": 26,
+    "importance": 7,
+    "tags": [
+      "theory"
+    ],
+    "text": "I think the land was already weakened by how much we burned to build ourselves up."
+  },
+  {
+    "id": 27,
+    "importance": 6,
+    "tags": [
+      "silence"
+    ],
+    "text": "I don't say this at Assembly meetings. No one wants to hear it."
+  },
+  {
+    "id": 28,
+    "importance": 6,
+    "tags": [
+      "yara_relationship"
+    ],
+    "text": "Yara is the only one who takes the idea seriously without dismissing it."
+  },
+  {
+    "id": 29,
+    "importance": 5,
+    "tags": [
+      "personal"
+    ],
+    "text": "I am tired in a way rest doesn't fix."
+  },
+  {
+    "id": 30,
+    "importance": 6,
+    "tags": [
+      "resolve"
+    ],
+    "text": "Still, the kilns get fed. The town still needs walls and roofs."
+  }
+]

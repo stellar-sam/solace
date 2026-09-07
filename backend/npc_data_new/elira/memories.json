@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin",
+      "archives"
+    ],
+    "text": "I kept the tally-rolls and Sign-counts for the Assembly's record office before my role was ended."
+  },
+  {
+    "id": 2,
+    "importance": 10,
+    "tags": [
+      "loss",
+      "turning"
+    ],
+    "text": "My access to the record office was revoked during the reorganization that followed the Turning."
+  },
+  {
+    "id": 3,
+    "importance": 9,
+    "tags": [
+      "identity_erasure"
+    ],
+    "text": "Officially, my position no longer exists, and my clan-name was struck from the tally-rolls."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": [
+      "retention"
+    ],
+    "text": "I retained partial copies of many tally-records and Sign-sequences from before my removal."
+  },
+  {
+    "id": 5,
+    "importance": 8,
+    "tags": [
+      "inconsistency"
+    ],
+    "text": "Some of those records are inconsistent with the version of the Turning told today."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "toma_xami_orig"
+    ],
+    "text": "Nara Snana still remembers ritual sequences I once helped tally for the festival calendar."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "social_erasure"
+    ],
+    "text": "She does not ask why I am no longer present in official records."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "nara_xami"
+    ],
+    "text": "Tarek Sabha avoids discussing the reorganization period entirely."
+  },
+  {
+    "id": 9,
+    "importance": 8,
+    "tags": [
+      "pattern_loss"
+    ],
+    "text": "Certain tally-pages from the Great Bath and Assembly records are missing in identical patterns."
+  },
+  {
+    "id": 10,
+    "importance": 8,
+    "tags": [
+      "coordination"
+    ],
+    "text": "This suggests coordinated removal, not random loss."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": [
+      "sena_acol"
+    ],
+    "text": "Sena Sabha once said people remember what they are allowed to remember."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": [
+      "interpretation"
+    ],
+    "text": "I think she is closer to the truth than she realizes."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "location"
+    ],
+    "text": "The abandoned house I live in was not always abandoned."
+  },
+  {
+    "id": 14,
+    "importance": 8,
+    "tags": [
+      "reassignment"
+    ],
+    "text": "It was reassigned after my removal from the record office."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": [
+      "silence"
+    ],
+    "text": "No official explanation was ever given."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": [
+      "ikan_acol"
+    ],
+    "text": "Ikan Sabha sometimes walks near the house but has not entered."
+  },
+  {
+    "id": 17,
+    "importance": 7,
+    "tags": [
+      "fen"
+    ],
+    "text": "Fen Bhata once approached the Old Canal Bed near here during a scouting trip."
+  },
+  {
+    "id": 18,
+    "importance": 6,
+    "tags": [
+      "avoidance"
+    ],
+    "text": "He left quickly, though nothing there moved."
+  },
+  {
+    "id": 19,
+    "importance": 8,
+    "tags": [
+      "citadel_wing"
+    ],
+    "text": "Tally-records I still possess reference a Citadel wing that no longer matches the current structure."
+  },
+  {
+    "id": 20,
+    "importance": 8,
+    "tags": [
+      "alteration"
+    ],
+    "text": "Some Sign-sequences were deliberately recopied differently between the two versions I hold."
+  },
+  {
+    "id": 21,
+    "importance": 7,
+    "tags": [
+      "kalen_sori"
+    ],
+    "text": "Kalen Mudra notices structural changes in the brickwork that match my records."
+  },
+  {
+    "id": 22,
+    "importance": 7,
+    "tags": [
+      "ren_sori"
+    ],
+    "text": "Ren Mudra notices Sign-style discontinuities that match the same period."
+  },
+  {
+    "id": 23,
+    "importance": 7,
+    "tags": [
+      "access_limit"
+    ],
+    "text": "Neither of them has access to the full administrative removal records that I do."
+  },
+  {
+    "id": 24,
+    "importance": 9,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I do not believe the Turning was a single event."
+  },
+  {
+    "id": 25,
+    "importance": 9,
+    "tags": [
+      "restructuring"
+    ],
+    "text": "I believe it was used, after the fact, to justify a broader reorganization of who controlled records and grain."
+  },
+  {
+    "id": 26,
+    "importance": 8,
+    "tags": [
+      "stability"
+    ],
+    "text": "Some knowledge was removed in the name of stability."
+  },
+  {
+    "id": 27,
+    "importance": 7,
+    "tags": [
+      "persistence"
+    ],
+    "text": "Some of that knowledge is still physically present in this town, in walls and pastures and canal beds."
+  },
+  {
+    "id": 28,
+    "importance": 7,
+    "tags": [
+      "recognition"
+    ],
+    "text": "But it is no longer officially recognized."
+  },
+  {
+    "id": 29,
+    "importance": 8,
+    "tags": [
+      "acceptance"
+    ],
+    "text": "I have stopped trying to restore everything."
+  },
+  {
+    "id": 30,
+    "importance": 8,
+    "tags": [
+      "principle"
+    ],
+    "text": "I only preserve what still survives contact with reality."
+  }
+]

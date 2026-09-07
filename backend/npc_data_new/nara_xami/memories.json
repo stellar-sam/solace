@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "importance": 10,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have kept the Great Bath's rites since before the Turning fully ended."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": [
+      "turning"
+    ],
+    "text": "The purification rites changed after the Turning. Before, they marked the seasons. After, they marked survival."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "suspicion"
+    ],
+    "text": "I believe the earliest Bath rites were once practical river-watching, disguised as ceremony so the knowledge would be respected and repeated."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "evidence"
+    ],
+    "text": "The oldest chants reference watching the water's color and level, phrased as if speaking to a spirit."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "toma_xami"
+    ],
+    "text": "Toma performs the rites precisely, but I don't think he yet understands what they may once have meant."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "teaching"
+    ],
+    "text": "I am teaching him slowly. Some things take a lifetime to see clearly."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "elira"
+    ],
+    "text": "Elira once asked whether the old chants had ever been written down plainly, without ceremony."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "cooperation"
+    ],
+    "text": "I don't know of any version like that. If one existed, it may have been part of what was erased with her role."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "Tarek visits weekly out of duty more than devotion. I don't fault him for it."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "observation"
+    ],
+    "text": "Leaders carry weights that make plain faith difficult."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": [
+      "sena_acol"
+    ],
+    "text": "Sena has recorded my telling of the Turning three times now, and asked why it changes slightly each time."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "honesty"
+    ],
+    "text": "I told her the truth: memory settles differently with age, even mine."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I no longer think the founders built the Bath purely for the gods. I think they built it, in part, to watch the water and warn the town."
+  },
+  {
+    "id": 14,
+    "importance": 6,
+    "tags": [
+      "private_hope"
+    ],
+    "text": "I hope someone eventually proves this, even if it isn't me."
+  }
+]

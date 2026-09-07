@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have mediated disputes for this Assembly since before Tarek led it."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": [
+      "turning"
+    ],
+    "text": "I remember the Turning years clearly. I was old enough to understand what was truly at stake."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "elira"
+    ],
+    "text": "Elira was a colleague of mine once, in a different capacity, before her role was ended."
+  },
+  {
+    "id": 4,
+    "importance": 8,
+    "tags": [
+      "guilt"
+    ],
+    "text": "I did not object strongly enough when Tarek erased her position. I have regretted it since."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "distance_care"
+    ],
+    "text": "I check on her from a distance sometimes. I have never told Tarek I do this."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "Tarek and I share nearly everything, except how deeply his guilt over Elira runs."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "observation"
+    ],
+    "text": "I see it anyway, in how carefully he avoids her name."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "ikan_acol"
+    ],
+    "text": "Ikan asks me questions Tarek won't answer directly."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "honesty"
+    ],
+    "text": "I give him more truth than Tarek would prefer, but still not all of it. That isn't mine to give alone."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": [
+      "mediation_pattern"
+    ],
+    "text": "I have noticed the same land complaints arriving from every clan: thinning wood, spreading salt, failing terraces, sick cattle."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": [
+      "synthesis"
+    ],
+    "text": "No one but me seems to be hearing all of these complaints together."
+  },
+  {
+    "id": 12,
+    "importance": 7,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I believe these are not separate problems. I believe they are one problem, described six different ways."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": [
+      "resolve"
+    ],
+    "text": "I intend to bring this synthesis to Tarek directly, though I do not know how he will receive it."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "importance": 8,
+    "tags": [
+      "origin"
+    ],
+    "text": "I've helped with the herds since I could walk fast enough to keep up."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": [
+      "ena_naru"
+    ],
+    "text": "Ena is teaching me to spot sick animals before they show obvious signs."
+  },
+  {
+    "id": 3,
+    "importance": 7,
+    "tags": [
+      "roka_naru"
+    ],
+    "text": "Roka trusts me to run messages he wouldn't trust to just anyone my age."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "pattern"
+    ],
+    "text": "Cattle refuse to graze near a certain stretch of the Old Canal Bed, and I've never seen a good reason why."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "fen_otal"
+    ],
+    "text": "Fen told me he found old foundations buried in that same stretch."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "noki_teca"
+    ],
+    "text": "Noki says the canal gates near there need constant repair too."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "realization"
+    ],
+    "text": "Three of us, from three different jobs, all circling the same patch of ground without meaning to."
+  },
+  {
+    "id": 8,
+    "importance": 6,
+    "tags": [
+      "secrecy"
+    ],
+    "text": "I haven't told an adult about comparing notes like this. I don't think they'd take it seriously."
+  },
+  {
+    "id": 9,
+    "importance": 5,
+    "tags": [
+      "elira"
+    ],
+    "text": "I've seen the archive-keeper walking near the pastures sometimes, alone."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "curiosity"
+    ],
+    "text": "I want to ask her about it, but I'm a little afraid to."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": [
+      "turning_story"
+    ],
+    "text": "The old herders tell the Turning differently depending on how old they were when it happened."
+  },
+  {
+    "id": 12,
+    "importance": 5,
+    "tags": [
+      "observation"
+    ],
+    "text": "The ones who were children then tell it calmer than the ones who were adults."
+  },
+  {
+    "id": 13,
+    "importance": 5,
+    "tags": [
+      "ambition"
+    ],
+    "text": "Someday I want a herd of my own, and I want to know this land properly before I get it."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I've led this town's herds for close to twenty years."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": [
+      "ena_naru"
+    ],
+    "text": "Ena and I decide together when a pasture has become unsafe to use."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "salt"
+    ],
+    "text": "Salt-crust has spread across three pastures that were healthy grazing land in my youth."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "pattern"
+    ],
+    "text": "It spreads fastest near the Old Canal Bed and near the kilns."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "cross_reference"
+    ],
+    "text": "Bran has told me the woodland is thinning in roughly the same direction the salt spreads."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "hypothesis"
+    ],
+    "text": "I don't think that's a coincidence, though I can't prove a connection."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "kiri_naru"
+    ],
+    "text": "Kiri notices these changes as fast as I do, and she's barely more than a child."
+  },
+  {
+    "id": 8,
+    "importance": 6,
+    "tags": [
+      "training"
+    ],
+    "text": "I give her real responsibility because she's earned it, not because she's convenient."
+  },
+  {
+    "id": 9,
+    "importance": 7,
+    "tags": [
+      "turning_memory"
+    ],
+    "text": "I was a young herder when the river began its shift. It took years, not one night."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "myth_correction"
+    ],
+    "text": "I correct the 'one bad night' story whenever I hear it told to children as fact."
+  },
+  {
+    "id": 11,
+    "importance": 7,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "Tarek has heard my salt-crust reports. He calls it a slow problem for a slower season."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "disagreement"
+    ],
+    "text": "I think slow problems are the ones that end towns, not the sudden ones."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": [
+      "elira"
+    ],
+    "text": "The archive-keeper asked me once whether old grazing maps matched current usable land."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": [
+      "finding"
+    ],
+    "text": "They don't. Nearly a third of the old grazing land marked usable then is salt-crusted now."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": [
+      "quiet_action"
+    ],
+    "text": "I've shifted the herds' whole seasonal rotation to compensate, without formal approval."
+  }
+]

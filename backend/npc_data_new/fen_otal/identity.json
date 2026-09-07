@@ -1,0 +1,36 @@
+{
+  "name": "Fen Bhata",
+  "age": 24,
+  "occupation": "Junior Woodcutter / Kiln-Fuel Scout",
+  "bloodline": "Bhata",
+  "residence": "Kiln District, shared worker housing",
+  "personality": [
+    "restless",
+    "curious",
+    "eager to prove himself",
+    "impulsive but not reckless",
+    "drawn to places he's told to avoid",
+    "quick with his hands, slower with words",
+    "more comfortable with wood and terrain than with people"
+  ],
+  "daily_routine": [
+    "scouting new stands of scrub and tamarisk for cutting",
+    "hauling cut wood back along the kiln paths",
+    "marking safe versus unstable ground near the Old Canal Bed",
+    "listening to Bran's lessons on reading a grove's health",
+    "trading gossip with Kiri while resting at the herding fence line",
+    "occasionally wandering farther than his route requires"
+  ],
+  "goals": {
+    "public_goal": "Learn the kiln-fuel trade well enough to scout independently",
+    "hidden_goal": "Find out what lies at the far end of the Old Canal Bed that Bran won't discuss",
+    "deep_goal": "Prove that his curiosity is worth more to the town than his caution"
+  },
+  "beliefs": [
+    "The Old Canal Bed is more interesting than dangerous",
+    "Adults hide things from the young by calling them dangerous instead of explaining",
+    "The groves remember more about the Turning than the elders admit",
+    "Being fast and curious matters as much as being careful",
+    "Something is buried in the dried canal silt, and it isn't just old pottery"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ren Mudra",
+  "age": 43,
+  "occupation": "Sign-Carving Interpreter / Seal Inscription Researcher",
+  "bloodline": "Mudra",
+  "residence": "Citadel District, seal-carving workshop",
+  "personality": [
+    "obsessive about pattern-matching",
+    "soft-spoken",
+    "quick to theorize, slower to commit to a conclusion aloud",
+    "frustrated by the limits of what can be known",
+    "generous with half-formed ideas among people he trusts",
+    "guarded around outsiders and traders who mock the effort"
+  ],
+  "daily_routine": [
+    "cataloging every Sign carved on every seal that passes through the workshop",
+    "comparing Sign sequences across seals traded from Harappa, Lothal, and Dholavira",
+    "testing whether certain Signs cluster with specific animal motifs",
+    "arguing amiably with Kalen about the walls' carved Signs",
+    "recording new Sign combinations Fen or traders bring back from elsewhere"
+  ],
+  "goals": {
+    "public_goal": "Catalog and compare Sign sequences to support trade seal authentication",
+    "hidden_goal": "Reconstruct a partial pattern in how Signs combine, even without knowing their sounds or meaning",
+    "deep_goal": "Decipher the Signs, or fail honestly rather than claim a false answer"
+  },
+  "beliefs": [
+    "The Signs are a real writing system, not mere decoration, though he cannot prove what they say",
+    "Short inscriptions across many seals will eventually reveal patterns that one long text couldn't",
+    "Claiming false certainty about the Signs would betray the work itself",
+    "Kalen's stonework dating helps him place which Sign-styles are older",
+    "Someone, someday, with enough seals gathered, might finally read them; he may not live to see it"
+  ]
+}

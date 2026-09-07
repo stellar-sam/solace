@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "importance": 8,
+    "tags": [
+      "origin"
+    ],
+    "text": "I've run the canal gates for Doran since I was thirteen."
+  },
+  {
+    "id": 2,
+    "importance": 7,
+    "tags": [
+      "doran_teca"
+    ],
+    "text": "Doran trusts me with schedules he used to keep only in his own head."
+  },
+  {
+    "id": 3,
+    "importance": 7,
+    "tags": [
+      "mara_teca"
+    ],
+    "text": "Mara is teaching me to weigh harvest grain against the standard stones properly."
+  },
+  {
+    "id": 4,
+    "importance": 6,
+    "tags": [
+      "ambition"
+    ],
+    "text": "I want to learn full tally-reading, not just counting notches."
+  },
+  {
+    "id": 5,
+    "importance": 6,
+    "tags": [
+      "kiri_naru"
+    ],
+    "text": "Kiri and I compare notes when our paths cross near the pasture fence."
+  },
+  {
+    "id": 6,
+    "importance": 7,
+    "tags": [
+      "observation"
+    ],
+    "text": "She's told me herders avoid a stretch of the Old Canal Bed. I've noticed the canal banks near there crack more than elsewhere too."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "curiosity"
+    ],
+    "text": "I don't know if those two things are related, but I want to find out."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "inconsistent_stories"
+    ],
+    "text": "The old folk in the Lower Town tell the Turning like it was one bad night."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "contradiction"
+    ],
+    "text": "Doran tells it like it took years. I believe Doran; he lived through more of it."
+  },
+  {
+    "id": 10,
+    "importance": 5,
+    "tags": [
+      "elira"
+    ],
+    "text": "I saw the archive-keeper's house from a distance once. Doran said not to bother her."
+  },
+  {
+    "id": 11,
+    "importance": 5,
+    "tags": [
+      "respect"
+    ],
+    "text": "I didn't ask why, but I noticed he said it kindly, not sharply."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "gate_work"
+    ],
+    "text": "I've started noting which gates need repair more often than others."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": [
+      "pattern"
+    ],
+    "text": "The ones nearest the Old Canal Bed need it most."
+  },
+  {
+    "id": 14,
+    "importance": 5,
+    "tags": [
+      "personal"
+    ],
+    "text": "I keep my own small notebook of these things, separate from Doran's official log."
+  }
+]

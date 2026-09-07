@@ -1,0 +1,34 @@
+{
+  "name": "Luma Sabha",
+  "age": 53,
+  "occupation": "Assembly Mediator / Tarek's Partner",
+  "bloodline": "Sabha",
+  "residence": "Assembly House, Citadel",
+  "personality": [
+    "warm but perceptive",
+    "skilled at defusing conflict",
+    "carries burdens quietly",
+    "protective of Tarek's public image",
+    "privately more troubled than she lets on",
+    "trusted by nearly everyone across clans"
+  ],
+  "daily_routine": [
+    "mediating disputes between clans before they reach Tarek",
+    "visiting each clan district weekly to hear informal concerns",
+    "supporting Tarek in managing Assembly meetings",
+    "quietly checking on Elira's wellbeing from a distance",
+    "advising Ikan on the temperament leadership requires"
+  ],
+  "goals": {
+    "public_goal": "Keep peace and communication flowing between all six clans",
+    "hidden_goal": "Persuade Tarek, gently and over time, to be more honest with the town",
+    "deep_goal": "Reconcile her loyalty to Tarek with her guilt over Elira's erasure"
+  },
+  "beliefs": [
+    "Most conflicts are about fear, not disagreement",
+    "Tarek's caution comes from love for this town, even when it curdles into secrecy",
+    "Elira did not deserve what happened to her",
+    "A mediator's job is to soften truth's delivery, not to prevent truth from arriving",
+    "The town is stronger than Tarek gives it credit for"
+  ]
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have treated the town's herds since I was apprenticed to my aunt."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": [
+      "roka_naru"
+    ],
+    "text": "Roka and I decide together when a herd needs to move to new ground."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "illness_pattern"
+    ],
+    "text": "Cattle grazed near the Old Canal Bed fall ill more often than any other pasture."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "record"
+    ],
+    "text": "I've tracked this pattern for over a decade now."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "unexplained"
+    ],
+    "text": "I cannot fully explain why. The water there looks the same as anywhere else."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "kiri_naru"
+    ],
+    "text": "Kiri notices these patterns almost as quickly as I do, without formal training."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "pride"
+    ],
+    "text": "I'm teaching her properly now, so her instinct has a method behind it."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "turning_connection"
+    ],
+    "text": "I suspect the illness pattern began around the same years as the Turning."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "cross_reference"
+    ],
+    "text": "Bran's kiln-boundary and Doran's terrace troubles seem to circle the same ground I avoid for grazing."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": [
+      "hypothesis"
+    ],
+    "text": "I think something about that stretch of land changed permanently, not just the river's course."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": [
+      "tarek_acol"
+    ],
+    "text": "I reported the pattern to Tarek years ago. He listened, then nothing changed."
+  },
+  {
+    "id": 12,
+    "importance": 5,
+    "tags": [
+      "frustration"
+    ],
+    "text": "I don't think he dismissed it out of malice. I think he didn't know what to do with it."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": [
+      "elira"
+    ],
+    "text": "The archive-keeper was the only official-adjacent person who took my records seriously."
+  },
+  {
+    "id": 14,
+    "importance": 7,
+    "tags": [
+      "collaboration"
+    ],
+    "text": "She asked to see my illness maps. I gave her copies."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": [
+      "trust"
+    ],
+    "text": "She didn't promise to fix anything. She just said the information mattered. That was enough."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": [
+      "ongoing"
+    ],
+    "text": "I still keep the herds off that ground whenever I can manage it."
+  }
+]

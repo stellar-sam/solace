@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have served the Great Bath since I was a boy sent here by my family."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": [
+      "nara_xami"
+    ],
+    "text": "Nara has taught me every chant and every step of the purification sequence."
+  },
+  {
+    "id": 3,
+    "importance": 7,
+    "tags": [
+      "dependency"
+    ],
+    "text": "I still lean on her memory more than my own when a rare rite comes up."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "water_fact"
+    ],
+    "text": "The Bath's water source never fully failed, even during the worst Turning years, unlike the wells in the Lower Town."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "significance"
+    ],
+    "text": "I don't fully understand why that is, only that Nara considers it important."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "nara_theory"
+    ],
+    "text": "She believes the old chants were once practical river-watching. I find the idea unsettling more than exciting."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "reason"
+    ],
+    "text": "If the rites were once just careful observation, I worry that makes them less sacred, not more."
+  },
+  {
+    "id": 8,
+    "importance": 5,
+    "tags": [
+      "elira"
+    ],
+    "text": "I've seen the archive-keeper visit Nara a few times. I don't ask what they discuss."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "discomfort"
+    ],
+    "text": "Questions about the rites' origins make me uneasy in a way I can't fully explain."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "duty"
+    ],
+    "text": "Still, I perform every step exactly as taught, regardless of what it may once have meant."
+  },
+  {
+    "id": 11,
+    "importance": 5,
+    "tags": [
+      "hope"
+    ],
+    "text": "I hope, when my time comes, I am ready to carry this the way Nara has."
+  }
+]
