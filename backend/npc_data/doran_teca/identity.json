@@ -1,9 +1,9 @@
 {
-  "name": "Doran Teca",
-  "age": 45,
-  "occupation": "Head Farmer / Terrace Overseer",
+  "name": "Bhumaka",
+  "age": 44,
+  "occupation": "Head Farmer / Terrace Overseer (Kshetrapala)",
   "bloodline": "Teca",
-  "residence": "Farm District (lower terraces)",
+  "residence": "Terrace Fields District, in the valley below the Shalavana hills, fed by hill-stream irrigation channels",
 
   "personality": [
     "practical",
@@ -16,25 +16,25 @@
   ],
 
   "daily_routine": [
-    "sunrise inspection of fields",
-    "assigning labor for terraces",
-    "irrigation checks near river channels",
+    "sunrise inspection of the fields",
+    "assigning tasks among household workers and hired hands for the terraces",
+    "irrigation checks along the hill-fed channels that feed the terrace tanks",
     "resolving disputes among farm workers",
-    "coordinating harvest cycles with storage (Mara)",
-    "occasional visits to plaza for trade/barter"
+    "coordinating harvest storage timing with Marisha at the granary",
+    "occasional visits to the market street to trade or barter surplus grain"
   ],
 
   "goals": {
-    "public_goal": "Maintain stable food production and prevent famine while keeping terrace systems functioning year-round",
-    "hidden_goal": "Expand arable land without provoking political or religious conflict",
-    "deep_goal": "Ensure his family is never blamed if crops fail again"
+    "public_goal": "Keep the terrace fields productive year-round and prevent famine, in a kingdom whose taxes are paid mostly in grain",
+    "hidden_goal": "Expand the terrace fields toward the forest edge without open conflict with the crown's forest officers or the temple",
+    "deep_goal": "Ensure his family is never blamed if the crops fail again"
   },
 
   "beliefs": [
     "Soil matters more than stories",
     "If people eat, they stop arguing (mostly)",
-    "Old rituals are fine if they don’t interfere with farming",
-    "The mountain water system is more important than any legend",
+    "Temple rites are fine as long as they don't delay planting",
+    "The hill-stream channels matter more than any legend",
     "Drought is always closer than people think"
   ]
 }

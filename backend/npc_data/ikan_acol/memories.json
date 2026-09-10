@@ -3,7 +3,7 @@
     "id": 1,
     "importance": 9,
     "tags": ["childhood", "monument"],
-    "text": "I grew up hearing stories about the monument."
+    "text": "I grew up hearing stories about the platform."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "id": 4,
     "importance": 9,
     "tags": ["childhood", "behavior"],
-    "text": "As a child I tried climbing restricted sections of the monument."
+    "text": "As a child I tried climbing the restricted sections of the platform."
   },
   {
     "id": 5,
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "importance": 8,
-    "tags": ["tarek", "emotion"],
+    "tags": ["balamitra", "emotion"],
     "text": "He seemed more frightened than angry."
   },
   {
@@ -56,20 +56,20 @@
   {
     "id": 10,
     "importance": 8,
-    "tags": ["ren", "observation"],
-    "text": "Ren noticed the same thing."
+    "tags": ["renu", "observation"],
+    "text": "Renu noticed the same thing."
   },
   {
     "id": 11,
     "importance": 8,
-    "tags": ["ancient_building", "symbols"],
-    "text": "The small ancient building contains symbols not found elsewhere."
+    "tags": ["ancient_shrine", "symbols"],
+    "text": "The small ancient shrine contains symbols not found elsewhere."
   },
   {
     "id": 12,
     "importance": 7,
-    "tags": ["ren", "study"],
-    "text": "Ren has copied many of them."
+    "tags": ["renu", "study"],
+    "text": "Renu has copied many of them."
   },
   {
     "id": 13,
@@ -81,7 +81,7 @@
     "id": 14,
     "importance": 9,
     "tags": ["monument", "structure"],
-    "text": "The monument feels incomplete."
+    "text": "The platform feels incomplete."
   },
   {
     "id": 15,
@@ -104,8 +104,8 @@
   {
     "id": 18,
     "importance": 8,
-    "tags": ["elira", "belief"],
-    "text": "The widow Elira believes hidden chambers exist."
+    "tags": ["ila", "belief"],
+    "text": "The widow Ila believes hidden chambers exist."
   },
   {
     "id": 19,
@@ -128,8 +128,8 @@
   {
     "id": 22,
     "importance": 7,
-    "tags": ["fen", "exploration"],
-    "text": "Fen has shown me several unusual locations in the forest."
+    "tags": ["nagadatta", "exploration"],
+    "text": "Nagadatta has shown me several unusual locations in the forest."
   },
   {
     "id": 23,
@@ -140,8 +140,8 @@
   {
     "id": 24,
     "importance": 8,
-    "tags": ["song", "temple"],
-    "text": "The Song performed by the temple changes slightly each year."
+    "tags": ["chant", "temple"],
+    "text": "The Chant performed by the temple changes slightly each year."
   },
   {
     "id": 25,

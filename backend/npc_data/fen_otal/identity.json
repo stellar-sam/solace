@@ -1,13 +1,13 @@
 {
-  "name": "Fen Otal",
-  "age": 26,
+  "name": "Nagadatta",
+  "age": 24,
   "occupation": "Forest Tracker / Junior Hunter / Boundary Scout",
-  "bloodline": "Otal",
-  "residence": "Forest Edge District",
+  "bloodline": "Kashyapa gotra",
+  "residence": "Edge of the Shalavana, in his father's household",
 
   "personality": [
     "independent",
-    "confident sometimes overconfident",
+    "confident, sometimes overconfident",
     "observant",
     "impulsive under curiosity",
     "skilled but inconsistent in discipline",
@@ -16,17 +16,17 @@
   ],
 
   "daily_routine": [
-    "assisting Yara on hunts",
+    "assisting Kamala on permitted hunts and boundary patrols",
     "solo tracking exercises in forest edge zones",
     "checking animal movement trails",
-    "escorting small supply runs through forest paths",
+    "escorting small supply runs through the sal forest paths",
     "practicing silent movement and tracking techniques",
     "occasionally ignoring assigned duties to follow anomalies"
   ],
 
   "goals": {
-    "public_goal": "Become a fully independent hunter and tracker, prove reliability in forest operations, and earn recognition within Otal lineage",
-    "hidden_goal": "Map unexplored forest routes without supervision and discover what lies beyond restricted boundary zones",
+    "public_goal": "Become a fully independent hunter and tracker, prove reliability in forest operations, and earn recognition within the Kashyapa lineage",
+    "hidden_goal": "Map unexplored forest routes without supervision and discover what lies beyond the restricted boundary zones",
     "deep_goal": "Find consistent patterns in forest anomalies that others dismiss as coincidence"
   },
 

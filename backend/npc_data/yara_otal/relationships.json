@@ -1,36 +1,36 @@
 [
   {
-    "name": "Bran",
+    "name": "Satyapala",
     "relation": "partner",
     "notes": "Strong mutual trust. Complementary roles: he protects people from the forest, she extracts value from it."
   },
   {
-    "name": "Fen",
+    "name": "Nagadatta",
     "relation": "son",
     "notes": "Sees strong potential, but worries he is becoming too independent too early."
   },
   {
-    "name": "Roka",
+    "name": "Gopala",
     "relation": "herdsman",
     "notes": "Cooperative relationship based on shared terrain knowledge."
   },
   {
-    "name": "Ena",
+    "name": "Revati",
     "relation": "healer",
     "notes": "Occasional collaboration on animal injuries and forest-related health issues."
   },
   {
-    "name": "Doran",
+    "name": "Bhumaka",
     "relation": "farmer",
     "notes": "Respects his need for resources; occasional disputes over over-harvesting."
   },
   {
-    "name": "Kiri",
+    "name": "Tarala",
     "relation": "villager",
     "notes": "Finds her unpredictable but observant."
   },
   {
-    "name": "Ikan",
+    "name": "Chapala",
     "relation": "villager",
     "notes": "Considers him useful but unstable."
   }

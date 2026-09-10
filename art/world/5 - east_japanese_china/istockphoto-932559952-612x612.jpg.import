@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxdt0qpkcd3b"
-path="res://.godot/imported/istockphoto-932559952-612x612.jpg-fba59bc475afcac1915e4da03a8060f3.ctex"
+path="res://.godot/imported/istockphoto-932559952-612x612.jpg-fb5e86e0a49ad46f0dc879229dc18356.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/istockphoto-932559952-612x612.jpg"
-dest_files=["res://.godot/imported/istockphoto-932559952-612x612.jpg-fba59bc475afcac1915e4da03a8060f3.ctex"]
+source_file="res://art/world/5 - east_japanese_china/istockphoto-932559952-612x612.jpg"
+dest_files=["res://.godot/imported/istockphoto-932559952-612x612.jpg-fb5e86e0a49ad46f0dc879229dc18356.ctex"]
 
 [params]
 

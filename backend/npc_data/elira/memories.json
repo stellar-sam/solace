@@ -3,13 +3,13 @@
     "id": 1,
     "importance": 10,
     "tags": ["origin", "archives"],
-    "text": "I worked in the administrative record division before my role was removed."
+    "text": "I served in the Akshapatala, the office of royal records, before my post was dissolved."
   },
   {
     "id": 2,
     "importance": 10,
-    "tags": ["loss", "night_of_ash"],
-    "text": "My access to archives was revoked after the Night of Ash restructuring."
+    "tags": ["loss", "kalinga_ash"],
+    "text": "My access to the archives was revoked in the restructuring that followed the ash from Kalinga."
   },
   {
     "id": 3,
@@ -21,31 +21,31 @@
     "id": 4,
     "importance": 8,
     "tags": ["retention"],
-    "text": "I retained partial copies of many documents."
+    "text": "I kept partial copies of many records."
   },
   {
     "id": 5,
     "importance": 8,
     "tags": ["inconsistency"],
-    "text": "Some of those documents are inconsistent with current village history."
+    "text": "Some of those records don't match the village's current official history."
   },
   {
     "id": 6,
     "importance": 7,
-    "tags": ["toma_xami"],
-    "text": "Toma still remembers procedural systems I used to manage."
+    "tags": ["vasu"],
+    "text": "Vasu still remembers the procedures I used to manage."
   },
   {
     "id": 7,
     "importance": 7,
     "tags": ["social_erasure"],
-    "text": "He does not ask why I am no longer present in official records."
+    "text": "He doesn't ask why I no longer appear in the official rolls."
   },
   {
     "id": 8,
     "importance": 7,
-    "tags": ["nara_xami"],
-    "text": "Nara avoids discussing administrative restructuring periods entirely."
+    "tags": ["nara"],
+    "text": "Nara avoids discussing the restructuring period entirely."
   },
   {
     "id": 9,
@@ -57,49 +57,49 @@
     "id": 10,
     "importance": 8,
     "tags": ["coordination"],
-    "text": "This suggests coordinated removal rather than random loss."
+    "text": "This suggests coordinated removal, not random loss."
   },
   {
     "id": 11,
     "importance": 7,
-    "tags": ["sena_acol"],
-    "text": "Sena Acol once said people remember what they are allowed to remember."
+    "tags": ["senaka"],
+    "text": "Senaka once said people remember only what they're permitted to remember."
   },
   {
     "id": 12,
     "importance": 7,
     "tags": ["interpretation"],
-    "text": "I think she is closer to truth than she realizes."
+    "text": "I think she's closer to the truth than she realizes."
   },
   {
     "id": 13,
     "importance": 7,
     "tags": ["location"],
-    "text": "The abandoned house was not always abandoned."
+    "text": "The abandoned quarter wasn't always abandoned."
   },
   {
     "id": 14,
     "importance": 8,
     "tags": ["reassignment"],
-    "text": "It was reassigned after my removal from records."
+    "text": "It was reassigned after I was struck from the records."
   },
   {
     "id": 15,
     "importance": 6,
     "tags": ["silence"],
-    "text": "No official explanation was provided."
+    "text": "No official explanation was given."
   },
   {
     "id": 16,
     "importance": 6,
-    "tags": ["ikan_acol"],
-    "text": "Ikan sometimes passes near the house but does not enter."
+    "tags": ["chapala"],
+    "text": "Chapala sometimes passes near the house but doesn't go in."
   },
   {
     "id": 17,
     "importance": 7,
-    "tags": ["fen"],
-    "text": "Fen once approached it during exploration."
+    "tags": ["nagadatta"],
+    "text": "Nagadatta once approached it while exploring."
   },
   {
     "id": 18,
@@ -111,49 +111,49 @@
     "id": 19,
     "importance": 8,
     "tags": ["monument"],
-    "text": "Monument records I still possess do not match current inscriptions exactly."
+    "text": "The records I still hold of the old platform don't match its current inscriptions exactly."
   },
   {
     "id": 20,
     "importance": 8,
     "tags": ["alteration"],
-    "text": "Some symbols were deliberately altered between versions."
+    "text": "Some symbols were deliberately changed between versions."
   },
   {
     "id": 21,
     "importance": 7,
-    "tags": ["kalen_sori"],
-    "text": "Kalen notices structural changes."
+    "tags": ["kaladatta"],
+    "text": "Kaladatta notices structural changes."
   },
   {
     "id": 22,
     "importance": 7,
-    "tags": ["ren_sori"],
-    "text": "Ren notices symbolic discontinuities."
+    "tags": ["renu"],
+    "text": "Renu notices discontinuities in the symbols."
   },
   {
     "id": 23,
     "importance": 7,
     "tags": ["access_limit"],
-    "text": "Neither has access to full administrative deletion records."
+    "text": "Neither has access to the full record of what was deleted."
   },
   {
     "id": 24,
     "importance": 9,
     "tags": ["belief_shift"],
-    "text": "I do not believe the Night of Ash was a single event."
+    "text": "I don't believe the ash-year was a single event."
   },
   {
     "id": 25,
     "importance": 9,
     "tags": ["restructuring"],
-    "text": "I believe it was used as justification for systemic restructuring."
+    "text": "I believe it was used as the reason for a wider restructuring of the administration."
   },
   {
     "id": 26,
     "importance": 8,
     "tags": ["stability"],
-    "text": "Some knowledge was removed for stability purposes."
+    "text": "Some knowledge was removed in the name of stability."
   },
   {
     "id": 27,
@@ -171,12 +171,12 @@
     "id": 29,
     "importance": 8,
     "tags": ["acceptance"],
-    "text": "I have stopped trying to restore everything."
+    "text": "I've stopped trying to restore everything."
   },
   {
     "id": 30,
     "importance": 8,
     "tags": ["principle"],
-    "text": "I only preserve what still survives contact with reality."
+    "text": "I only preserve what still survives contact with what's real."
   }
 ]

@@ -2,8 +2,8 @@
   {
     "id": 1,
     "importance": 10,
-    "tags": ["training", "yara"],
-    "text": "I learned tracking skills from Yara."
+    "tags": ["training", "kamala"],
+    "text": "I learned tracking skills from Kamala."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "id": 3,
     "importance": 8,
     "tags": ["authority_conflict"],
-    "text": "She does not approve of me going too far alone."
+    "text": "She doesn't approve of me going too far alone."
   },
   {
     "id": 4,
@@ -26,20 +26,20 @@
   {
     "id": 5,
     "importance": 8,
-    "tags": ["bran", "warning"],
-    "text": "Bran says I will get myself killed if I ignore boundaries."
+    "tags": ["satyapala", "warning"],
+    "text": "Satyapala says I'll get myself killed if I ignore the boundaries."
   },
   {
     "id": 6,
     "importance": 7,
     "tags": ["perspective"],
-    "text": "I think he is too cautious."
+    "text": "I think he's too cautious."
   },
   {
     "id": 7,
     "importance": 7,
-    "tags": ["kiri"],
-    "text": "Kiri and I sometimes follow animal trails together."
+    "tags": ["tarala"],
+    "text": "Tarala and I sometimes follow animal trails together."
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "id": 12,
     "importance": 7,
     "tags": ["perception"],
-    "text": "Not empty—quiet."
+    "text": "Not empty — quiet."
   },
   {
     "id": 13,
@@ -81,7 +81,7 @@
     "id": 14,
     "importance": 9,
     "tags": ["anomaly", "monument_direction"],
-    "text": "I once followed a herd into a high-altitude path leading toward upper terraces."
+    "text": "I once followed a herd into a high path leading toward the upper terraces."
   },
   {
     "id": 15,
@@ -92,32 +92,32 @@
   {
     "id": 16,
     "importance": 6,
-    "tags": ["secrecy", "bran"],
-    "text": "I did not tell Bran."
+    "tags": ["secrecy", "satyapala"],
+    "text": "I didn't tell Satyapala."
   },
   {
     "id": 17,
     "importance": 6,
     "tags": ["family_history"],
-    "text": "Fen’s uncle died in a logging accident years ago."
+    "text": "My father's brother died in a felling accident years ago, when a sal tree came down wrong in the monsoon."
   },
   {
     "id": 18,
     "importance": 5,
     "tags": ["silence"],
-    "text": "Bran never talks about it directly."
+    "text": "Satyapala never talks about it directly."
   },
   {
     "id": 19,
     "importance": 6,
     "tags": ["interpretation"],
-    "text": "I think that shaped his fear of the forest."
+    "text": "I think that shaped his wariness of the forest."
   },
   {
     "id": 20,
     "importance": 7,
-    "tags": ["yara"],
-    "text": "Yara records animal movement patterns."
+    "tags": ["kamala"],
+    "text": "Kamala records animal movement patterns."
   },
   {
     "id": 21,
@@ -140,8 +140,8 @@
   {
     "id": 24,
     "importance": 7,
-    "tags": ["ikan"],
-    "text": "Ikan once said the monument has routes that are not roads."
+    "tags": ["chapala"],
+    "text": "Chapala once said the platform has routes that aren't roads."
   },
   {
     "id": 25,

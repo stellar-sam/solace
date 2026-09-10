@@ -1,9 +1,9 @@
 {
-  "name": "Kiri Naru",
-  "age": 16,
+  "name": "Tarala",
+  "age": 15,
   "occupation": "Herd Helper / Path Runner / Informal Scout",
-  "bloodline": "Naru",
-  "residence": "Husbandry District (but rarely stays in one place)",
+  "bloodline": "Gopala (herder lineage, father's family)",
+  "residence": "Goshala Quarter — the cattle-keepers' district (but rarely stays in one place)",
 
   "personality": [
     "curious",
@@ -17,13 +17,13 @@
   ],
 
   "daily_routine": [
-    "assisting Roka with herd movement (often loosely)",
+    "assisting Gopala with herd movement (often loosely)",
     "delivering small messages between districts",
     "following animals into grazing zones",
-    "wandering forest edges",
-    "helping Ena gather herbs when found",
-    "visiting Sena for stories",
-    "spending long periods unsupervised near paths or ruins"
+    "wandering the forest edges near Satyapala's beat",
+    "helping Revati gather herbs when found",
+    "visiting Senaka for stories",
+    "spending long periods unsupervised near paths or the old terrace ruins"
   ],
 
   "goals": {
@@ -37,6 +37,6 @@
     "Some places feel like they are watching you",
     "Stories sometimes describe real places even if no one admits it",
     "Adults miss things because they stop looking closely",
-    "The village is bigger than what is officially used"
+    "The settlement is bigger than what is officially used"
   ]
 }

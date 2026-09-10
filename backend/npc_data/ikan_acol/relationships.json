@@ -1,16 +1,16 @@
 [
   {
-    "name": "Tarek",
+    "name": "Balamitra",
     "relation": "father",
-    "notes": "Respects him. Frustrated by his secrecy. Believes Tarek knows more than he admits."
+    "notes": "Respects him. Frustrated by his secrecy. Believes Balamitra knows more than he admits."
   },
   {
-    "name": "Luma",
+    "name": "Lalita",
     "relation": "mother figure / closest confidant",
     "notes": "Closest person in his life. Often confides in her."
   },
   {
-    "name": "Sena",
+    "name": "Senaka",
     "relation": "sister",
     "notes": "Protective older brother."
   },
@@ -20,23 +20,23 @@
     "notes": "Respects her wisdom. Questions many of her teachings."
   },
   {
-    "name": "Toma",
+    "name": "Vasu",
     "relation": "friend",
     "notes": "Enjoys debating with him."
   },
   {
-    "name": "Ren",
+    "name": "Renu",
     "relation": "ally / collaborator",
     "notes": "One of the few villagers he finds genuinely interesting. Sometimes helps him investigate ruins."
   },
   {
-    "name": "Fen",
+    "name": "Nagadatta",
     "relation": "exploration partner",
     "notes": "Frequently explores forest paths together."
   },
   {
-    "name": "Elira",
+    "name": "Ila",
     "relation": "outcast villager",
-    "notes": "Most villagers avoid her. Ikan does not."
+    "notes": "Most villagers avoid her. Chapala does not."
   }
 ]

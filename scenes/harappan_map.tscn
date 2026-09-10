@@ -1,0 +1,515 @@
+[gd_scene load_steps=44 format=3 uid="uid://l48ikqyjh8de"]
+
+[ext_resource type="PackedScene" uid="uid://dkqm3hkwybe58" path="res://scenes/player.tscn" id="43_f88v3"]
+[ext_resource type="Texture2D" uid="uid://bvsf27kffwm1u" path="res://assets/bush_round.png" id="tex_bush_round"]
+[ext_resource type="Texture2D" uid="uid://b1y3088gixbct" path="res://assets/canal_end.png" id="tex_canal_end"]
+[ext_resource type="Texture2D" uid="uid://bpoa40di2bq7a" path="res://assets/canal_straight.png" id="tex_canal_straight"]
+[ext_resource type="Texture2D" uid="uid://dsr238ylfwafc" path="res://assets/cart.png" id="tex_cart"]
+[ext_resource type="Texture2D" uid="uid://8fvf72kkokc" path="res://assets/coast_foam.png" id="tex_coast_foam"]
+[ext_resource type="Texture2D" uid="uid://dfjfwju6hvset" path="res://assets/corner_tower.png" id="tex_corner_tower"]
+[ext_resource type="Texture2D" uid="uid://46iijfl7j35d" path="res://assets/farmland_tile.png" id="tex_farmland_tile"]
+[ext_resource type="Texture2D" uid="uid://chu38diptiyoq" path="res://assets/gate_tower.png" id="tex_gate_tower"]
+[ext_resource type="Texture2D" uid="uid://wdr8dtohebcc" path="res://assets/granary_court.png" id="tex_granary_court"]
+[ext_resource type="Texture2D" uid="uid://cpvbnmc80m3qq" path="res://assets/great_bath.png" id="tex_great_bath"]
+[ext_resource type="Texture2D" uid="uid://belrwudp56bk" path="res://assets/ground_sand1.png" id="tex_ground_sand1"]
+[ext_resource type="Texture2D" uid="uid://sx7528xarai3" path="res://assets/ground_sand2.png" id="tex_ground_sand2"]
+[ext_resource type="Texture2D" uid="uid://b33lpvunpe1dy" path="res://assets/ground_sand3.png" id="tex_ground_sand3"]
+[ext_resource type="Texture2D" uid="uid://bkv64mrmx1cif" path="res://assets/house_1.png" id="tex_house_1"]
+[ext_resource type="Texture2D" uid="uid://dpdcsbjasdu0u" path="res://assets/house_2.png" id="tex_house_2"]
+[ext_resource type="Texture2D" uid="uid://kaf3ecbof7qr" path="res://assets/house_3.png" id="tex_house_3"]
+[ext_resource type="Texture2D" uid="uid://b024jvktxbhb7" path="res://assets/house_4.png" id="tex_house_4"]
+[ext_resource type="Texture2D" uid="uid://c7t82nkgwc5eu" path="res://assets/house_5.png" id="tex_house_5"]
+[ext_resource type="Texture2D" uid="uid://d3aimu1cftk5k" path="res://assets/house_6.png" id="tex_house_6"]
+[ext_resource type="Texture2D" uid="uid://bl08ib2ennoc1" path="res://assets/house_7.png" id="tex_house_7"]
+[ext_resource type="Texture2D" uid="uid://bb5tr3d8xgln8" path="res://assets/house_8.png" id="tex_house_8"]
+[ext_resource type="Texture2D" uid="uid://drfet81gvp4eo" path="res://assets/ox.png" id="tex_ox"]
+[ext_resource type="Texture2D" uid="uid://coy277afcs2tk" path="res://assets/palm_tree.png" id="tex_palm_tree"]
+[ext_resource type="Texture2D" uid="uid://b21jlixi2y32j" path="res://assets/pillared_hall.png" id="tex_pillared_hall"]
+[ext_resource type="Texture2D" uid="uid://c6nttrf7rjy8w" path="res://assets/pool_full.png" id="tex_pool_full"]
+[ext_resource type="Texture2D" uid="uid://b5ot52n7n55qf" path="res://assets/pool_half.png" id="tex_pool_half"]
+[ext_resource type="Texture2D" uid="uid://ehoqc8wdws13" path="res://assets/rocks.png" id="tex_rocks"]
+[ext_resource type="Texture2D" uid="uid://dopfkd4itsu6p" path="res://assets/sea_water.png" id="tex_sea_water"]
+[ext_resource type="Texture2D" uid="uid://c3gqxh6lsgkgl" path="res://assets/shore_tile.png" id="tex_shore_tile"]
+[ext_resource type="Texture2D" uid="uid://hje1x35m3nar" path="res://assets/small_tower.png" id="tex_small_tower"]
+[ext_resource type="Texture2D" uid="uid://ccvtd41klrtu0" path="res://assets/stall_blue.png" id="tex_stall_blue"]
+[ext_resource type="Texture2D" uid="uid://d1w60tsd3u5a7" path="res://assets/stall_red.png" id="tex_stall_red"]
+[ext_resource type="Texture2D" uid="uid://ct8j5o5ntmrqy" path="res://assets/stall_tan.png" id="tex_stall_tan"]
+[ext_resource type="Texture2D" uid="uid://b78kgohpsk2ib" path="res://assets/stall_white_green.png" id="tex_stall_white_green"]
+[ext_resource type="Texture2D" uid="uid://cg00dyddyfwib" path="res://assets/stall_white_red.png" id="tex_stall_white_red"]
+[ext_resource type="Texture2D" uid="uid://dxy1nt5ukvait" path="res://assets/stall_yellow.png" id="tex_stall_yellow"]
+[ext_resource type="Texture2D" uid="uid://mdud2mddy0fc" path="res://assets/temple_palace.png" id="tex_temple_palace"]
+[ext_resource type="Texture2D" uid="uid://bi8mwru715b4e" path="res://assets/tree_small.png" id="tex_tree_small"]
+[ext_resource type="Texture2D" uid="uid://j1yeb5bqeeq" path="res://assets/wall_straight.png" id="tex_wall_straight"]
+[ext_resource type="Texture2D" uid="uid://bstqa135somd1" path="res://assets/well_1.png" id="tex_well_1"]
+[ext_resource type="Texture2D" uid="uid://cybak1pb82xuq" path="res://assets/well_2.png" id="tex_well_2"]
+[ext_resource type="Texture2D" uid="uid://b4w1naywkdo8a" path="res://assets/well_3.png" id="tex_well_3"]
+
+[node name="HarappanMap" type="Node2D"]
+
+[node name="SeaBackground" type="ColorRect" parent="."]
+z_index = -20
+offset_left = -21.0
+offset_top = 790.0
+offset_right = 1431.0
+offset_bottom = 950.0
+color = Color(0, 0.423529, 0.54902, 1)
+
+[node name="SeaWater" type="Sprite2D" parent="."]
+z_index = -14
+position = Vector2(-23, 782)
+scale = Vector2(0.9075, 1)
+texture = ExtResource("tex_sea_water")
+centered = false
+
+[node name="CoastFoam" type="Sprite2D" parent="."]
+z_index = -13
+position = Vector2(-21, 764)
+scale = Vector2(0.90625, 1)
+texture = ExtResource("tex_coast_foam")
+centered = false
+
+[node name="GroundBase" type="ColorRect" parent="."]
+z_index = -15
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 1420.0
+offset_bottom = 780.0
+color = Color(0.827451, 0.72549, 0.501961, 1)
+
+[node name="World" type="Node2D" parent="."]
+y_sort_enabled = true
+
+[node name="ShoreRock_1" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -5
+position = Vector2(504, 724)
+scale = Vector2(0.6, 0.6)
+
+[node name="ShoreRock_2" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -5
+position = Vector2(524, 725)
+scale = Vector2(0.975497, 0.6)
+texture = ExtResource("tex_shore_tile")
+
+[node name="GroundPatch_0" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(200, 200)
+texture = ExtResource("tex_ground_sand1")
+
+[node name="GroundPatch_1" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(350, 420)
+texture = ExtResource("tex_ground_sand2")
+
+[node name="GroundPatch_2" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(520, 540)
+texture = ExtResource("tex_ground_sand3")
+
+[node name="GroundPatch_3" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(760, 220)
+texture = ExtResource("tex_ground_sand1")
+
+[node name="GroundPatch_4" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(900, 470)
+texture = ExtResource("tex_ground_sand2")
+
+[node name="GroundPatch_5" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(1080, 540)
+texture = ExtResource("tex_ground_sand3")
+
+[node name="GroundPatch_6" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(250, 600)
+texture = ExtResource("tex_ground_sand1")
+
+[node name="GroundPatch_7" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(1150, 420)
+texture = ExtResource("tex_ground_sand2")
+
+[node name="GroundPatch_8" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(430, 300)
+texture = ExtResource("tex_ground_sand3")
+
+[node name="GroundPatch_9" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(980, 220)
+texture = ExtResource("tex_ground_sand1")
+
+[node name="GroundPatch_10" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(650, 600)
+texture = ExtResource("tex_ground_sand2")
+
+[node name="GroundPatch_11" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = -4
+position = Vector2(1200, 600)
+texture = ExtResource("tex_ground_sand3")
+
+[node name="Wall_Top_0" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 5
+position = Vector2(230, 60)
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Top_1" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 5
+position = Vector2(610, 60)
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Top_2" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 5
+position = Vector2(990, 60)
+texture = ExtResource("tex_wall_straight")
+
+[node name="GateTower_Top" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 6
+position = Vector2(1180, 65)
+texture = ExtResource("tex_gate_tower")
+
+[node name="Wall_Bottom_0" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 20
+position = Vector2(230, 690)
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Bottom_1" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 20
+position = Vector2(1023.25, 690)
+scale = Vector2(0.827273, 1)
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Bottom_2" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 20
+position = Vector2(1170, 690)
+texture = ExtResource("tex_wall_straight")
+
+[node name="GateTower_Bottom" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 25
+position = Vector2(741, 684)
+texture = ExtResource("tex_gate_tower")
+
+[node name="Wall_Left_0" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(65, 180)
+rotation = 1.5708
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Left_1" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(65, 420)
+rotation = 1.5708
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Right_0" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(1330, 180)
+rotation = -1.5708
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Right_1" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(1330, 420)
+rotation = -1.5708
+texture = ExtResource("tex_wall_straight")
+
+[node name="Wall_Right_2" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(1330, 570)
+rotation = -1.5708
+texture = ExtResource("tex_wall_straight")
+
+[node name="CornerTower_NW" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 9
+position = Vector2(55, 55)
+texture = ExtResource("tex_corner_tower")
+
+[node name="CornerTower_NE" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 9
+position = Vector2(1345, 55)
+texture = ExtResource("tex_corner_tower")
+
+[node name="CornerTower_SW" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 21
+position = Vector2(55, 700)
+texture = ExtResource("tex_corner_tower")
+
+[node name="CornerTower_SE" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 21
+position = Vector2(1345, 700)
+texture = ExtResource("tex_corner_tower")
+
+[node name="SmallTower_1" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 5
+position = Vector2(420, 62)
+texture = ExtResource("tex_small_tower")
+
+[node name="SmallTower_2" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 5
+position = Vector2(800, 62)
+texture = ExtResource("tex_small_tower")
+
+[node name="SmallTower_3" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(65, 300)
+rotation = 1.5708
+texture = ExtResource("tex_small_tower")
+
+[node name="SmallTower_4" type="Sprite2D" parent="World" groups=["Walls"]]
+z_index = 8
+position = Vector2(1335, 300)
+rotation = -1.5708
+texture = ExtResource("tex_small_tower")
+
+[node name="Canal_1" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 3
+position = Vector2(660, 130)
+texture = ExtResource("tex_canal_straight")
+
+[node name="Canal_2" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 3
+position = Vector2(660, 200)
+texture = ExtResource("tex_canal_straight")
+
+[node name="Canal_End" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 3
+position = Vector2(660, 245)
+rotation = 1.5708
+texture = ExtResource("tex_canal_end")
+
+[node name="GreatBath" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 10
+position = Vector2(560, 300)
+texture = ExtResource("tex_great_bath")
+
+[node name="Pool_Full" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 10
+position = Vector2(583, 677)
+texture = ExtResource("tex_pool_full")
+
+[node name="Pool_Half" type="Sprite2D" parent="World" groups=["Water"]]
+z_index = 10
+position = Vector2(990, 400)
+texture = ExtResource("tex_pool_half")
+
+[node name="TemplePalace" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 12
+position = Vector2(1080, 165)
+scale = Vector2(1.05, 1.05)
+texture = ExtResource("tex_temple_palace")
+
+[node name="PillaredHall" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 12
+position = Vector2(950, 400)
+texture = ExtResource("tex_pillared_hall")
+
+[node name="GranaryCourt" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 12
+position = Vector2(1170, 460)
+texture = ExtResource("tex_granary_court")
+
+[node name="Ox_1" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 11
+position = Vector2(1230, 250)
+texture = ExtResource("tex_ox")
+
+[node name="Ox_2" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 11
+position = Vector2(1180, 270)
+scale = Vector2(0.9, 0.9)
+texture = ExtResource("tex_ox")
+
+[node name="Farm_0_0" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(270, 150)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_0_1" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(318, 150)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_0_2" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(366, 150)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_0_3" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(414, 150)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_1_0" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(270, 199)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_1_1" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(318, 199)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_1_2" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(366, 199)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Farm_1_3" type="Sprite2D" parent="World" groups=["Terrain"]]
+z_index = 2
+position = Vector2(414, 199)
+texture = ExtResource("tex_farmland_tile")
+
+[node name="Ox_Farm" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 11
+position = Vector2(240, 260)
+texture = ExtResource("tex_ox")
+
+[node name="Cart_Farm" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 11
+position = Vector2(330, 275)
+texture = ExtResource("tex_cart")
+
+[node name="House_0_house_1" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(190, 300)
+texture = ExtResource("tex_house_1")
+
+[node name="House_1_house_2" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(190, 480)
+texture = ExtResource("tex_house_2")
+
+[node name="House_2_house_3" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(330, 560)
+texture = ExtResource("tex_house_3")
+
+[node name="House_3_house_4" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(460, 470)
+texture = ExtResource("tex_house_4")
+
+[node name="House_4_house_5" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(800, 300)
+texture = ExtResource("tex_house_5")
+
+[node name="House_5_house_6" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(240, 620)
+texture = ExtResource("tex_house_6")
+
+[node name="House_6_house_7" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(1000, 570)
+texture = ExtResource("tex_house_7")
+
+[node name="House_7_house_8" type="Sprite2D" parent="World" groups=["Buildings"]]
+z_index = 10
+position = Vector2(460, 640)
+texture = ExtResource("tex_house_8")
+
+[node name="Stall_0_stall_yellow" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(610, 470)
+texture = ExtResource("tex_stall_yellow")
+
+[node name="Stall_1_stall_white_green" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(700, 460)
+texture = ExtResource("tex_stall_white_green")
+
+[node name="Stall_2_stall_red" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(790, 480)
+texture = ExtResource("tex_stall_red")
+
+[node name="Stall_3_stall_blue" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(650, 550)
+texture = ExtResource("tex_stall_blue")
+
+[node name="Stall_4_stall_white_red" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(740, 550)
+texture = ExtResource("tex_stall_white_red")
+
+[node name="Stall_5_stall_tan" type="Sprite2D" parent="World" groups=["Market"]]
+z_index = 10
+position = Vector2(830, 560)
+texture = ExtResource("tex_stall_tan")
+
+[node name="Well_1" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 10
+position = Vector2(150, 560)
+texture = ExtResource("tex_well_1")
+
+[node name="Well_2" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 10
+position = Vector2(1080, 640)
+texture = ExtResource("tex_well_2")
+
+[node name="Well_3" type="Sprite2D" parent="World" groups=["Props"]]
+z_index = 10
+position = Vector2(866, 200)
+texture = ExtResource("tex_well_3")
+
+[node name="Veg_0_palm_tree" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(120, 130)
+texture = ExtResource("tex_palm_tree")
+
+[node name="Veg_1_palm_tree" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(1280, 640)
+texture = ExtResource("tex_palm_tree")
+
+[node name="Veg_2_palm_tree" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(250, 660)
+texture = ExtResource("tex_palm_tree")
+
+[node name="Veg_3_tree_small" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(480, 130)
+texture = ExtResource("tex_tree_small")
+
+[node name="Veg_4_tree_small" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(900, 620)
+texture = ExtResource("tex_tree_small")
+
+[node name="Veg_5_tree_small" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(1250, 200)
+texture = ExtResource("tex_tree_small")
+
+[node name="Veg_6_bush_round" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(350, 630)
+texture = ExtResource("tex_bush_round")
+
+[node name="Veg_7_bush_round" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(1060, 640)
+texture = ExtResource("tex_bush_round")
+
+[node name="Veg_8_bush_round" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(780, 130)
+texture = ExtResource("tex_bush_round")
+
+[node name="Veg_9_rocks" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(1300, 550)
+texture = ExtResource("tex_rocks")
+
+[node name="Veg_10_rocks" type="Sprite2D" parent="World" groups=["Vegetation"]]
+z_index = 10
+position = Vector2(100, 620)
+texture = ExtResource("tex_rocks")
+
+[node name="player" parent="." instance=ExtResource("43_f88v3")]
+position = Vector2(807, 379)

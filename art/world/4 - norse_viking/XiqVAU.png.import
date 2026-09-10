@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjee6b0ctibnm"
-path="res://.godot/imported/XiqVAU.png-7d4dd5026f1a0680f71fb232a3600b31.ctex"
+path="res://.godot/imported/XiqVAU.png-bec9784efb303b736f023564e5086d74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/XiqVAU.png"
-dest_files=["res://.godot/imported/XiqVAU.png-7d4dd5026f1a0680f71fb232a3600b31.ctex"]
+source_file="res://art/world/4 - norse_viking/XiqVAU.png"
+dest_files=["res://.godot/imported/XiqVAU.png-bec9784efb303b736f023564e5086d74.ctex"]
 
 [params]
 

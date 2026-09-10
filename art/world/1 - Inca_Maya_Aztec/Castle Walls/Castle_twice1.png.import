@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfpobq0lc8o6v"
-path="res://.godot/imported/Castle_twice1.png-92088faa8d99b38db6463a4959ea0242.ctex"
+path="res://.godot/imported/Castle_twice1.png-320f487004b25366f4e6ba5879969733.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/Castle Walls/Castle_twice1.png"
-dest_files=["res://.godot/imported/Castle_twice1.png-92088faa8d99b38db6463a4959ea0242.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/Castle Walls/Castle_twice1.png"
+dest_files=["res://.godot/imported/Castle_twice1.png-320f487004b25366f4e6ba5879969733.ctex"]
 
 [params]
 

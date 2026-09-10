@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1jap4wqqdlam"
-path="res://.godot/imported/meiji-art.jpg-3ddd47f8c5688993688873324a1f4cb8.ctex"
+path="res://.godot/imported/meiji-art.jpg-9a561ec3399f3fc074cc11e1d885ef11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/meiji-art.jpg"
-dest_files=["res://.godot/imported/meiji-art.jpg-3ddd47f8c5688993688873324a1f4cb8.ctex"]
+source_file="res://art/world/5 - east_japanese_china/meiji-art.jpg"
+dest_files=["res://.godot/imported/meiji-art.jpg-9a561ec3399f3fc074cc11e1d885ef11.ctex"]
 
 [params]
 

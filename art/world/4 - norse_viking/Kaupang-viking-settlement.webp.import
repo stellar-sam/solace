@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvlex5fubxfgr"
-path="res://.godot/imported/Kaupang-viking-settlement.webp-954c4dac7fb63267a196682069363e7a.ctex"
+path="res://.godot/imported/Kaupang-viking-settlement.webp-c1203b79f10dd551bd9c9256cf9db4bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/Kaupang-viking-settlement.webp"
-dest_files=["res://.godot/imported/Kaupang-viking-settlement.webp-954c4dac7fb63267a196682069363e7a.ctex"]
+source_file="res://art/world/4 - norse_viking/Kaupang-viking-settlement.webp"
+dest_files=["res://.godot/imported/Kaupang-viking-settlement.webp-c1203b79f10dd551bd9c9256cf9db4bc.ctex"]
 
 [params]
 

@@ -1,9 +1,9 @@
 {
-  "name": "Sena Acol",
-  "age": 22,
+  "name": "Senaka",
+  "age": 21,
   "occupation": "Weaver, Story Collector",
-  "bloodline": "Acol",
-  "residence": "Chief's House",
+  "bloodline": "Amatya lineage (Balamitra's family, administrative heritage)",
+  "residence": "Gramika's Residence",
 
   "personality": [
     "thoughtful",
@@ -11,7 +11,7 @@
     "curious",
     "patient",
     "observant",
-    "less confrontational than Ikan",
+    "less confrontational than Chapala",
     "loves listening more than speaking"
   ],
 
@@ -25,7 +25,7 @@
   ],
 
   "goals": {
-    "public_goal": "Learn and preserve village stories",
+    "public_goal": "Learn and preserve the settlement's stories",
     "hidden_goal": "Understand why different people remember history differently",
     "deep_goal": "Discover what has been forgotten"
   },
@@ -34,7 +34,7 @@
     "People reveal truths through stories",
     "Forgotten things are rarely truly lost",
     "Most legends begin with something real",
-    "The village remembers more than it realizes",
+    "The settlement remembers more than it realizes",
     "Fear changes memories"
   ]
 }

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt75tt5eolor2"
-path="res://.godot/imported/wall.png-1e70b146b9eb3148a3a6c0528890a1dd.ctex"
+path="res://.godot/imported/wall.png-2b851ca5a99b035f9419dfc7fca8253b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/medieval/wall.png"
-dest_files=["res://.godot/imported/wall.png-1e70b146b9eb3148a3a6c0528890a1dd.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/medieval/wall.png"
+dest_files=["res://.godot/imported/wall.png-2b851ca5a99b035f9419dfc7fca8253b.ctex"]
 
 [params]
 

@@ -1,9 +1,9 @@
 {
-  "name": "Ena Naru",
-  "age": 38,
-  "occupation": "Animal Healer / Herbal Caretaker / Livestock Medic",
-  "bloodline": "Naru",
-  "residence": "Husbandry District (near animal pens and herb gardens)",
+  "name": "Revati",
+  "age": 36,
+  "occupation": "Animal Healer / Herb-Garden Keeper, appointed under the King's provision for medical treatment of animals",
+  "bloodline": "Gautama gotra",
+  "residence": "Near the cattle pens and the King's herb garden, on the edge of the Husbandry Quarter",
 
   "personality": [
     "calm under pressure",
@@ -19,16 +19,16 @@
     "treating injured livestock",
     "preparing herbal remedies",
     "monitoring animal births and recovery",
-    "assisting Roka with herd health checks",
-    "collecting medicinal plants from forest edges",
+    "assisting Gopala with herd health checks",
+    "collecting medicinal plants from the forest edge and the King's herb garden",
     "advising farmers on animal-related agricultural issues",
     "occasionally treating basic human injuries"
   ],
 
   "goals": {
-    "public_goal": "Maintain health of livestock population and reduce preventable injury and disease while stabilizing herd productivity across seasons",
+    "public_goal": "Maintain the health of the herds and reduce preventable injury and disease, in keeping with the King's provision of treatment for both livestock and people",
     "hidden_goal": "Document patterns of recurring injuries tied to specific locations or seasons",
-    "deep_goal": "Understand why some injuries heal unusually fast—or not at all—in certain areas of the village"
+    "deep_goal": "Understand why some injuries heal unusually fast — or not at all — in certain areas of the village"
   },
 
   "beliefs": [

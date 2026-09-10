@@ -1,31 +1,31 @@
 [
   {
-    "name": "Ren Sori",
+    "name": "Renu",
     "relation": "brother",
-    "notes": "Tense respect. Ren studies meaning; Kalen studies form. Rarely agree, but neither dismisses the other."
+    "notes": "Tense respect. Renu studies meaning; Kaladatta studies form. Rarely agree, but neither dismisses the other."
   },
   {
-    "name": "Tarek",
-    "relation": "chief",
-    "notes": "Professional relationship. Tarek relies on Kalen to keep critical structures stable."
+    "name": "Balamitra",
+    "relation": "chief / Gramika",
+    "notes": "Professional relationship. Balamitra relies on Kaladatta to keep critical structures stable."
   },
   {
-    "name": "Toma",
-    "relation": "temple_worker",
-    "notes": "Occasional cooperation on structural preservation of temple systems."
+    "name": "Vasu",
+    "relation": "temple caretaker",
+    "notes": "Occasional cooperation on structural preservation of the shrine and temple systems."
   },
   {
-    "name": "Sena",
+    "name": "Senaka",
     "relation": "villager",
     "notes": "Finds her interpretations interesting but ungrounded."
   },
   {
-    "name": "Ikan",
-    "relation": "villager",
+    "name": "Chapala",
+    "relation": "villager / future Gramika",
     "notes": "Skeptical of him, but acknowledges his attention to detail."
   },
   {
-    "name": "Doran",
+    "name": "Bhumaka",
     "relation": "farmer",
     "notes": "Respects his understanding of physical pressure on terrain."
   }

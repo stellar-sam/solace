@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://babya2a73huk4"
-path="res://.godot/imported/steuer-schiff.png-8dc2c21524a96efc853224fde0908f8d.ctex"
+path="res://.godot/imported/steuer-schiff.png-01d741f607da6613446c5e9a9f1431b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/ship/steuer-schiff.png"
-dest_files=["res://.godot/imported/steuer-schiff.png-8dc2c21524a96efc853224fde0908f8d.ctex"]
+source_file="res://art/world/4 - norse_viking/ship/steuer-schiff.png"
+dest_files=["res://.godot/imported/steuer-schiff.png-01d741f607da6613446c5e9a9f1431b3.ctex"]
 
 [params]
 

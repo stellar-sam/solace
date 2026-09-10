@@ -1,9 +1,9 @@
 {
-  "name": "Roka Naru",
-  "age": 38,
-  "occupation": "Head Herdsman / Llama & Alpaca Handler",
-  "bloodline": "Naru",
-  "residence": "Husbandry District (upper outskirts near grazing paths)",
+  "name": "Gopala",
+  "age": 39,
+  "occupation": "Head Herdsman / Cattle & Goat Handler",
+  "bloodline": "Abhira lineage (pastoral herding community)",
+  "residence": "Goshala Quarter (upper outskirts near grazing paths)",
 
   "personality": [
     "calm",
@@ -20,7 +20,7 @@
     "inspecting animal health",
     "tracking weather patterns",
     "maintaining mountain paths used by livestock",
-    "coordinating with Ena for veterinary care",
+    "coordinating with Revati for veterinary care",
     "delivering animals for trade or ritual needs",
     "monitoring predator activity near forest edge"
   ],

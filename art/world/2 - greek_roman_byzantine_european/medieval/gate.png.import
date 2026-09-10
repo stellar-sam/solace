@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2peev74otn36"
-path="res://.godot/imported/gate.png-717cca5ffef89d14f4e6e355a200aeaa.ctex"
+path="res://.godot/imported/gate.png-2941a4d9f67cc1fc65c986bf3449ef8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/medieval/gate.png"
-dest_files=["res://.godot/imported/gate.png-717cca5ffef89d14f4e6e355a200aeaa.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/medieval/gate.png"
+dest_files=["res://.godot/imported/gate.png-2941a4d9f67cc1fc65c986bf3449ef8f.ctex"]
 
 [params]
 

@@ -1,9 +1,9 @@
 {
-  "name": "Kalen Sori",
-  "age": 48,
-  "occupation": "Stoneworker / Structural Maintainer / Monument Repair Overseer",
-  "bloodline": "Sori",
-  "residence": "Monument District",
+  "name": "Kaladatta",
+  "age": 46,
+  "occupation": "Stonemason / Structural Maintainer / Palace-Pillar Overseer",
+  "bloodline": "Datta (hereditary stonemason lineage, serving the Mauryan court)",
+  "residence": "Kumrahar Quarter (Stoneworkers' precinct near the Great Assembly Hall)",
 
   "personality": [
     "precise",
@@ -18,26 +18,26 @@
   ],
 
   "daily_routine": [
-    "inspecting monument integrity",
-    "repairing cracks in stone structures",
-    "maintaining plaza foundations and pathways",
-    "studying wear patterns in ancient buildings",
-    "coordinating labor for heavy stonework",
-    "monitoring structural shifts after seasonal rains",
-    "cataloging reused or replaced stone sections"
+    "inspecting the integrity of palace pillars and the Great Hall",
+    "repairing cracks in stone and fired-brick foundations",
+    "maintaining the assembly plaza and processional pathways",
+    "studying wear patterns in the older wooden-palisade sections",
+    "coordinating labor for heavy stonework and pillar transport",
+    "monitoring structural shifts after the monsoon rains",
+    "cataloging reused, replaced, or re-dressed stone blocks"
   ],
 
   "goals": {
-    "public_goal": "Maintain structural integrity of all major stoneworks, prevent collapse or degradation of monument systems, and ensure safe use of plaza and temple infrastructure",
-    "hidden_goal": "Identify original construction phases of the monument complex and separate original stonework from later repairs",
-    "deep_goal": "Understand whether different sections of the monument were built at different times or by different methods"
+    "public_goal": "Maintain the structural integrity of the palace complex, prevent collapse or degradation of the Great Hall and ramparts, and ensure safe use of the plaza and shrine infrastructure",
+    "hidden_goal": "Identify the original construction phases of the palace-monument complex and separate the old wooden-palisade work, the brick-era additions, and the later polished Chunar-stone work from one another",
+    "deep_goal": "Understand whether different sections of the complex were built under different rulers, by different methods, or by different hands entirely"
   },
 
   "beliefs": [
-    "Stonework preserves truth better than stories",
+    "Stone and timber preserve truth better than court chronicles",
     "Most mysteries are just misunderstood construction layers",
     "Reused stone tells a history people forget to read",
-    "Structural anomalies are more important than legends",
-    "The monument is not a single object, but a layered system"
+    "Structural anomalies matter more than palace legends",
+    "The complex is not a single monument, but a layered system built across generations"
   ]
 }

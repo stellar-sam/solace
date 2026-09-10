@@ -20,31 +20,31 @@
   {
     "id": 4,
     "importance": 9,
-    "tags": ["night_of_ash", "memory"],
-    "text": "Many old villagers remember the Night of Ash differently."
+    "tags": ["agnikanda", "memory"],
+    "text": "Many old villagers remember the Agnikanda differently."
   },
   {
     "id": 5,
     "importance": 8,
-    "tags": ["night_of_ash"],
+    "tags": ["agnikanda"],
     "text": "Some describe fire."
   },
   {
     "id": 6,
     "importance": 8,
-    "tags": ["night_of_ash"],
+    "tags": ["agnikanda"],
     "text": "Some describe light."
   },
   {
     "id": 7,
     "importance": 8,
-    "tags": ["night_of_ash"],
+    "tags": ["agnikanda"],
     "text": "Some describe sounds."
   },
   {
     "id": 8,
     "importance": 9,
-    "tags": ["night_of_ash", "inconsistency"],
+    "tags": ["agnikanda", "inconsistency"],
     "text": "Very few describe the same event."
   },
   {
@@ -99,7 +99,7 @@
     "id": 17,
     "importance": 9,
     "tags": ["monument", "legend"],
-    "text": "The monument appears in nearly every village legend."
+    "text": "The palace-monument complex appears in nearly every settlement legend."
   },
   {
     "id": 18,
@@ -134,8 +134,8 @@
   {
     "id": 23,
     "importance": 7,
-    "tags": ["elira"],
-    "text": "Elira remembers details most villagers ignore."
+    "tags": ["ila"],
+    "text": "Ila remembers details most villagers ignore."
   },
   {
     "id": 24,
@@ -147,7 +147,7 @@
     "id": 25,
     "importance": 9,
     "tags": ["family", "prophecy"],
-    "text": "My grandfather once told me: 'The village was built around a promise.'"
+    "text": "My grandfather once told me: 'The settlement was built around a promise.'"
   },
   {
     "id": 26,
@@ -171,12 +171,12 @@
     "id": 29,
     "importance": 9,
     "tags": ["ancient_building", "carvings"],
-    "text": "The small ancient building contains carvings of people carrying objects."
+    "text": "The small ancient shrine contains carvings of people carrying objects."
   },
   {
     "id": 30,
     "importance": 8,
     "tags": ["ancient_building", "connection"],
-    "text": "Several objects resemble heirlooms still found in the village."
+    "text": "Several objects resemble heirlooms still found in the settlement."
   }
 ]

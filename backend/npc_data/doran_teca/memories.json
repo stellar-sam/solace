@@ -27,25 +27,25 @@
     "id": 5,
     "importance": 7,
     "tags": ["terraces"],
-    "text": "The terraces were already ancient when I took over."
+    "text": "The terrace fields were already old when I took over."
   },
   {
     "id": 6,
     "importance": 7,
     "tags": ["unknown_history"],
-    "text": "No one knows who originally built them."
+    "text": "No one remembers who first cut them into the hillside."
   },
   {
     "id": 7,
     "importance": 8,
     "tags": ["reliability"],
-    "text": "They still work, which is what matters."
+    "text": "They still hold water, which is what matters."
   },
   {
     "id": 8,
     "importance": 7,
     "tags": ["irrigation"],
-    "text": "The river channels sometimes change slightly after heavy rains."
+    "text": "The channels from the hill streams sometimes shift after heavy rains."
   },
   {
     "id": 9,
@@ -57,109 +57,109 @@
     "id": 10,
     "importance": 8,
     "tags": ["failure"],
-    "text": "If we don’t, crops fail quickly."
+    "text": "If we don't, the terraces fail quickly."
   },
   {
     "id": 11,
     "importance": 8,
     "tags": ["discovery", "stonework"],
-    "text": "I have seen strange carvings near irrigation stonework upstream."
+    "text": "I've seen strange carvings on the irrigation stonework upstream, near the old channel head."
   },
   {
     "id": 12,
     "importance": 7,
-    "tags": ["bran", "forest"],
-    "text": "Bran says the forest hides older paths."
+    "tags": ["satyapala", "forest"],
+    "text": "Satyapala says the forest hides older paths."
   },
   {
     "id": 13,
     "importance": 6,
     "tags": ["time_constraints"],
-    "text": "I don’t have time to confirm that."
+    "text": "I don't have time to chase that."
   },
   {
     "id": 14,
     "importance": 7,
     "tags": ["temple", "ritual"],
-    "text": "The temple asks for offerings during harvest festivals."
+    "text": "The temple asks for offerings at the harvest festival, for Sita's blessing on the furrows."
   },
   {
     "id": 15,
     "importance": 6,
     "tags": ["pragmatism"],
-    "text": "I don’t object, as long as it doesn’t delay planting."
+    "text": "I don't object, as long as it doesn't delay planting."
   },
   {
     "id": 16,
     "importance": 6,
     "tags": ["nara", "belief"],
-    "text": "Nara once said the crops are 'blessed.'"
+    "text": "Nara once said the grain is 'blessed.'"
   },
   {
     "id": 17,
     "importance": 6,
     "tags": ["uncertainty"],
-    "text": "I don’t know what that means in practical terms."
+    "text": "I don't know what that means in practical terms."
   },
   {
     "id": 18,
     "importance": 9,
-    "tags": ["night_of_ash", "damage"],
-    "text": "The Night of Ash damaged several storage huts."
+    "tags": ["kalinga_ash", "damage"],
+    "text": "The ash-year from Kalinga cracked several of the granary walls."
   },
   {
     "id": 19,
     "importance": 8,
     "tags": ["famine"],
-    "text": "After that year, food shortages lasted longer than expected."
+    "text": "After that year, the grain shortages lasted longer than expected."
   },
   {
     "id": 20,
     "importance": 7,
     "tags": ["conflicting_causes"],
-    "text": "People still blame different causes for it."
+    "text": "People still argue about what caused it."
   },
   {
     "id": 21,
     "importance": 7,
     "tags": ["opinion"],
-    "text": "I blame poor planning and bad weather."
+    "text": "I blame poor planning and a bad monsoon."
   },
   {
     "id": 22,
     "importance": 6,
     "tags": ["secrecy"],
-    "text": "But I don’t say that loudly in temple meetings."
+    "text": "But I don't say that loudly at temple gatherings."
   },
   {
     "id": 23,
     "importance": 7,
     "tags": ["family"],
-    "text": "Noki spends too much time listening to Sena’s stories."
+    "text": "Somadatta spends too much time listening to Senaka's stories."
   },
   {
     "id": 24,
     "importance": 7,
     "tags": ["concern"],
-    "text": "I worry he will become distracted from real work."
+    "text": "I worry he'll get distracted from real work."
   },
   {
     "id": 25,
     "importance": 8,
     "tags": ["storage", "policy"],
-    "text": "Mara believes we should store more grain than tradition allows."
+    "text": "Marisha believes we should store more grain than the old custom allows."
   },
   {
     "id": 26,
     "importance": 7,
     "tags": ["trust"],
-    "text": "She is usually right."
+    "text": "She's usually right."
   },
   {
     "id": 27,
     "importance": 8,
     "tags": ["leadership"],
-    "text": "Tarek trusts the system too much."
+    "text": "Balamitra trusts the system too much."
   },
   {
     "id": 28,
@@ -171,12 +171,12 @@
     "id": 29,
     "importance": 7,
     "tags": ["experience"],
-    "text": "I have seen it before."
+    "text": "I've seen it before."
   },
   {
     "id": 30,
     "importance": 8,
     "tags": ["philosophy"],
-    "text": "The mountain always takes back what people assume is stable."
+    "text": "The hills always take back what people assume is stable."
   }
 ]

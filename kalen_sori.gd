@@ -96,7 +96,7 @@ func _process(delta):
 			anim.play("walk_down")
 		
 	if (Input.is_action_just_pressed("chat") and player_in_chat_zone):
-		$Dialogue.start_ai_dialogue("Kalen Sori", "...")
+		$Dialogue.start_ai_dialogue("Kaladatta", "...")
 		is_roaming = false
 		is_chatting = true
 		anim.flip_h = false

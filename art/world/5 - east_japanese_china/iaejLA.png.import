@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cee1dxl4eafjc"
-path="res://.godot/imported/iaejLA.png-36e6af0841554e96f48b4a67d0f3258d.ctex"
+path="res://.godot/imported/iaejLA.png-021032263e198836b7b6e3974c94a883.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/iaejLA.png"
-dest_files=["res://.godot/imported/iaejLA.png-36e6af0841554e96f48b4a67d0f3258d.ctex"]
+source_file="res://art/world/5 - east_japanese_china/iaejLA.png"
+dest_files=["res://.godot/imported/iaejLA.png-021032263e198836b7b6e3974c94a883.ctex"]
 
 [params]
 

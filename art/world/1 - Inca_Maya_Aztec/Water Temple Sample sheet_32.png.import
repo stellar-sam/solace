@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://84av3fxvtul5"
-path="res://.godot/imported/Water Temple Sample sheet_32.png-207642ae8a526476e6e1a406c748a326.ctex"
+path="res://.godot/imported/Water Temple Sample sheet_32.png-4b6d5533c4d24ca85a22411b35e7a7b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/Water Temple Sample sheet_32.png"
-dest_files=["res://.godot/imported/Water Temple Sample sheet_32.png-207642ae8a526476e6e1a406c748a326.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/Water Temple Sample sheet_32.png"
+dest_files=["res://.godot/imported/Water Temple Sample sheet_32.png-4b6d5533c4d24ca85a22411b35e7a7b4.ctex"]
 
 [params]
 

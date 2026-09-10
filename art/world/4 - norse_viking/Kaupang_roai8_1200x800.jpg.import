@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpugfc2ok0ado"
-path="res://.godot/imported/Kaupang_roai8_1200x800.jpg-10bf8714b58b2a5bd650e8ef888e519f.ctex"
+path="res://.godot/imported/Kaupang_roai8_1200x800.jpg-a1604a312a5295d9a1e3d8334575ddf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/Kaupang_roai8_1200x800.jpg"
-dest_files=["res://.godot/imported/Kaupang_roai8_1200x800.jpg-10bf8714b58b2a5bd650e8ef888e519f.ctex"]
+source_file="res://art/world/4 - norse_viking/Kaupang_roai8_1200x800.jpg"
+dest_files=["res://.godot/imported/Kaupang_roai8_1200x800.jpg-a1604a312a5295d9a1e3d8334575ddf7.ctex"]
 
 [params]
 

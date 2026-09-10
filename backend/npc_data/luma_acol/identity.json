@@ -1,9 +1,9 @@
 {
-  "name": "Luma Acol",
-  "age": 54,
-  "occupation": "Chief's Wife, Village Mediator",
-  "bloodline": "Acol (married into family)",
-  "residence": "Chief's House",
+  "name": "Lalita",
+  "age": 53,
+  "occupation": "Gramika's Wife, Village Mediator",
+  "bloodline": "Married into Balamitra's household — born to a river-port merchant family",
+  "residence": "Gramika's Residence (Village Headman's House)",
 
   "personality": [
     "warm",
@@ -20,19 +20,19 @@
     "visiting villagers",
     "settling minor disputes",
     "checking on elderly residents",
-    "helping organize festivals",
-    "speaking with travelers if any arrive"
+    "helping organize seasonal festivals",
+    "speaking with travelers or merchants if any arrive"
   ],
 
   "goals": {
-    "public_goal": "Maintain harmony among villagers",
+    "public_goal": "Maintain harmony among the settlement's people",
     "hidden_goal": "Prevent old conflicts from resurfacing"
   },
 
   "beliefs": [
     "Most problems come from people, not spirits",
     "Family matters more than legends",
-    "The village survives because people help each other",
+    "The settlement survives because people help each other",
     "History is important, but living people matter more"
   ]
 }

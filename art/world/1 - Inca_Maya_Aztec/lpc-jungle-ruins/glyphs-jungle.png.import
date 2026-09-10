@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxmvcutdlya7p"
-path="res://.godot/imported/glyphs-jungle.png-b3f2f8774f085a07fd41caaf930162a6.ctex"
+path="res://.godot/imported/glyphs-jungle.png-ff0e56631ec839e3554a7785457de686.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/lpc-jungle-ruins/glyphs-jungle.png"
-dest_files=["res://.godot/imported/glyphs-jungle.png-b3f2f8774f085a07fd41caaf930162a6.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/lpc-jungle-ruins/glyphs-jungle.png"
+dest_files=["res://.godot/imported/glyphs-jungle.png-ff0e56631ec839e3554a7785457de686.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwyfrkk5weic4"
-path="res://.godot/imported/desertTileset.png-8635a11fb60a19253b37a9f0a23e64c2.ctex"
+path="res://.godot/imported/desertTileset.png-36545dd49eb18ba7888133a6db3692f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/3- egyptian:babylonian:indus/desertTileset.png"
-dest_files=["res://.godot/imported/desertTileset.png-8635a11fb60a19253b37a9f0a23e64c2.ctex"]
+source_file="res://art/world/3- egyptian_babylonian_indus/desertTileset.png"
+dest_files=["res://.godot/imported/desertTileset.png-36545dd49eb18ba7888133a6db3692f5.ctex"]
 
 [params]
 

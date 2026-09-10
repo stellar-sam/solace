@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfpfm2q6ob6rv"
-path="res://.godot/imported/ship_rework-body.png-2a0f195ba2c217d4abd001ba89910cb7.ctex"
+path="res://.godot/imported/ship_rework-body.png-6011c1de6e69bc4d7194d5a7f0dd89f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/ship/ship_rework-body.png"
-dest_files=["res://.godot/imported/ship_rework-body.png-2a0f195ba2c217d4abd001ba89910cb7.ctex"]
+source_file="res://art/world/4 - norse_viking/ship/ship_rework-body.png"
+dest_files=["res://.godot/imported/ship_rework-body.png-6011c1de6e69bc4d7194d5a7f0dd89f7.ctex"]
 
 [params]
 

@@ -15,19 +15,19 @@
     "id": 3,
     "importance": 9,
     "tags": ["monument", "structure"],
-    "text": "The monument is older than the village, but not uniform in construction."
+    "text": "The palace complex is older than the settled town around it, but not uniform in construction."
   },
   {
     "id": 4,
     "importance": 8,
     "tags": ["analysis"],
-    "text": "Different sections show different tool marks."
+    "text": "Different sections show different tool marks — some from wood-joiners, some from brick-layers, some from stone-dressers."
   },
   {
     "id": 5,
     "importance": 8,
     "tags": ["construction_history"],
-    "text": "Some parts were clearly added later."
+    "text": "Some parts were clearly added later, especially the polished stone facings."
   },
   {
     "id": 6,
@@ -38,14 +38,14 @@
   {
     "id": 7,
     "importance": 7,
-    "tags": ["ren"],
-    "text": "Ren believes these differences represent symbolic phases."
+    "tags": ["renu"],
+    "text": "Renu believes these differences represent symbolic phases tied to dharma and ritual meaning."
   },
   {
     "id": 8,
     "importance": 8,
     "tags": ["disagreement"],
-    "text": "I believe they represent functional repairs."
+    "text": "I believe they represent functional repairs, nothing more."
   },
   {
     "id": 9,
@@ -57,7 +57,7 @@
     "id": 10,
     "importance": 8,
     "tags": ["plaza_shift"],
-    "text": "The central plaza has shifted slightly over many years."
+    "text": "The central assembly plaza has shifted slightly over many years, likely from the old timber substructure settling."
   },
   {
     "id": 11,
@@ -81,49 +81,49 @@
     "id": 14,
     "importance": 8,
     "tags": ["material_replacement"],
-    "text": "Certain stones in the monument have been replaced multiple times."
+    "text": "Certain pillars in the complex have been re-dressed or replaced multiple times."
   },
   {
     "id": 15,
     "importance": 8,
     "tags": ["material_source"],
-    "text": "The replacements do not match original material sources."
+    "text": "The replacement stone is polished sandstone from Chunar, far upriver — not the local stone used in the oldest work."
   },
   {
     "id": 16,
     "importance": 7,
     "tags": ["trade"],
-    "text": "That suggests trade or relocation of stone over long distances."
+    "text": "That suggests the pillars were quarried, floated down the Ganga, and hauled here at great cost — not simple local repair."
   },
   {
     "id": 17,
     "importance": 8,
     "tags": ["construction_method"],
-    "text": "The small ancient building near the temple uses different joining techniques than newer structures."
+    "text": "The small ancient shrine near the temple uses timber joinery techniques different from the newer brick-and-stone structures."
   },
   {
     "id": 18,
     "importance": 8,
     "tags": ["timeline"],
-    "text": "It may predate current construction knowledge."
+    "text": "It may predate the current masons' known building methods entirely — perhaps from before the palisade city itself."
   },
   {
     "id": 19,
     "importance": 7,
     "tags": ["documentation"],
-    "text": "I have documented tool mark inconsistencies across the monument base."
+    "text": "I have documented tool mark inconsistencies across the palace foundation."
   },
   {
     "id": 20,
     "importance": 6,
     "tags": ["records"],
-    "text": "No official record explains these differences."
+    "text": "No official record in the granary archives explains these differences."
   },
   {
     "id": 21,
     "importance": 6,
-    "tags": ["toma"],
-    "text": "Toma maintains ritual integrity but does not question structural origin."
+    "tags": ["vasu"],
+    "text": "Vasu maintains ritual integrity of the shrine but does not question its structural origin."
   },
   {
     "id": 22,
@@ -134,14 +134,14 @@
   {
     "id": 23,
     "importance": 7,
-    "tags": ["ikan"],
-    "text": "Ikan once asked about hidden chambers beneath the monument."
+    "tags": ["chapala"],
+    "text": "Chapala once asked about hidden chambers beneath the Great Hall."
   },
   {
     "id": 24,
     "importance": 7,
     "tags": ["stress_analysis"],
-    "text": "I told him there are stress points consistent with hollow spaces below."
+    "text": "I told her there are stress points consistent with hollow spaces below, near the old timber platform."
   },
   {
     "id": 25,
@@ -153,25 +153,25 @@
     "id": 26,
     "importance": 8,
     "tags": ["post_event"],
-    "text": "After the Night of Ash, some stone sections shifted slightly."
+    "text": "After the Agnikanda, the Night of Fire, some stone sections shifted slightly."
   },
   {
     "id": 27,
     "importance": 7,
     "tags": ["alignment"],
-    "text": "The shift was minor but noticeable in alignment measurements."
+    "text": "The shift was minor but noticeable in alignment measurements against the old plumb-marks."
   },
   {
     "id": 28,
     "importance": 8,
     "tags": ["repair_inconsistency"],
-    "text": "Repairs after that event do not fully match previous structural patterns."
+    "text": "Repairs made after that fire do not fully match the previous structural patterns."
   },
   {
     "id": 29,
     "importance": 9,
     "tags": ["suspicion"],
-    "text": "Someone altered construction details during repairs."
+    "text": "Someone altered construction details during those repairs."
   },
   {
     "id": 30,

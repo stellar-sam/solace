@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp85jeb4isoni"
-path="res://.godot/imported/barel.png-c655cb9c579a4dfa493d5ceecd496965.ctex"
+path="res://.godot/imported/barel.png-05c25bad17e2ff659b36ca74187ec949.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/medieval/barel.png"
-dest_files=["res://.godot/imported/barel.png-c655cb9c579a4dfa493d5ceecd496965.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/medieval/barel.png"
+dest_files=["res://.godot/imported/barel.png-05c25bad17e2ff659b36ca74187ec949.ctex"]
 
 [params]
 

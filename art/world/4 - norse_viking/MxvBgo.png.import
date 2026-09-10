@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ldmt8ot5xsao"
-path="res://.godot/imported/MxvBgo.png-48ceee9e17a213f4e91c1a5ea38072e0.ctex"
+path="res://.godot/imported/MxvBgo.png-64bb23184c5104bac42567a152380590.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/MxvBgo.png"
-dest_files=["res://.godot/imported/MxvBgo.png-48ceee9e17a213f4e91c1a5ea38072e0.ctex"]
+source_file="res://art/world/4 - norse_viking/MxvBgo.png"
+dest_files=["res://.godot/imported/MxvBgo.png-64bb23184c5104bac42567a152380590.ctex"]
 
 [params]
 

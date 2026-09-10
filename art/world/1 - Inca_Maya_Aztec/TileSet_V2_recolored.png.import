@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd16tdw5g0tgx"
-path="res://.godot/imported/TileSet_V2_recolored.png-a21f10d45c24d14a7d53388937e8e378.ctex"
+path="res://.godot/imported/TileSet_V2_recolored.png-2b59a0c542f33e087971e5c9c89e4f3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/TileSet_V2_recolored.png"
-dest_files=["res://.godot/imported/TileSet_V2_recolored.png-a21f10d45c24d14a7d53388937e8e378.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/TileSet_V2_recolored.png"
+dest_files=["res://.godot/imported/TileSet_V2_recolored.png-2b59a0c542f33e087971e5c9c89e4f3d.ctex"]
 
 [params]
 

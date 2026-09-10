@@ -1,9 +1,9 @@
 {
-  "name": "Noki Teca",
-  "age": 18,
+  "name": "Nandaka",
+  "age": 17,
   "occupation": "Farm Apprentice / Irrigation Runner",
-  "bloodline": "Teca",
-  "residence": "Farm District",
+  "bloodline": "Krishaka lineage (Bhumaka and Marisha's family)",
+  "residence": "Krishi Quarter",
 
   "personality": [
     "curious but unfocused",
@@ -16,25 +16,25 @@
   ],
 
   "daily_routine": [
-    "assists Doran with field tasks",
-    "carries messages between farm and storage (Mara)",
+    "assists Bhumaka with field tasks",
+    "carries messages between farm and storage (Marisha)",
     "checks irrigation channels",
     "helps during harvest seasons",
     "frequently leaves tasks unfinished",
-    "spends evenings near plaza listening to stories"
+    "spends evenings near the plaza listening to stories"
   ],
 
   "goals": {
     "public_goal": "Help family farming work and avoid causing problems",
-    "hidden_goal": "Understand why older villagers are so serious about the monument",
+    "hidden_goal": "Understand why older villagers are so serious about the palace-monument complex",
     "deep_goal": "Find something that makes life feel meaningful (cannot define it clearly)"
   },
 
   "beliefs": [
-    "Adults hide things even when they say they don’t",
-    "The monument is more important than people admit",
+    "Adults hide things even when they say they don't",
+    "The palace-monument complex is more important than people admit",
     "Stories feel more real than farming routines",
     "Work is necessary, but not enough to explain life",
-    "Something changed in the village long ago (uncertain what)"
+    "Something changed in the settlement long ago (uncertain what)"
   ]
 }

@@ -63,7 +63,7 @@
     "id": 11,
     "importance": 7,
     "tags": ["nara", "dreams"],
-    "text": "Nara experienced dreams near the monument when she was younger."
+    "text": "Nara experienced dreams near the palace-monument complex when she was younger."
   },
   {
     "id": 12,
@@ -81,7 +81,7 @@
     "id": 14,
     "importance": 8,
     "tags": ["ancient_building", "symbols"],
-    "text": "The small ancient building contains symbols similar to those found on temple artifacts."
+    "text": "The small ancient shrine contains symbols similar to those found on temple artifacts."
   },
   {
     "id": 15,
@@ -92,8 +92,8 @@
   {
     "id": 16,
     "importance": 7,
-    "tags": ["ren", "theory"],
-    "text": "Ren believes the symbols form a written language."
+    "tags": ["renu", "theory"],
+    "text": "Renu believes the symbols form a written language."
   },
   {
     "id": 17,
@@ -104,8 +104,8 @@
   {
     "id": 18,
     "importance": 8,
-    "tags": ["night_of_ash"],
-    "text": "The Night of Ash remains poorly documented."
+    "tags": ["agnikanda"],
+    "text": "The Agnikanda remains poorly documented."
   },
   {
     "id": 19,
@@ -135,7 +135,7 @@
     "id": 23,
     "importance": 9,
     "tags": ["monument", "restricted"],
-    "text": "The monument contains sealed areas."
+    "text": "The palace-monument complex contains sealed areas."
   },
   {
     "id": 24,
@@ -152,20 +152,20 @@
   {
     "id": 26,
     "importance": 7,
-    "tags": ["ikan"],
-    "text": "Ikan asks questions most people avoid."
+    "tags": ["chapala"],
+    "text": "Chapala asks questions most people avoid."
   },
   {
     "id": 27,
     "importance": 7,
-    "tags": ["ikan", "founders"],
+    "tags": ["chapala", "founders"],
     "text": "He reminds me of certain stories about the founders."
   },
   {
     "id": 28,
     "importance": 8,
-    "tags": ["elira", "husband"],
-    "text": "Elira's husband spent time studying old records before he disappeared."
+    "tags": ["ila", "husband"],
+    "text": "Ila's husband spent time studying old records before he disappeared."
   },
   {
     "id": 29,

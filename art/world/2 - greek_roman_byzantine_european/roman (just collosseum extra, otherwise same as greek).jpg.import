@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbd7c03dx6d60"
-path="res://.godot/imported/roman (just collosseum extra, otherwise same as greek).jpg-3cfaf8b3e69912dde632dfdf7b98f865.ctex"
+path="res://.godot/imported/roman (just collosseum extra, otherwise same as greek).jpg-48e09376b075f983710887a347cf3c26.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/roman (just collosseum extra, otherwise same as greek).jpg"
-dest_files=["res://.godot/imported/roman (just collosseum extra, otherwise same as greek).jpg-3cfaf8b3e69912dde632dfdf7b98f865.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/roman (just collosseum extra, otherwise same as greek).jpg"
+dest_files=["res://.godot/imported/roman (just collosseum extra, otherwise same as greek).jpg-48e09376b075f983710887a347cf3c26.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbmigbg4cabtl"
-path="res://.godot/imported/oT7H+Z.png-172fe18811c78a27ae482c91f34feea6.ctex"
+path="res://.godot/imported/oT7H+Z.png-d81e18decbaa20abee2372652bfa5b71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/oT7H+Z.png"
-dest_files=["res://.godot/imported/oT7H+Z.png-172fe18811c78a27ae482c91f34feea6.ctex"]
+source_file="res://art/world/5 - east_japanese_china/oT7H+Z.png"
+dest_files=["res://.godot/imported/oT7H+Z.png-d81e18decbaa20abee2372652bfa5b71.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db81hjdlmu2im"
-path="res://.godot/imported/Solaria Crops DEMO.png-dcb58ee354bea290a43e337b839d25d5.ctex"
+path="res://.godot/imported/Solaria Crops DEMO.png-ae10a31d885e323d34f5e72e1cbe727d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/Solaria Crops DEMO.png"
-dest_files=["res://.godot/imported/Solaria Crops DEMO.png-dcb58ee354bea290a43e337b839d25d5.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/Solaria Crops DEMO.png"
+dest_files=["res://.godot/imported/Solaria Crops DEMO.png-ae10a31d885e323d34f5e72e1cbe727d.ctex"]
 
 [params]
 

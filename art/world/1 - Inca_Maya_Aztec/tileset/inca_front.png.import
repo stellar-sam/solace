@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mimv7g1j4uwm"
-path="res://.godot/imported/inca_front.png-69e1f5226eda0e672a4c67b953d350ed.ctex"
+path="res://.godot/imported/inca_front.png-cdd61bf2c20359b2fdd18dfe24cbd600.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/tileset/inca_front.png"
-dest_files=["res://.godot/imported/inca_front.png-69e1f5226eda0e672a4c67b953d350ed.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/tileset/inca_front.png"
+dest_files=["res://.godot/imported/inca_front.png-cdd61bf2c20359b2fdd18dfe24cbd600.ctex"]
 
 [params]
 

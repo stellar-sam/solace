@@ -1,9 +1,9 @@
 {
-  "name": "Ren Sori",
-  "age": 44,
-  "occupation": "Symbolist / Carving Interpreter / Monument Inscription Researcher",
-  "bloodline": "Sori",
-  "residence": "Monument District",
+  "name": "Renu",
+  "age": 43,
+  "occupation": "Symbolist / Carving Interpreter / Palace-Monument Inscription Researcher",
+  "bloodline": "Datta (hereditary stonemason lineage — Kaladatta's brother)",
+  "residence": "Kumrahar Quarter",
 
   "personality": [
     "intellectually obsessive",
@@ -17,18 +17,18 @@
   ],
 
   "daily_routine": [
-    "studying carvings across monument sites",
+    "studying carvings across the palace-monument sites",
     "copying inscriptions into notebooks",
     "comparing symbol variations across structures",
     "interviewing elders about old phrases and songs",
     "cross-referencing temple records with stone markings",
     "mapping recurring motifs in architecture",
-    "arguing (softly) with Kalen about interpretation"
+    "arguing (softly) with Kaladatta about interpretation"
   ],
 
   "goals": {
-    "public_goal": "Document and preserve all known inscriptions and symbols, create a unified interpretation of monument carvings, and prevent loss of ancient knowledge",
-    "hidden_goal": "Prove that the monument system contains a structured message or sequence",
+    "public_goal": "Document and preserve all known inscriptions and symbols, create a unified interpretation of the palace-monument carvings, and prevent loss of ancient knowledge",
+    "hidden_goal": "Prove that the palace-monument system contains a structured message or sequence",
     "deep_goal": "Reconstruct the original language or symbolic system behind the carvings"
   },
 
@@ -36,7 +36,7 @@
     "Repetition in symbols is never accidental",
     "Architecture can encode language",
     "Oral traditions preserve distorted fragments of structured truth",
-    "The monument is a coherent system, not random relics",
+    "The palace-monument complex is a coherent system, not random relics",
     "Meaning survives even when its original context is lost"
   ]
 }

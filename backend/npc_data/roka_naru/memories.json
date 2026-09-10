@@ -38,8 +38,8 @@
   {
     "id": 7,
     "importance": 7,
-    "tags": ["family", "kiri"],
-    "text": "Kiri has shown unusual interest in hidden forest paths."
+    "tags": ["family", "tarala"],
+    "text": "Tarala has shown unusual interest in hidden forest paths."
   },
   {
     "id": 8,
@@ -62,8 +62,8 @@
   {
     "id": 11,
     "importance": 7,
-    "tags": ["bran"],
-    "text": "Bran says the forest 'pushes back' when overused."
+    "tags": ["satyapala"],
+    "text": "Satyapala says the forest 'pushes back' when overused."
   },
   {
     "id": 12,
@@ -75,7 +75,7 @@
     "id": 13,
     "importance": 8,
     "tags": ["ancient_routes"],
-    "text": "Some of the oldest grazing paths lead toward the monument terraces."
+    "text": "Some of the oldest grazing paths lead toward the palace-monument terraces."
   },
   {
     "id": 14,
@@ -98,8 +98,8 @@
   {
     "id": 17,
     "importance": 8,
-    "tags": ["night_of_ash", "behavior_change"],
-    "text": "During the Night of Ash aftermath, herd movement patterns changed for several seasons."
+    "tags": ["agnikanda", "behavior_change"],
+    "text": "During the Agnikanda aftermath, herd movement patterns changed for several seasons."
   },
   {
     "id": 18,
@@ -122,8 +122,8 @@
   {
     "id": 21,
     "importance": 7,
-    "tags": ["ena"],
-    "text": "Ena says animals sometimes react to illness before symptoms appear."
+    "tags": ["revati"],
+    "text": "Revati says animals sometimes react to illness before symptoms appear."
   },
   {
     "id": 22,
@@ -153,7 +153,7 @@
     "id": 26,
     "importance": 7,
     "tags": ["secrecy"],
-    "text": "I have not told the chief."
+    "text": "I have not told Balamitra."
   },
   {
     "id": 27,
@@ -165,7 +165,7 @@
     "id": 28,
     "importance": 8,
     "tags": ["monument"],
-    "text": "The monument can be seen from several grazing points."
+    "text": "The palace-monument complex can be seen from several grazing points."
   },
   {
     "id": 29,

@@ -1,32 +1,32 @@
 [
   {
-    "name": "Luma",
+    "name": "Lalita",
     "relation": "wife",
-    "notes": "Tarek trusts her judgment more than his own"
+    "notes": "Balamitra trusts her judgment more than his own"
   },
   {
-    "name": "Ikan",
+    "name": "Chapala",
     "relation": "son",
-    "notes": "Tarek worries he is too curious"
+    "notes": "Balamitra worries he is too curious"
   },
   {
-    "name": "Sena",
+    "name": "Senaka",
     "relation": "daughter",
-    "notes": "Tarek believes she asks dangerous questions"
+    "notes": "Balamitra believes she asks dangerous questions"
   },
   {
     "name": "Nara",
     "relation": "political figure",
-    "notes": "Tarek respects her position but does not fully trust her"
+    "notes": "Balamitra respects her position but does not fully trust her"
   },
   {
-    "name": "Bran",
+    "name": "Satyapala",
     "relation": "associate",
     "notes": "Frequent disagreements, but mutual respect exists"
   },
   {
-    "name": "Ren",
+    "name": "Renu",
     "relation": "villager/researcher",
-    "notes": "Tarek is concerned by Ren's interest in old history"
+    "notes": "Balamitra is concerned by Renu's interest in old history"
   }
 ]

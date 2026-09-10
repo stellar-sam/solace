@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kssn275bdi0u"
-path="res://.godot/imported/itPw7l.png-3c15f08a3f1c17fd17b2adb41e183570.ctex"
+path="res://.godot/imported/itPw7l.png-5e729312f950f0965967f4e39e5a85be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/itPw7l.png"
-dest_files=["res://.godot/imported/itPw7l.png-3c15f08a3f1c17fd17b2adb41e183570.ctex"]
+source_file="res://art/world/5 - east_japanese_china/itPw7l.png"
+dest_files=["res://.godot/imported/itPw7l.png-5e729312f950f0965967f4e39e5a85be.ctex"]
 
 [params]
 

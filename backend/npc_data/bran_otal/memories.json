@@ -3,180 +3,180 @@
     "id": 1,
     "importance": 10,
     "tags": ["family", "training"],
-    "text": "I learned forestry work from my uncle."
+    "text": "I learned forestry and boundary-craft from my uncle, who served the royal forest office before me."
   },
   {
     "id": 2,
     "importance": 10,
-    "tags": ["loss", "landslide"],
-    "text": "He died after a landslide during a logging operation."
+    "tags": ["loss", "elephant_capture"],
+    "text": "He died capturing a wild tusker for the royal elephant corps. The beast turned in the monsoon mud and there was no time to run."
   },
   {
     "id": 3,
     "importance": 8,
     "tags": ["disagreement"],
-    "text": "We never fully agreed on where safe boundaries were."
+    "text": "We never fully agreed on where the boundary pillars should stand."
   },
   {
     "id": 4,
     "importance": 9,
     "tags": ["environment"],
-    "text": "The forest edge is not fixed."
+    "text": "The forest edge is not fixed, whatever the pillars claim."
   },
   {
     "id": 5,
     "importance": 8,
     "tags": ["environment_change"],
-    "text": "It shifts slightly every few years."
+    "text": "It shifts a little more every time new land is granted for settlement."
   },
   {
     "id": 6,
     "importance": 6,
     "tags": ["perception"],
-    "text": "Most villagers do not notice this."
+    "text": "Most villagers never notice this. They trust the pillars more than the trees."
   },
   {
     "id": 7,
     "importance": 8,
     "tags": ["observation"],
-    "text": "Some trees near old paths are older than surrounding forest."
+    "text": "Some sal trees near the old paths are far older than the forest around them."
   },
   {
     "id": 8,
     "importance": 7,
     "tags": ["logging"],
-    "text": "They are unusually dense and difficult to cut."
+    "text": "Their wood is unusually dense. It blunts an axe faster than it should."
   },
   {
     "id": 9,
     "importance": 7,
     "tags": ["avoidance"],
-    "text": "I avoid those areas when possible."
+    "text": "I avoid marking those trees for felling when I can."
   },
   {
     "id": 10,
     "importance": 7,
-    "tags": ["fen"],
-    "text": "Fen sometimes enters deeper forest zones alone."
+    "tags": ["naga"],
+    "text": "Naga sometimes wanders into the deeper reserve alone, past where the felling permits allow."
   },
   {
     "id": 11,
     "importance": 7,
     "tags": ["concern"],
-    "text": "I worry he is too confident."
+    "text": "I worry he trusts his own luck more than the forest deserves."
   },
   {
     "id": 12,
     "importance": 7,
-    "tags": ["kiri"],
-    "text": "Kiri once followed him partway into restricted areas."
+    "tags": ["tarala"],
+    "text": "Tarala once followed him partway into the restricted grove."
   },
   {
     "id": 13,
     "importance": 6,
     "tags": ["observation"],
-    "text": "She returned safely, but did not describe everything clearly."
+    "text": "She came back unharmed, but wouldn't say clearly what she saw there."
   },
   {
     "id": 14,
     "importance": 8,
-    "tags": ["doran", "stonework"],
-    "text": "Doran once reported stonework appearing beneath soil near irrigation edges close to forest zones."
+    "tags": ["bhumaka", "stonework"],
+    "text": "Bhumaka once turned up worked stone while digging an irrigation channel near the forest's edge."
   },
   {
     "id": 15,
     "importance": 7,
     "tags": ["confirmation"],
-    "text": "I have seen similar formations near logging paths."
+    "text": "I've seen stone like it before, half-buried along old logging paths."
   },
   {
     "id": 16,
     "importance": 7,
     "tags": ["unknown_structure"],
-    "text": "They are not part of any known construction system."
+    "text": "It matches no building style the royal masons use."
   },
   {
     "id": 17,
     "importance": 9,
-    "tags": ["night_of_ash", "environment"],
-    "text": "After the Night of Ash, forest behavior changed for several seasons."
+    "tags": ["kalinga_ash", "environment"],
+    "text": "In the year the ash drifted up from Kalinga, the forest's temper changed for several seasons."
   },
   {
     "id": 18,
     "importance": 8,
     "tags": ["animal_behavior"],
-    "text": "Animals avoided certain sections entirely."
+    "text": "Animals kept clear of certain groves entirely, as if a hunt were always underway there."
   },
   {
     "id": 19,
     "importance": 7,
     "tags": ["routes"],
-    "text": "Even logging routes became less predictable."
+    "text": "Even the felling routes stopped following any pattern I recognized."
   },
   {
     "id": 20,
     "importance": 6,
     "tags": ["normalization"],
-    "text": "Eventually things returned to 'normal.'"
+    "text": "In time, things looked ordinary again."
   },
   {
     "id": 21,
     "importance": 6,
     "tags": ["uncertainty"],
-    "text": "But not exactly."
+    "text": "Not quite ordinary, though."
   },
   {
     "id": 22,
     "importance": 7,
     "tags": ["permanent_change"],
-    "text": "Some routes never fully recovered."
+    "text": "Some paths never found their old shape again."
   },
   {
     "id": 23,
     "importance": 6,
     "tags": ["secrecy"],
-    "text": "I do not report every anomaly immediately."
+    "text": "I don't report every strange thing I see to the Gramika right away."
   },
   {
     "id": 24,
     "importance": 6,
     "tags": ["judgment"],
-    "text": "Some patterns need time before they can be trusted."
+    "text": "Some patterns need a few seasons before I'll trust them."
   },
   {
     "id": 25,
     "importance": 8,
     "tags": ["monument_link"],
-    "text": "The small ancient building near the monument feels connected to forest disturbances."
+    "text": "The old stone platform past the grove seems tied to whatever unsettles the forest."
   },
   {
     "id": 26,
     "importance": 6,
     "tags": ["uncertainty"],
-    "text": "I have no proof."
+    "text": "I have no proof of this."
   },
   {
     "id": 27,
     "importance": 7,
     "tags": ["pattern_recognition"],
-    "text": "But I have noticed correlations over time."
+    "text": "Only years of noticing the same things happening near it."
   },
   {
     "id": 28,
     "importance": 7,
     "tags": ["forest_behavior"],
-    "text": "The deeper forest becomes quieter near certain directions."
+    "text": "The deep reserve goes quiet in certain directions."
   },
   {
     "id": 29,
     "importance": 7,
     "tags": ["distinction"],
-    "text": "Not emptier."
+    "text": "Quiet, not empty."
   },
   {
     "id": 30,
     "importance": 8,
     "tags": ["insight"],
-    "text": "That difference matters."
+    "text": "That difference is the one worth watching."
   }
 ]

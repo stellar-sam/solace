@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bipgulufgbjvo"
-path="res://.godot/imported/Screenshot 2025-11-16 at 3.21.44 PM.png-7ce7e9a0300f2c9cc61c899523320145.ctex"
+path="res://.godot/imported/Screenshot 2025-11-16 at 3.21.44 PM.png-2df42ad082141bb824511a071a97d3b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/Screenshot 2025-11-16 at 3.21.44 PM.png"
-dest_files=["res://.godot/imported/Screenshot 2025-11-16 at 3.21.44 PM.png-7ce7e9a0300f2c9cc61c899523320145.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/Screenshot 2025-11-16 at 3.21.44 PM.png"
+dest_files=["res://.godot/imported/Screenshot 2025-11-16 at 3.21.44 PM.png-2df42ad082141bb824511a071a97d3b8.ctex"]
 
 [params]
 

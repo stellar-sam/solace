@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj716rhmbviyp"
-path="res://.godot/imported/terrain-map-v7.png-0ac293a9b1f37d4b2d11624f91e1b78e.ctex"
+path="res://.godot/imported/terrain-map-v7.png-46edcfafd5af15ae71a3f737d093748d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/lpc-jungle-ruins/preview/terrain-map-v7.png"
-dest_files=["res://.godot/imported/terrain-map-v7.png-0ac293a9b1f37d4b2d11624f91e1b78e.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/lpc-jungle-ruins/preview/terrain-map-v7.png"
+dest_files=["res://.godot/imported/terrain-map-v7.png-46edcfafd5af15ae71a3f737d093748d.ctex"]
 
 [params]
 

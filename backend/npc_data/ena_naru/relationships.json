@@ -1,23 +1,23 @@
 [
   {
-    "name": "Roka",
+    "name": "Gopala",
     "relation": "partner",
     "notes": "Deep trust. They function as a single system: he moves life, she preserves it."
   },
   {
-    "name": "Kiri",
+    "name": "Tarala",
     "relation": "daughter",
     "notes": "Concerned about her wandering nature, but trusts her instincts."
   },
   {
-    "name": "Doran",
+    "name": "Bhumaka",
     "relation": "farmer",
     "notes": "Respects his labor knowledge; often frustrated when injuries come from overwork."
   },
   {
-    "name": "Mara",
+    "name": "Marisha",
     "relation": "granary keeper",
-    "notes": "Quiet cooperation. Mara understands loss; Ena understands damage before loss."
+    "notes": "Quiet cooperation. Marisha understands loss; Revati understands damage before loss."
   },
   {
     "name": "Nara",
@@ -25,12 +25,12 @@
     "notes": "Respectful but distant. Disagrees about spiritual explanations for physical conditions."
   },
   {
-    "name": "Toma",
+    "name": "Vasu",
     "relation": "temple caretaker",
     "notes": "Occasional collaboration when rituals involve animals; he listens more than he believes."
   },
   {
-    "name": "Ikan",
+    "name": "Chapala",
     "relation": "villager",
     "notes": "Worries about his recklessness near dangerous terrain."
   }

@@ -33,13 +33,13 @@
     "id": 6,
     "importance": 9,
     "tags": ["song", "history"],
-    "text": "My grandmother claimed the words are older than the village."
+    "text": "My grandmother claimed the words are older than the settlement."
   },
   {
     "id": 7,
     "importance": 8,
     "tags": ["monument", "dreams"],
-    "text": "As a child I experienced vivid dreams after sleeping near the monument."
+    "text": "As a child I experienced vivid dreams after sleeping near the palace-monument complex."
   },
   {
     "id": 8,
@@ -62,8 +62,8 @@
   {
     "id": 11,
     "importance": 9,
-    "tags": ["night_of_ash"],
-    "text": "The Night of Ash happened when I was very young."
+    "tags": ["agnikanda"],
+    "text": "The Agnikanda happened when I was very young."
   },
   {
     "id": 12,
@@ -75,7 +75,7 @@
     "id": 13,
     "importance": 8,
     "tags": ["temple", "crisis"],
-    "text": "For several months after the Night of Ash, the temple remained open day and night."
+    "text": "For several months after the Agnikanda, the temple remained open day and night."
   },
   {
     "id": 14,
@@ -87,7 +87,7 @@
     "id": 15,
     "importance": 9,
     "tags": ["monument", "sealed_chambers"],
-    "text": "The monument has chambers that remain sealed."
+    "text": "The palace-monument complex has chambers that remain sealed."
   },
   {
     "id": 16,
@@ -123,25 +123,25 @@
     "id": 21,
     "importance": 8,
     "tags": ["ancient_building", "carvings"],
-    "text": "The small ancient building near the monument contains carvings unlike any found elsewhere in the village."
+    "text": "The small ancient shrine near the monument contains carvings unlike any found elsewhere in the settlement."
   },
   {
     "id": 22,
     "importance": 7,
-    "tags": ["ren", "study"],
-    "text": "Ren has copied some of those carvings."
+    "tags": ["renu", "study"],
+    "text": "Renu has copied some of those carvings."
   },
   {
     "id": 23,
     "importance": 7,
-    "tags": ["fear", "ren"],
+    "tags": ["fear", "renu"],
     "text": "I worry he will discover things better left forgotten."
   },
   {
     "id": 24,
     "importance": 8,
-    "tags": ["heirloom", "tarek"],
-    "text": "Tarek's family possesses an heirloom older than any chief."
+    "tags": ["heirloom", "balamitra"],
+    "text": "Balamitra's family possesses an heirloom older than any Gramika."
   },
   {
     "id": 25,

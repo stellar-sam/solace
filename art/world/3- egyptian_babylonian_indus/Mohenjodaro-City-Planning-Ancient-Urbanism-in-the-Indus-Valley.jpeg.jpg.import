@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbem5fotihyrq"
-path="res://.godot/imported/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg-1da0320c802af2ac182148d9a6f3b8fd.ctex"
+path="res://.godot/imported/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg-82c170b971ebe579ea1d33d82861ce14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/3- egyptian:babylonian:indus/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg"
-dest_files=["res://.godot/imported/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg-1da0320c802af2ac182148d9a6f3b8fd.ctex"]
+source_file="res://art/world/3- egyptian_babylonian_indus/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg"
+dest_files=["res://.godot/imported/Mohenjodaro-City-Planning-Ancient-Urbanism-in-the-Indus-Valley.jpeg.jpg-82c170b971ebe579ea1d33d82861ce14.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0j2e777i6pp"
-path="res://.godot/imported/64.-Babylonian-City.jpg-0536bf9edb6bbdb1a64ef48c64c0ad0b.ctex"
+path="res://.godot/imported/64.-Babylonian-City.jpg-62d77578a61e94e41346174b7c29db11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/3- egyptian:babylonian:indus/64.-Babylonian-City.jpg"
-dest_files=["res://.godot/imported/64.-Babylonian-City.jpg-0536bf9edb6bbdb1a64ef48c64c0ad0b.ctex"]
+source_file="res://art/world/3- egyptian_babylonian_indus/64.-Babylonian-City.jpg"
+dest_files=["res://.godot/imported/64.-Babylonian-City.jpg-62d77578a61e94e41346174b7c29db11.ctex"]
 
 [params]
 

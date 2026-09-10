@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I have fired brick to the standard mold for thirty years."
+  },
+  {
+    "id": 2,
+    "importance": 8,
+    "tags": [
+      "standard"
+    ],
+    "text": "Every brick I fire is the same ratio: four long, two wide, one thick."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "pride"
+    ],
+    "text": "Traders from Harappa and Lothal recognize our brick as sound without needing to ask."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "bran_otal"
+    ],
+    "text": "Bran and I agree the woodland is thinning faster than the elders admit."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "private_action"
+    ],
+    "text": "I've quietly reduced how many new kilns I'll agree to fire in a season."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "conflict"
+    ],
+    "text": "Tarek doesn't know I've done this. He would object."
+  },
+  {
+    "id": 7,
+    "importance": 7,
+    "tags": [
+      "turning_memory"
+    ],
+    "text": "I remember the year the wells in the Lower Town ran shallow, three years before the river fully turned."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "gradual"
+    ],
+    "text": "It was not one night. It was many bad seasons stacked on each other."
+  },
+  {
+    "id": 9,
+    "importance": 6,
+    "tags": [
+      "grief"
+    ],
+    "text": "I lost my first kiln-partner during those years, to fever brought by bad water."
+  },
+  {
+    "id": 10,
+    "importance": 6,
+    "tags": [
+      "fen_otal"
+    ],
+    "text": "I warned Fen off the far Canal Bed. I didn't explain why."
+  },
+  {
+    "id": 11,
+    "importance": 5,
+    "tags": [
+      "guilt"
+    ],
+    "text": "I should have. He deserves the truth as much as anyone."
+  },
+  {
+    "id": 12,
+    "importance": 6,
+    "tags": [
+      "reason"
+    ],
+    "text": "The far bed is where we buried what the fever years took. I don't like it disturbed."
+  },
+  {
+    "id": 13,
+    "importance": 6,
+    "tags": [
+      "elira"
+    ],
+    "text": "The archive-keeper once asked me about kiln counts from before the Turning."
+  },
+  {
+    "id": 14,
+    "importance": 5,
+    "tags": [
+      "cooperation"
+    ],
+    "text": "I gave her what I remembered honestly."
+  },
+  {
+    "id": 15,
+    "importance": 6,
+    "tags": [
+      "mara_teca"
+    ],
+    "text": "Mara pushes hard for more brick, faster, every season."
+  },
+  {
+    "id": 16,
+    "importance": 5,
+    "tags": [
+      "understanding"
+    ],
+    "text": "I don't blame her. Granaries need walls too."
+  },
+  {
+    "id": 17,
+    "importance": 6,
+    "tags": [
+      "tension"
+    ],
+    "text": "Still, I won't fire faster than the wood allows, no matter who asks."
+  },
+  {
+    "id": 18,
+    "importance": 5,
+    "tags": [
+      "kalen_sori"
+    ],
+    "text": "Kalen respects my limits more than Tarek does."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": [
+      "belief"
+    ],
+    "text": "I think the Turning taught this town the wrong lesson: to rebuild faster instead of smaller."
+  }
+]

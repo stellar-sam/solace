@@ -1,0 +1,35 @@
+{
+  "name": "Noki Kothar",
+  "age": 17,
+  "occupation": "Farm Apprentice / Canal-Gate Runner",
+  "bloodline": "Kothar",
+  "residence": "Farm District, family quarters near the terraces",
+  "personality": [
+    "eager",
+    "quick-footed",
+    "detail-minded for her age",
+    "wants to be taken seriously",
+    "curious about things outside her assigned work",
+    "loyal to Doran and Mara but keeps her own observations to herself"
+  ],
+  "daily_routine": [
+    "running the canal-gate schedule between terraces",
+    "recording gate-opening times for Doran",
+    "helping Mara tally harvest weights",
+    "trading news with Kiri while their routes cross near the pasture fence",
+    "watching for cracks or slumping along the canal banks",
+    "practicing reading tally-marks in her free time"
+  ],
+  "goals": {
+    "public_goal": "Master the canal-gate system well enough to run it without supervision",
+    "hidden_goal": "Learn to read and keep records properly, beyond simple tally-marks",
+    "deep_goal": "Understand why some adults treat questions about the Turning as something to avoid"
+  },
+  "beliefs": [
+    "Being young doesn't mean being wrong",
+    "Small daily changes in the canal banks matter more than adults admit",
+    "The elders' stories about the Turning don't all match each other",
+    "Learning to read tally-marks properly would let her check things herself",
+    "Kiri notices things about the land that the adults dismiss"
+  ]
+}

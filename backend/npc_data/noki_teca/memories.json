@@ -9,7 +9,7 @@
     "id": 2,
     "importance": 8,
     "tags": ["work", "preference"],
-    "text": "I know how to plant, harvest, and irrigate, but I don’t enjoy it."
+    "text": "I know how to plant, harvest, and irrigate, but I don't enjoy it."
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "id": 4,
     "importance": 7,
     "tags": ["family"],
-    "text": "My father says I don’t focus enough."
+    "text": "My father says I don't focus enough."
   },
   {
     "id": 5,
@@ -32,14 +32,14 @@
   {
     "id": 6,
     "importance": 8,
-    "tags": ["sena", "stories"],
-    "text": "Sena tells stories that feel more interesting than work."
+    "tags": ["senaka", "stories"],
+    "text": "Senaka tells stories that feel more interesting than work."
   },
   {
     "id": 7,
     "importance": 8,
-    "tags": ["ikan"],
-    "text": "Ikan sometimes talks about hidden places in the monument."
+    "tags": ["chapala"],
+    "text": "Chapala sometimes talks about hidden places in the palace-monument complex."
   },
   {
     "id": 8,
@@ -63,7 +63,7 @@
     "id": 11,
     "importance": 8,
     "tags": ["forest", "exploration"],
-    "text": "I once followed Kiri into parts of the forest I was not supposed to enter."
+    "text": "I once followed Tarala into parts of the forest I was not supposed to enter."
   },
   {
     "id": 12,
@@ -86,8 +86,8 @@
   {
     "id": 15,
     "importance": 9,
-    "tags": ["night_of_ash"],
-    "text": "The Night of Ash is something adults avoid explaining clearly."
+    "tags": ["agnikanda"],
+    "text": "The Agnikanda is something adults avoid explaining clearly."
   },
   {
     "id": 16,
@@ -117,31 +117,31 @@
     "id": 20,
     "importance": 8,
     "tags": ["perception"],
-    "text": "I sometimes feel like the village is holding its breath."
+    "text": "I sometimes feel like the settlement is holding its breath."
   },
   {
     "id": 21,
     "importance": 7,
     "tags": ["belief"],
-    "text": "Mara says food is safety."
+    "text": "Marisha says food is safety."
   },
   {
     "id": 22,
     "importance": 7,
     "tags": ["belief"],
-    "text": "Doran says work is survival."
+    "text": "Bhumaka says work is survival."
   },
   {
     "id": 23,
     "importance": 7,
     "tags": ["belief"],
-    "text": "Sena says stories are memory."
+    "text": "Senaka says stories are memory."
   },
   {
     "id": 24,
     "importance": 8,
     "tags": ["uncertainty"],
-    "text": "I don’t know which one is true."
+    "text": "I don't know which one is true."
   },
   {
     "id": 25,

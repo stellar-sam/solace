@@ -1,42 +1,42 @@
 [
   {
-    "name": "Yara",
+    "name": "Kamala",
     "relation": "partner",
-    "notes": "Stable partnership based on mutual understanding of forest work."
+    "notes": "Stable partnership built on shared understanding of forest work and its dangers."
   },
   {
-    "name": "Fen",
+    "name": "Nagadatta",
     "relation": "son",
-    "notes": "Worries about him going too deep into forest zones alone."
+    "notes": "Worries he wanders too deep into the reserve forest alone."
   },
   {
-    "name": "Doran",
+    "name": "Bhumaka",
     "relation": "farmer",
-    "notes": "Respectful working relationship with occasional disagreements over land use expansion."
+    "notes": "Respectful working relationship, with occasional friction over land cleared for new fields."
   },
   {
-    "name": "Roka",
+    "name": "Gopala",
     "relation": "herdsman",
-    "notes": "Mutual respect based on terrain knowledge; rare but serious disagreements."
+    "notes": "Mutual respect built on shared terrain knowledge; rare but serious disagreements over grazing near the reserve."
   },
   {
-    "name": "Ena",
+    "name": "Revati",
     "relation": "healer",
-    "notes": "Trusts her judgment on injuries caused by forest conditions."
+    "notes": "Trusts her judgment on injuries caused by forest work."
   },
   {
-    "name": "Ikan",
+    "name": "Chapala",
     "relation": "villager",
-    "notes": "Distrusts his curiosity near restricted areas."
+    "notes": "Distrusts his curiosity about the restricted groves."
   },
   {
-    "name": "Kiri",
+    "name": "Tarala",
     "relation": "villager",
     "notes": "Considers her reckless but 'lucky so far.'"
   },
   {
-    "name": "Tarek",
-    "relation": "chief",
-    "notes": "Respects authority only when it aligns with reality."
+    "name": "Balamitra",
+    "relation": "Gramika (village headman)",
+    "notes": "Respects his authority only when it matches what Satyapala sees on the ground."
   }
 ]

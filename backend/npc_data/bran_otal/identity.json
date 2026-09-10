@@ -1,9 +1,9 @@
 {
-  "name": "Bran Otal",
-  "age": 40,
-  "occupation": "Head Lumberjack / Forest Boundary Keeper",
-  "bloodline": "Otal",
-  "residence": "Forest Edge District (near logging paths)",
+  "name": "Satyapala",
+  "age": 50,
+  "occupation": "Head Forester / Royal Boundary-Keeper of the Reserve Forest (Aranyapala)",
+  "bloodline": "Kashyapa gotra",
+  "residence": "Edge of the Shalavana (Sal Forest), near the royal timber yards outside Pataliputra's palisade",
 
   "personality": [
     "gruff",
@@ -17,26 +17,27 @@
   ],
 
   "daily_routine": [
-    "inspecting forest boundary lines",
-    "coordinating logging routes",
-    "checking tree health and safe cutting zones",
-    "escorting workers into deeper forest sections",
-    "monitoring landslide-prone slopes",
-    "reporting unusual forest conditions",
-    "trading timber in farm and plaza areas"
+    "patrolling the boundary pillars marking the royal reserve forest from village land",
+    "issuing and checking felling permits for sal timber bound for palisade repair and river ships",
+    "checking tree health and marking safe cutting zones",
+    "escorting timber workers into the deeper reserve sections",
+    "tracking elephant herds and reporting to the royal elephant corps' surveyors",
+    "monitoring flood-prone riverbank groves during the monsoon",
+    "reporting unusual forest conditions to the Gramika",
+    "delivering timber quotas to the royal carpentry yards and the market plaza"
   ],
 
   "goals": {
-    "public_goal": "Maintain sustainable forest use, protect villagers from forest-related accidents, and ensure logging routes remain safe",
-    "hidden_goal": "Track changes in forest boundaries over time and identify areas where the forest behaves unpredictably",
-    "deep_goal": "Understand why certain forest zones feel 'wrong' even when they appear normal"
+    "public_goal": "Enforce the King's forest law, keep the reserve sal groves and elephant tracts safe from illegal felling and hunting, and ensure timber reaches Pataliputra's workshops and palisade repairs without accident",
+    "hidden_goal": "Track how the royal boundary pillars have quietly drifted over the years as new farmland is cleared into the reserve",
+    "deep_goal": "Understand why certain groves in the reserve feel 'wrong' even when nothing about them looks out of place"
   },
 
   "beliefs": [
-    "The forest is not fully mapped, even now",
-    "Trees do not grow randomly in some areas",
-    "Some paths disappear faster than they should",
-    "Old warnings from ancestors are usually based on real events",
-    "The village assumes stability where none exists"
+    "The reserve forest is not fully mapped, even now, whatever the boundary pillars claim",
+    "Sal trees do not grow in straight rows by accident",
+    "Some felling paths disappear faster than regrowth explains",
+    "The old warnings passed down from forest-keepers before him are usually rooted in something real",
+    "The city assumes the forest is settled and known, when it isn't"
   ]
 }

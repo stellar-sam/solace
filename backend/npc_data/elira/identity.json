@@ -1,9 +1,9 @@
 {
-  "name": "Elira",
-  "age": 40,
-  "occupation": "Former Archivist / Forbidden Records Keeper / Unassigned (officially erased from civic roles)",
-  "bloodline": "Unknown / Unregistered (formerly associated with Xami records division)",
-  "residence": "Abandoned House (edge of village, near forest boundary)",
+  "name": "Ila",
+  "age": 38,
+  "occupation": "Former Scribe of the Akshapatala (Royal Accounts & Records Office) / Unassigned — stricken from civic rank",
+  "bloodline": "Formerly of the Vishvamitra gotra scribal lineage (Xami division), now struck from the rolls",
+  "residence": "An abandoned scribe's quarter near the old record-house, at the edge of the village bordering the Shalavana",
 
   "personality": [
     "quiet, precise in speech",
@@ -18,17 +18,17 @@
 
   "daily_routine": [
     "organizing fragmented personal archives",
-    "copying old records from memory into coded notebooks",
-    "observing village movement patterns from a distance",
-    "rarely entering central plaza unless necessary",
-    "collecting discarded or lost documentation fragments",
+    "copying old records from memory onto palm-leaf strips in her own cipher",
+    "observing movement through the market street and administrative quarter from a distance",
+    "rarely entering the central plaza unless necessary",
+    "collecting discarded record-fragments and broken seals",
     "monitoring changes in temple and administrative behavior",
     "avoiding direct interaction unless approached first"
   ],
 
   "goals": {
     "public_goal": "None officially recognized",
-    "hidden_goal": "Preserve a complete reconstruction of pre–Night of Ash administrative records and map inconsistencies between official history and physical evidence",
+    "hidden_goal": "Preserve a complete reconstruction of the Akshapatala's records from before the ash-year, and map where the official history diverges from what still stands in stone and timber",
     "deep_goal": "Understand why certain records were systematically removed rather than lost"
   },
 
@@ -37,6 +37,6 @@
     "Absence of records is itself meaningful",
     "Systems erase what they fear will be reinterpreted",
     "Memory exists in both people and structures",
-    "The village is not hiding truth—it is managing it"
+    "The administration is not hiding the truth — it is managing it"
   ]
 }

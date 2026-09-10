@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bran Bhata",
+    "relation": "mentor, father-figure",
+    "notes": "Teaches him grove-reading; doesn't punish his wandering, just questions it."
+  },
+  {
+    "name": "Yara Bhata",
+    "relation": "cautious senior",
+    "notes": "Warned him off the far Canal Bed without explaining why."
+  },
+  {
+    "name": "Kiri Vrisha",
+    "relation": "friendly peer",
+    "notes": "Trades observations about the same avoided stretch of the Old Canal Bed."
+  },
+  {
+    "name": "Elira",
+    "relation": "curious observer",
+    "notes": "Unsurprised by his find in the canal bed, which unsettled him more than the find itself."
+  }
+]

@@ -2,8 +2,8 @@
   {
     "id": 1,
     "importance": 10,
-    "tags": ["origin", "work_with_kalen"],
-    "text": "I began studying carvings after assisting Kalen with monument maintenance."
+    "tags": ["origin", "work_with_kaladatta"],
+    "text": "I began studying carvings after assisting Kaladatta with monument maintenance."
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
     "id": 7,
     "importance": 7,
     "tags": ["temple_records"],
-    "text": "Toma has confirmed variations in older ritual transcripts."
+    "text": "Vasu has confirmed variations in older ritual transcripts."
   },
   {
     "id": 8,
@@ -50,8 +50,8 @@
   {
     "id": 9,
     "importance": 7,
-    "tags": ["sena"],
-    "text": "Sena tells stories containing fragments of identical phrasing patterns."
+    "tags": ["senaka"],
+    "text": "Senaka tells stories containing fragments of identical phrasing patterns."
   },
   {
     "id": 10,
@@ -62,8 +62,8 @@
   {
     "id": 11,
     "importance": 8,
-    "tags": ["kalen"],
-    "text": "Kalen believes differences in carvings are repair-based."
+    "tags": ["kaladatta"],
+    "text": "Kaladatta believes differences in carvings are repair-based."
   },
   {
     "id": 12,
@@ -98,8 +98,8 @@
   {
     "id": 17,
     "importance": 9,
-    "tags": ["night_of_ash"],
-    "text": "After the Night of Ash, certain inscriptions were damaged selectively."
+    "tags": ["agnikanda"],
+    "text": "After the Agnikanda, certain inscriptions were damaged selectively."
   },
   {
     "id": 18,
@@ -122,8 +122,8 @@
   {
     "id": 21,
     "importance": 7,
-    "tags": ["kiri"],
-    "text": "Kiri once described carvings she saw in the forest that matched monument patterns."
+    "tags": ["tarala"],
+    "text": "Tarala once described carvings she saw in the forest that matched monument patterns."
   },
   {
     "id": 22,
@@ -134,8 +134,8 @@
   {
     "id": 23,
     "importance": 8,
-    "tags": ["ikan"],
-    "text": "Ikan has found physical routes that align with symbolic sequences I have mapped."
+    "tags": ["chapala"],
+    "text": "Chapala has found physical routes that align with symbolic sequences I have mapped."
   },
   {
     "id": 24,
@@ -158,8 +158,8 @@
   {
     "id": 27,
     "importance": 7,
-    "tags": ["toma"],
-    "text": "Toma disagrees with me on this."
+    "tags": ["vasu"],
+    "text": "Vasu disagrees with me on this."
   },
   {
     "id": 28,

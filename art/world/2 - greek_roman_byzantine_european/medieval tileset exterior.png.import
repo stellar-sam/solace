@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs6gpjg6xcids"
-path="res://.godot/imported/medieval tileset exterior.png-49a0221b7d46e3b0a70a82205bd7bc57.ctex"
+path="res://.godot/imported/medieval tileset exterior.png-9a0a02b2780aa66a1f2f0e911406c1be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/medieval tileset exterior.png"
-dest_files=["res://.godot/imported/medieval tileset exterior.png-49a0221b7d46e3b0a70a82205bd7bc57.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/medieval tileset exterior.png"
+dest_files=["res://.godot/imported/medieval tileset exterior.png-9a0a02b2780aa66a1f2f0e911406c1be.ctex"]
 
 [params]
 

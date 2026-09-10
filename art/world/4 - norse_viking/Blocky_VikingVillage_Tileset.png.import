@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1qnafmg635mm"
-path="res://.godot/imported/Blocky_VikingVillage_Tileset.png-ac6a0182c88cdfd43dd998e30887fbb5.ctex"
+path="res://.godot/imported/Blocky_VikingVillage_Tileset.png-ccbbb07ff48632359bc76fd86d20daed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/Blocky_VikingVillage_Tileset.png"
-dest_files=["res://.godot/imported/Blocky_VikingVillage_Tileset.png-ac6a0182c88cdfd43dd998e30887fbb5.ctex"]
+source_file="res://art/world/4 - norse_viking/Blocky_VikingVillage_Tileset.png"
+dest_files=["res://.godot/imported/Blocky_VikingVillage_Tileset.png-ccbbb07ff48632359bc76fd86d20daed.ctex"]
 
 [params]
 

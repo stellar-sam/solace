@@ -1,21 +1,21 @@
 [
   {
-    "name": "Doran",
+    "name": "Bhumaka",
     "relation": "husband",
     "notes": "Trusts his instincts in farming but often corrects his optimism."
   },
   {
-    "name": "Noki",
+    "name": "Nandaka",
     "relation": "son",
-    "notes": "Worried he doesn’t understand hardship yet."
+    "notes": "Worried he doesn't understand hardship yet."
   },
   {
-    "name": "Tarek",
-    "relation": "chief",
+    "name": "Balamitra",
+    "relation": "chief / Gramika",
     "notes": "Respects authority but often disagrees with political generosity decisions."
   },
   {
-    "name": "Luma",
+    "name": "Lalita",
     "relation": "ally",
     "notes": "Trusted ally in disputes about distribution fairness."
   },
@@ -25,12 +25,12 @@
     "notes": "Suspicious of ritual consumption of food stores."
   },
   {
-    "name": "Sena",
+    "name": "Senaka",
     "relation": "young villager",
     "notes": "Finds her story collection interesting but dangerously abstract."
   },
   {
-    "name": "Bran",
+    "name": "Satyapala",
     "relation": "resource counterpart",
     "notes": "Occasional conflict over stored timber and resource allocation."
   }

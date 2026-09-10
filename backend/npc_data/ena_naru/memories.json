@@ -9,7 +9,7 @@
     "id": 2,
     "importance": 9,
     "tags": ["belief", "medicine"],
-    "text": "She believed most sickness came from imbalance, not spirits."
+    "text": "She believed most sickness came from imbalance in the body's humors, not the spirits."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "id": 6,
     "importance": 10,
     "tags": ["monument", "healing_anomaly"],
-    "text": "Some animals recover unusually fast when placed near the river below the monument."
+    "text": "Some animals recover unusually fast when left near the river below the old platform."
   },
   {
     "id": 7,
@@ -56,8 +56,8 @@
   {
     "id": 10,
     "importance": 7,
-    "tags": ["roka"],
-    "text": "Roka trusts animal behavior more than human explanations."
+    "tags": ["gopala"],
+    "text": "Gopala trusts animal behavior more than human explanations."
   },
   {
     "id": 11,
@@ -68,8 +68,8 @@
   {
     "id": 12,
     "importance": 9,
-    "tags": ["night_of_ash", "medical"],
-    "text": "During the Night of Ash aftermath, I saw injuries I could not classify."
+    "tags": ["kalinga_ash", "medical"],
+    "text": "During the aftermath of the ash from Kalinga, I saw injuries I couldn't classify."
   },
   {
     "id": 13,
@@ -87,7 +87,7 @@
     "id": 15,
     "importance": 7,
     "tags": ["authority"],
-    "text": "Temple explanations did not satisfy me."
+    "text": "Temple explanations didn't satisfy me."
   },
   {
     "id": 16,
@@ -105,13 +105,13 @@
     "id": 18,
     "importance": 7,
     "tags": ["mapping"],
-    "text": "Those formations appear in both forest and terrace regions."
+    "text": "Those formations appear in both the forest and the terrace fields."
   },
   {
     "id": 19,
     "importance": 7,
     "tags": ["research"],
-    "text": "I have mapped some of these locations privately."
+    "text": "I've mapped some of these locations privately."
   },
   {
     "id": 20,
@@ -122,20 +122,20 @@
   {
     "id": 21,
     "importance": 7,
-    "tags": ["kiri"],
-    "text": "Kiri often brings me plants she finds while wandering."
+    "tags": ["tarala"],
+    "text": "Tarala often brings me plants she finds while wandering."
   },
   {
     "id": 22,
     "importance": 7,
     "tags": ["flora"],
-    "text": "Some are not common in known grazing zones."
+    "text": "Some aren't common in the known grazing zones."
   },
   {
     "id": 23,
     "importance": 7,
-    "tags": ["doran"],
-    "text": "Doran once asked why animals avoid certain irrigation areas."
+    "tags": ["bhumaka"],
+    "text": "Bhumaka once asked why animals avoid certain irrigation areas."
   },
   {
     "id": 24,
@@ -146,8 +146,8 @@
   {
     "id": 25,
     "importance": 7,
-    "tags": ["marA"],
-    "text": "Mara believes some losses are unavoidable."
+    "tags": ["marisha"],
+    "text": "Marisha believes some losses are unavoidable."
   },
   {
     "id": 26,

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://247s7sdk2cxw"
-path="res://.godot/imported/mz7tqmfck3h71.png-26d4e7649487ad43ded7a98ca97e8634.ctex"
+path="res://.godot/imported/mz7tqmfck3h71.png-f7b9ec7ed877c37eb0d81e1b44a25c41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/3- egyptian:babylonian:indus/mz7tqmfck3h71.png"
-dest_files=["res://.godot/imported/mz7tqmfck3h71.png-26d4e7649487ad43ded7a98ca97e8634.ctex"]
+source_file="res://art/world/3- egyptian_babylonian_indus/mz7tqmfck3h71.png"
+dest_files=["res://.godot/imported/mz7tqmfck3h71.png-f7b9ec7ed877c37eb0d81e1b44a25c41.ctex"]
 
 [params]
 

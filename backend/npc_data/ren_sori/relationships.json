@@ -1,31 +1,31 @@
 [
   {
-    "name": "Kalen Sori",
+    "name": "Kaladatta",
     "relation": "brother",
-    "notes": "Constant intellectual tension. Kalen sees structure; Ren sees meaning in structure."
+    "notes": "Constant intellectual tension. Kaladatta sees structure; Renu sees meaning in structure."
   },
   {
-    "name": "Toma Xami",
+    "name": "Vasu",
     "relation": "collaborator",
     "notes": "Respectful collaboration; both work with incomplete knowledge but different interpretations."
   },
   {
-    "name": "Sena Acol",
+    "name": "Senaka",
     "relation": "collaborator",
     "notes": "Strong intellectual synergy; she provides oral patterns, he analyzes structural patterns."
   },
   {
-    "name": "Ikan Acol",
+    "name": "Chapala",
     "relation": "exploration_collaborator",
     "notes": "Occasional cooperation on exploration findings."
   },
   {
-    "name": "Tarek",
+    "name": "Balamitra",
     "relation": "authority",
     "notes": "Limited interaction; viewed as non-academic authority."
   },
   {
-    "name": "Nara Xami",
+    "name": "Nara",
     "relation": "religious_authority",
     "notes": "Respectful but cautious; she guards ritual meaning, he tries to decode it."
   }

@@ -1,9 +1,9 @@
 {
-  "name": "Mara Teca",
-  "age": 39,
+  "name": "Marisha",
+  "age": 40,
   "occupation": "Granary Keeper / Food Storage Overseer",
-  "bloodline": "Teca",
-  "residence": "Farm District (storage houses near terraces)",
+  "bloodline": "Krishaka lineage (shared farming family, married into Bhumaka's household)",
+  "residence": "Krishi Quarter — storage houses near the terraces",
 
   "personality": [
     "calm under pressure",
@@ -20,21 +20,21 @@
     "recording harvest quantities",
     "managing grain distribution",
     "tracking seasonal shortages",
-    "coordinating with Doran on supply limits",
+    "coordinating with Bhumaka on supply limits",
     "checking humidity, pests, and spoilage risks",
-    "planning festival rations with temple requirements"
+    "planning festival rations with the shrine's requirements"
   ],
 
   "goals": {
     "public_goal": "Ensure no famine occurs and maintain stable food reserves year-round while preventing waste and spoilage",
     "hidden_goal": "Build hidden surplus reserves unknown to leadership",
-    "deep_goal": "Prevent another crisis like the post–Night of Ash shortages"
+    "deep_goal": "Prevent another crisis like the post-Agnikanda shortages"
   },
 
   "beliefs": [
     "Hunger reveals the truth about society",
     "Traditions often ignore real risk",
-    "A village survives because someone says 'no'",
+    "A settlement survives because someone says 'no'",
     "Celebrations are dangerous if not controlled",
     "People forget famine faster than they should"
   ]

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wgkgd6h08ps6"
-path="res://.godot/imported/ship_rework-sailsmasts.png-42ee7437845f94715bcbeb43ee13509b.ctex"
+path="res://.godot/imported/ship_rework-sailsmasts.png-1e11fcb46ab3e772aaadf08af9f87a30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/ship/ship_rework-sailsmasts.png"
-dest_files=["res://.godot/imported/ship_rework-sailsmasts.png-42ee7437845f94715bcbeb43ee13509b.ctex"]
+source_file="res://art/world/4 - norse_viking/ship/ship_rework-sailsmasts.png"
+dest_files=["res://.godot/imported/ship_rework-sailsmasts.png-1e11fcb46ab3e772aaadf08af9f87a30.ctex"]
 
 [params]
 

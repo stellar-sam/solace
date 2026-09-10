@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0ry4ue0pq86l"
-path="res://.godot/imported/IzoFvr.png-9be871dad13aca263c23097fd0319507.ctex"
+path="res://.godot/imported/IzoFvr.png-ee36259e80be125f19281938b78cd13f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/IzoFvr.png"
-dest_files=["res://.godot/imported/IzoFvr.png-9be871dad13aca263c23097fd0319507.ctex"]
+source_file="res://art/world/5 - east_japanese_china/IzoFvr.png"
+dest_files=["res://.godot/imported/IzoFvr.png-ee36259e80be125f19281938b78cd13f.ctex"]
 
 [params]
 

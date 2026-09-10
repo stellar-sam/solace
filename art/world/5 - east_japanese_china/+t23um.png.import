@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tjpm2uk7d2g6"
-path="res://.godot/imported/+t23um.png-2942928e73d016e453669ea6b91ae0a6.ctex"
+path="res://.godot/imported/+t23um.png-5b246897245c0b2245fa2eb643db7b0c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/+t23um.png"
-dest_files=["res://.godot/imported/+t23um.png-2942928e73d016e453669ea6b91ae0a6.ctex"]
+source_file="res://art/world/5 - east_japanese_china/+t23um.png"
+dest_files=["res://.godot/imported/+t23um.png-5b246897245c0b2245fa2eb643db7b0c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3m02t8a4nade"
-path="res://.godot/imported/building_2.png-9f857cfe575f8d4d838cb008ef0e21a8.ctex"
+path="res://.godot/imported/building_2.png-f87ffa2a2218d9728df9ebaeb834ccf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/free-tropical-medieval-city-2d-tileset-png/PNG/buildings/building_14/building_2.png"
-dest_files=["res://.godot/imported/building_2.png-9f857cfe575f8d4d838cb008ef0e21a8.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/free-tropical-medieval-city-2d-tileset-png/PNG/buildings/building_14/building_2.png"
+dest_files=["res://.godot/imported/building_2.png-f87ffa2a2218d9728df9ebaeb834ccf1.ctex"]
 
 [params]
 

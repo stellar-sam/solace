@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c22miwbj1xspv"
-path="res://.godot/imported/Castle_corner2.png-57af2256f097237afc391e54eb961438.ctex"
+path="res://.godot/imported/Castle_corner2.png-1a29524517fbce6e79e696d80ee7a76c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/Castle Walls/Castle_corner2.png"
-dest_files=["res://.godot/imported/Castle_corner2.png-57af2256f097237afc391e54eb961438.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/Castle Walls/Castle_corner2.png"
+dest_files=["res://.godot/imported/Castle_corner2.png-1a29524517fbce6e79e696d80ee7a76c.ctex"]
 
 [params]
 

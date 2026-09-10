@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct8ln5f1h5q5u"
-path="res://.godot/imported/a2a_MQ.png-4b92afb4664f743d27889b2cb79c01c7.ctex"
+path="res://.godot/imported/a2a_MQ.png-3e2c396e58a2c550c3bd47acf9d52677.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/4 - norse:viking/a2a_MQ.png"
-dest_files=["res://.godot/imported/a2a_MQ.png-4b92afb4664f743d27889b2cb79c01c7.ctex"]
+source_file="res://art/world/4 - norse_viking/a2a_MQ.png"
+dest_files=["res://.godot/imported/a2a_MQ.png-3e2c396e58a2c550c3bd47acf9d52677.ctex"]
 
 [params]
 

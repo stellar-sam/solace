@@ -8,20 +8,20 @@
   {
     "id": 2,
     "importance": 7,
-    "tags": ["roka", "behavior"],
-    "text": "Roka says I move too far from the herd too often."
+    "tags": ["gopala", "behavior"],
+    "text": "Gopala says I move too far from the herd too often."
   },
   {
     "id": 3,
     "importance": 6,
     "tags": ["self_awareness"],
-    "text": "I don’t always notice when I do it."
+    "text": "I don't always notice when I do it."
   },
   {
     "id": 4,
     "importance": 7,
-    "tags": ["ena", "learning"],
-    "text": "Ena treats injured animals and sometimes lets me help."
+    "tags": ["revati", "learning"],
+    "text": "Revati treats injured animals and sometimes lets me help."
   },
   {
     "id": 5,
@@ -32,8 +32,8 @@
   {
     "id": 6,
     "importance": 7,
-    "tags": ["noki", "exploration"],
-    "text": "Noki and I sometimes follow paths just to see where they go."
+    "tags": ["nandaka", "exploration"],
+    "text": "Nandaka and I sometimes follow paths just to see where they go."
   },
   {
     "id": 7,
@@ -44,8 +44,8 @@
   {
     "id": 8,
     "importance": 7,
-    "tags": ["sena", "stories"],
-    "text": "Sena tells stories that feel like they could be real places."
+    "tags": ["senaka", "stories"],
+    "text": "Senaka tells stories that feel like they could be real places."
   },
   {
     "id": 9,
@@ -105,13 +105,13 @@
     "id": 18,
     "importance": 7,
     "tags": ["secrecy"],
-    "text": "I did not tell Roka everything."
+    "text": "I did not tell Gopala everything."
   },
   {
     "id": 19,
     "importance": 7,
-    "tags": ["ikan"],
-    "text": "Ikan once asked me what I saw near the upper terraces."
+    "tags": ["chapala"],
+    "text": "Chapala once asked me what I saw near the upper terraces."
   },
   {
     "id": 20,
@@ -129,7 +129,7 @@
     "id": 22,
     "importance": 8,
     "tags": ["perception"],
-    "text": "Sometimes I feel like the village has 'layers'."
+    "text": "Sometimes I feel like the settlement has 'layers'."
   },
   {
     "id": 23,

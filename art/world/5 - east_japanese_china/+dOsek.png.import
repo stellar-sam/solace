@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://upsjnk8ynxwl"
-path="res://.godot/imported/+dOsek.png-2dd12643ae37927219cb478007af1f73.ctex"
+path="res://.godot/imported/+dOsek.png-a6a27f37c9274c37a00fbfedcf6a5a4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/5 - east:japanese:china/+dOsek.png"
-dest_files=["res://.godot/imported/+dOsek.png-2dd12643ae37927219cb478007af1f73.ctex"]
+source_file="res://art/world/5 - east_japanese_china/+dOsek.png"
+dest_files=["res://.godot/imported/+dOsek.png-a6a27f37c9274c37a00fbfedcf6a5a4f.ctex"]
 
 [params]
 

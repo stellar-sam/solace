@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4dcl14l5ip24"
-path="res://.godot/imported/TX Tileset Grass.png-4450f3aeb05395d9bc7a7c19b3863f2e.ctex"
+path="res://.godot/imported/TX Tileset Grass.png-6612c556d1ca2defd47cd999b13ee8ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/1 - Inca:Maya:Aztec/TX Tileset Grass.png"
-dest_files=["res://.godot/imported/TX Tileset Grass.png-4450f3aeb05395d9bc7a7c19b3863f2e.ctex"]
+source_file="res://art/world/1 - Inca_Maya_Aztec/TX Tileset Grass.png"
+dest_files=["res://.godot/imported/TX Tileset Grass.png-6612c556d1ca2defd47cd999b13ee8ab.ctex"]
 
 [params]
 

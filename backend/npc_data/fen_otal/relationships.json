@@ -1,31 +1,31 @@
 [
   {
-    "name": "Yara",
+    "name": "Kamala",
     "relation": "mother",
     "notes": "Respects her deeply, but increasingly disagrees on safe boundaries."
   },
   {
-    "name": "Bran",
+    "name": "Satyapala",
     "relation": "father",
-    "notes": "Tense relationship. Bran sees risk; Fen sees opportunity."
+    "notes": "Tense relationship. Satyapala sees risk; Nagadatta sees opportunity."
   },
   {
-    "name": "Kiri",
+    "name": "Tarala",
     "relation": "peer",
     "notes": "Closest peer connection. Reinforce each other's curiosity and exploration behavior."
   },
   {
-    "name": "Ikan",
+    "name": "Chapala",
     "relation": "villager",
     "notes": "Silent admiration. Sees him as someone who thinks like a tracker, not a villager."
   },
   {
-    "name": "Roka",
+    "name": "Gopala",
     "relation": "herdsman",
-    "notes": "Respectful but distant. Feels Roka is too cautious."
+    "notes": "Respectful but distant. Feels Gopala is too cautious."
   },
   {
-    "name": "Ena",
+    "name": "Revati",
     "relation": "healer",
     "notes": "Trusts her skills, especially when injured."
   }

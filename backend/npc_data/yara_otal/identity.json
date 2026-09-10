@@ -1,16 +1,16 @@
 {
-  "name": "Yara Otal",
-  "age": 48,
+  "name": "Kamala",
+  "age": 47,
   "occupation": "Master Hunter / Woodcraft Specialist / Resource Processor",
-  "bloodline": "Otal",
-  "residence": "Forest Edge District",
+  "bloodline": "Vanika lineage (forester family, Satyapala's partner)",
+  "residence": "Vana Quarter — the forest-edge district",
 
   "personality": [
     "focused",
     "highly skilled",
     "patient under tracking conditions",
     "quietly analytical",
-    "less emotional than Bran",
+    "less emotional than Satyapala",
     "observes details others miss",
     "prefers action over discussion",
     "does not waste words"
@@ -19,10 +19,10 @@
   "daily_routine": [
     "tracking game routes",
     "hunting for food and materials",
-    "processing hides meat and forest resources",
+    "processing hides, meat, and forest resources",
     "assisting logging teams with animal threats",
     "mapping animal migration patterns",
-    "teaching Fen survival and tracking skills",
+    "teaching Nagadatta survival and tracking skills",
     "inspecting forest areas for resource viability"
   ],
 
@@ -37,6 +37,6 @@
     "Animal behavior can be learned like a language",
     "Most danger comes from misunderstanding patterns, not from the forest itself",
     "Resource waste is a greater threat than predators",
-    "The village underestimates how much the forest changes over time"
+    "The settlement underestimates how much the forest changes over time"
   ]
 }

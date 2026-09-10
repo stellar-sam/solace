@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "importance": 9,
+    "tags": [
+      "origin"
+    ],
+    "text": "I've overseen the canal terraces since my father's knees gave out."
+  },
+  {
+    "id": 2,
+    "importance": 9,
+    "tags": [
+      "turning"
+    ],
+    "text": "The river's course shifted gradually across several dry years, not overnight."
+  },
+  {
+    "id": 3,
+    "importance": 8,
+    "tags": [
+      "memory"
+    ],
+    "text": "I remember replanting the lower terraces three times in one bad stretch because the water simply wasn't reaching them anymore."
+  },
+  {
+    "id": 4,
+    "importance": 7,
+    "tags": [
+      "current_concern"
+    ],
+    "text": "Two of my upper terraces now flood unevenly compared to twenty years ago."
+  },
+  {
+    "id": 5,
+    "importance": 7,
+    "tags": [
+      "drift"
+    ],
+    "text": "I believe the river is still drifting, just slower now than during the Turning itself."
+  },
+  {
+    "id": 6,
+    "importance": 6,
+    "tags": [
+      "mara_teca"
+    ],
+    "text": "Mara wants more seed-grain held back than I think the terraces can spare."
+  },
+  {
+    "id": 7,
+    "importance": 6,
+    "tags": [
+      "compromise"
+    ],
+    "text": "We settle it every season, though neither of us is fully satisfied."
+  },
+  {
+    "id": 8,
+    "importance": 7,
+    "tags": [
+      "noki_teca"
+    ],
+    "text": "Noki reads the gate schedules faster than I did at her age."
+  },
+  {
+    "id": 9,
+    "importance": 5,
+    "tags": [
+      "pride"
+    ],
+    "text": "She'll run these terraces well after I can't."
+  },
+  {
+    "id": 10,
+    "importance": 7,
+    "tags": [
+      "cotton"
+    ],
+    "text": "We grow cotton for trade cloth, but I've cut the cotton acreage twice to protect the grain fields."
+  },
+  {
+    "id": 11,
+    "importance": 6,
+    "tags": [
+      "sena_acol"
+    ],
+    "text": "Sena's weaving guild wants more raw cotton than I can safely spare some seasons."
+  },
+  {
+    "id": 12,
+    "importance": 5,
+    "tags": [
+      "friction"
+    ],
+    "text": "She understands when I say no, even if she doesn't like it."
+  },
+  {
+    "id": 13,
+    "importance": 7,
+    "tags": [
+      "ren_sori"
+    ],
+    "text": "Ren once asked me whether the old field boundary stones matched the current terrace lines."
+  },
+  {
+    "id": 14,
+    "importance": 6,
+    "tags": [
+      "discrepancy"
+    ],
+    "text": "They don't, not exactly. The lines have shifted along with the water."
+  },
+  {
+    "id": 15,
+    "importance": 7,
+    "tags": [
+      "belief_shift"
+    ],
+    "text": "I no longer trust the old planting calendar exactly as written."
+  },
+  {
+    "id": 16,
+    "importance": 6,
+    "tags": [
+      "adjustment"
+    ],
+    "text": "I've quietly adjusted my own sowing dates a few days earlier each year."
+  },
+  {
+    "id": 17,
+    "importance": 5,
+    "tags": [
+      "elira"
+    ],
+    "text": "The archive-keeper asked about old terrace maps once."
+  },
+  {
+    "id": 18,
+    "importance": 6,
+    "tags": [
+      "cooperation"
+    ],
+    "text": "I showed her what I had. She seemed to already suspect what I found."
+  },
+  {
+    "id": 19,
+    "importance": 6,
+    "tags": [
+      "worry"
+    ],
+    "text": "Some low terraces near the Old Canal Bed haven't produced well in years. I keep farming them out of stubbornness, not sense."
+  }
+]

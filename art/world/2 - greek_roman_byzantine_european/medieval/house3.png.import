@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brofbdb3gbfs2"
-path="res://.godot/imported/house3.png-a0befcf8f1dfccfc2c64518263ba03ee.ctex"
+path="res://.godot/imported/house3.png-bb73420832c054a652e0ef415cc90504.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/world/2 - greek:roman:byzantine:european/medieval/house3.png"
-dest_files=["res://.godot/imported/house3.png-a0befcf8f1dfccfc2c64518263ba03ee.ctex"]
+source_file="res://art/world/2 - greek_roman_byzantine_european/medieval/house3.png"
+dest_files=["res://.godot/imported/house3.png-bb73420832c054a652e0ef415cc90504.ctex"]
 
 [params]
 

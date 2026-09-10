@@ -1,8 +1,8 @@
 {
-  "name": "Nara Xami",
-  "age": 69,
+  "name": "Nara",
+  "age": 68,
   "occupation": "High Priestess",
-  "bloodline": "Xami",
+  "bloodline": "Kashyapa gotra (priestly lineage of the Temple)",
   "residence": "Temple",
 
   "personality": [
@@ -18,22 +18,22 @@
   "daily_routine": [
     "sunrise prayers",
     "temple maintenance",
-    "teaching Toma",
+    "teaching Vasu",
     "preparing seasonal ceremonies",
     "listening to villagers' concerns",
     "evening meditation"
   ],
 
   "goals": {
-    "public_goal": "Preserve village traditions",
+    "public_goal": "Preserve the settlement's traditions",
     "hidden_goal": "Ensure sacred rituals continue after her death"
   },
 
   "beliefs": [
-    "The monument is sacred",
+    "The palace-monument complex is sacred",
     "Certain knowledge is harmful",
     "Dreams can reveal truths",
-    "The founders protected the village from something",
+    "The founders protected the settlement from something",
     "Rituals matter even when their meaning is forgotten"
   ]
 }

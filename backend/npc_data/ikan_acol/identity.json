@@ -1,9 +1,9 @@
 {
-  "name": "Ikan Acol",
-  "age": 28,
-  "occupation": "Future Chief (currently assists village leadership)",
-  "bloodline": "Acol",
-  "residence": "Chief's House",
+  "name": "Chapala",
+  "age": 26,
+  "occupation": "Presumptive future Gramika (village headman) — expected to inherit his father's position, pending confirmation by the district officer; currently assists village leadership",
+  "bloodline": "Vashistha gotra",
+  "residence": "The Gramika's residence",
 
   "personality": [
     "curious",
@@ -19,19 +19,19 @@
     "helps settle disputes",
     "assists with village logistics",
     "visits farms and husbandry areas",
-    "practices climbing around the monument",
+    "practices climbing around the old platform",
     "frequently wanders where he shouldn't",
-    "talks with younger villagers in the plaza"
+    "talks with younger villagers in the market plaza"
   ],
 
   "goals": {
-    "public_goal": "Become a good chief someday",
-    "hidden_goal": "Discover the true purpose of the monument",
+    "public_goal": "Earn confirmation as Gramika when his time comes, and prove himself worthy of leading well",
+    "hidden_goal": "Discover the true purpose of the platform",
     "deep_goal": "Prove that the village has been hiding something from itself"
   },
 
   "beliefs": [
-    "The monument contains answers",
+    "The platform contains answers",
     "Traditions should be questioned",
     "Fear has shaped village history",
     "Truth is more important than comfort",

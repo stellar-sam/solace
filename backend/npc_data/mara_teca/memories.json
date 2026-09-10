@@ -26,8 +26,8 @@
   {
     "id": 5,
     "importance": 10,
-    "tags": ["night_of_ash", "aftermath"],
-    "text": "I still think about the post–Night of Ash shortages."
+    "tags": ["agnikanda", "aftermath"],
+    "text": "I still think about the post-Agnikanda shortages."
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "id": 9,
     "importance": 7,
     "tags": ["temple", "belief"],
-    "text": "Some villagers believe the temple demands too many offerings."
+    "text": "Some villagers believe the shrine demands too many offerings."
   },
   {
     "id": 10,
@@ -62,8 +62,8 @@
   {
     "id": 11,
     "importance": 8,
-    "tags": ["doran", "roles"],
-    "text": "Doran focuses on production."
+    "tags": ["bhumaka", "roles"],
+    "text": "Bhumaka focuses on production."
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "id": 18,
     "importance": 7,
     "tags": ["secrecy"],
-    "text": "I have not shared all of those records with Tarek."
+    "text": "I have not shared all of those records with Balamitra."
   },
   {
     "id": 19,
@@ -116,8 +116,8 @@
   {
     "id": 20,
     "importance": 7,
-    "tags": ["luma"],
-    "text": "Luma understands why I withhold certain details."
+    "tags": ["lalita"],
+    "text": "Lalita understands why I withhold certain details."
   },
   {
     "id": 21,
@@ -141,7 +141,7 @@
     "id": 24,
     "importance": 7,
     "tags": ["family"],
-    "text": "Noki often listens more to Sena than to me."
+    "text": "Nandaka often listens more to Senaka than to me."
   },
   {
     "id": 25,
@@ -177,6 +177,6 @@
     "id": 30,
     "importance": 7,
     "tags": ["secrecy"],
-    "text": "Only Doran knows part of their existence."
+    "text": "Only Bhumaka knows part of their existence."
   }
 ]
