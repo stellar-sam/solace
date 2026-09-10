@@ -1,7 +1,0 @@
-1. see active servers: lsof -i :5000
-2. kill servers with id: kill -9 <PID>
-3. start server: python server-local.py
-                    OR
-              	 python server-gemini.py
-
-

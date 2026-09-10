@@ -7,7 +7,7 @@ from google import genai
 import os
 
 
-client = genai.Client(api_key="your-gemini-api-keys") # replace with your Gemini API key
+client = genai.Client(api_key="your-gemini-api-key") # replace with your Gemini API key
 
 app = Flask(__name__)
 
